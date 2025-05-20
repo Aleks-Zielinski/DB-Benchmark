@@ -1,5 +1,5 @@
 # DB-Benchmark
-PostgreSQL and MongoDB benchmark, made for university project.
+PostgreSQL and MongoDB benchmark, made for a university project.
 
 Nicolaus Copernicus University in Toruń,
 Aleks Zieliński & Filip Kalinowski.
