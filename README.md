@@ -9,7 +9,8 @@ May/June 2025.
 - [json folder](./json) containt json files on which the tests were done (json files are in English).
 - [csv folder](./csv) contains data form the benchmark tests.
 - [sql_nosql folder](./sql_nosql) contains queries that were used for the tests.
-- [assets folder](./assets) contains other files that were used for summary, like installation process of databases, screenshots and etc.
+- [latex folder](./latex) contains a .tex file and compiled pdf file from it.
+- [db_schema folder](./db_schema) contains a logical model of our database.
 
 # Our project (in Polish)
 1. Zaprojektować schemat dokumentów JSON dla wybranego tematu. Należy mieć min 2 typy dokumentów na osobę w projekcie. Minimum jeden typ musi mieć dokumenty zagnieżdżone
