@@ -1,0 +1,18 @@
+{
+    "title": "Field_of_sciences",
+    "description": "Table",
+    "type": "object",
+    "properties": {
+        "id": {
+            "description": "Id",
+            "type": "number"
+        },
+        "name": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "id",
+        "name"
+    ]
+}

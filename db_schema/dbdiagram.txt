@@ -1,0 +1,54 @@
+// Use DBML to define your database structure
+// Docs: https://dbml.dbdiagram.io/docs
+
+Table Scientists{
+  id integer [primary key]
+  name text [not null]
+  surname text
+  birthdate date
+  deathdate date
+  place_of_birth_id integer
+}
+
+Table Discoveries{
+  id integer [primary key]
+  name text [not null]
+  year_of_discovery integer
+  field_of_science_id integer [not null]
+}
+
+Table Field_of_sciences{
+  id integer [primary key]
+  name text [not null]
+}
+
+Table Continents{
+  id integer [primary key]
+  size integer [not null]
+  name text [not null]
+}
+
+Table Countries{
+  id integer [primary key]
+  name text [not null]
+  population integer
+  size integer
+  continent_id integer [not null]
+}
+
+Table Cities{
+  id integer [primary key]
+  name text [not null]
+  population integer
+  size integer
+  country_id integer [not null]
+}
+
+// M-N
+Ref Discovered_by: Scientists.id <> Discoveries.id
+
+// 1-N, 1-1
+Ref: Discoveries.field_of_science_id < Field_of_sciences.id
+Ref: Countries.continent_id < Continents.id
+Ref: Cities.country_id < Countries.id
+Ref: Scientists.place_of_birth_id < Cities.id

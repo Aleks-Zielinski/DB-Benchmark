@@ -1,0 +1,30 @@
+{
+    "title": "Cities",
+    "description": "Table",
+    "type": "object",
+    "properties": {
+        "id": {
+            "description": "Id",
+            "type": "number"
+        },
+        "name": {
+            "type": "string"
+        },
+        "data": {
+            "population": {
+                "type": "number"
+            },
+            "size": {
+                "type": "number"
+            }
+        },
+        "country_id": {
+            "type": "number"
+        }
+    },
+    "required": [
+        "id",
+        "name",
+        "country_id"
+    ]
+}

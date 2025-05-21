@@ -1,0 +1,11 @@
+1. Wybierz naukowców którzy pochodzą z azji i odkryli więcej niż 5 rzeczy z biologii lub chemii
+2. Wybierz państwo które ma najwięcej odkryć z fizyki oraz nazwa państwa kończy się na "a"
+3. Zlicz ile odkryć z matematyki ma każdy kontynent
+4. Znajdź naukowców którzy nie żyją i mają wiecej odkryć niż 3 z wszystkiego oprócz fizyki, dodatkowo wypisz liczbę ich odkryć poza fizyką
+5. Znajdź miasto których naukowcy mają najwięcej odkryć w chemii
+6. Znajdź najstarsze i najmłodsze odkrycie z ZSRR z chemii
+7. Znajdź miasto które nie ma żadnych odkryć w biologii po 1960 roku
+8. Znajdź średnią liczbę wszystkich odkryć na rok w każdym państwie w europie
+9. Wypisz dziedzine w której każde państwo z azji dokonało najwięcej odkryć
+10. Wypisz średnią liczbę odkryć na naukowca z każdego kontynetu
+11. Znajdź państwo z największą średnią liczbą odkryć na osobę

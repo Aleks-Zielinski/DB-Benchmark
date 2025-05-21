@@ -1,0 +1,31 @@
+{
+    "title": "Discoveries",
+    "description": "Table of all discoveries",
+    "type": "object",
+    "properties": {
+        "id": {
+            "description": "Id of a discovery",
+            "type": "number"
+        },
+        "name": {
+            "type": "string"
+        },
+        "year_of_discovery": {
+            "type": "number"
+        },
+        "field_of_science_id": {
+            "type": "number"
+        },
+        "discovered_by_ids": {
+            "type": "array",
+            "items": {
+                "type": "number"
+            }
+        }
+    },
+    "required": [
+        "id",
+        "name",
+        "field_of_science_id"
+    ]
+}
