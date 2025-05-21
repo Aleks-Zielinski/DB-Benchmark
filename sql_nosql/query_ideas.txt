@@ -9,3 +9,4 @@
 9. Wypisz dziedzine w której każde państwo z azji dokonało najwięcej odkryć
 10. Wypisz średnią liczbę odkryć na naukowca z każdego kontynetu
 11. Znajdź państwo z największą średnią liczbą odkryć na osobę
+12. Znajdź miasto z którego pochodzący naukowcy dokonali najwięcej odkryć z fizyki
