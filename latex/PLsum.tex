@@ -3,10 +3,9 @@
 \usepackage{bookmark}
 \usepackage{tocloft}
 \usepackage{graphicx}
+\usepackage{subcaption}
 \usepackage[a4paper, total={6in, 9in}]{geometry}
-% \graphicspath{ {./path}}
-% \includegraphics[width=\textwidth]{nazwa}
-% \caption{text}
+\graphicspath{{../tutorial/}{../db_schema}}
 
 \title{\textbf{Benchmark baz danych}}
 \author{Aleks Zieliński, Filip Kalinowski}
@@ -15,30 +14,115 @@
 \hypersetup{hidelinks}
 \renewcommand\contentsname{\hfill\bfseries\Large Rozdziały \hfill}
 \renewcommand{\cftaftertoctitle}{\hfill}
+\DeclareCaptionFormat{custom}
+{%
+    \textbf{#1#2}\textit{\small #3}
+}
+\captionsetup{format=custom}
+\renewcommand{\figurename}{Zdjęcie.}
 
 \begin{document}
 \maketitle
-\tableofcontents
 
+\begingroup
+\tableofcontents
+\endgroup
+
+\newpage
 \section{Informacje wstępne}
-        \subsection{Załozenia projektu}
-                abc
-        \subsection{Użyte technologie i sprzęt}
-                dasds
-        \subsection{Schemat logiczny danych}
-                ffdf
-        \subsection{Zapytania SQL}
-                mnkln
-        \subsection{Zapytania NoSQL}
-\section{Instalacja}
-        \subsection{PostgreSQL}
-                dasdds
-        \subsection{MongoDB}
-                fdfgd
+	\subsection{Załozenia projektu}
+		\begin{itemize}
+			\item Zaprojektować schemat dokumentów JSON dla wybranego tematu. Należy mieć min 2 typy dokumentów na osobę w projekcie. Minimum jeden typ musi mieć dokumenty zagnieżdżone
+			\item  Opracowany model, wraz z propozycją najważniejszych/najbardziej rozbudowanych poleceń należy zatwierdzić u wykładowcy (ew. poprawić wg. sugestii)
+			\item Dla każdego typu dokumentu wygenerować min 100 sensownych instancji. Jeden z typów powinien mieć minimum 500 instancji. Dane można generować automatami typu generatedata.com bądź napisać 4 skrypt w pythonie (dodatkowe punkty).
+			\item  Tak przygotowane dokumenty należy zaimportować do:
+			\begin{enumerate}
+				\item Wybranej bazy NoSQL
+				\item PostgreSQLa do kolumn typu JSONB
+				\item PostgreSQLa przy jednoczesnej konwersji JSON na tabele
+			\end{enumerate}
+			\item Wszystkie 3 procesy importowania należy udokumentować screenshotami i zapisanymi wykorzystanymi poleceniami
+			\item  Należy utworzyć min 4 zapytania na osobę realizujące najważniejsze problemy wyszukiwania w tworzonej bazie. 
+			\item Każde z zapytań musi mieć 3 wersje dla 3 sytuacji z pkt 4. 
+			\item Należy przeprowadzić eksperyment pomiaru czasu wykonania tych zapytań. Aby eksperyment był rzetelnie przeprowadzony, zarówno baza NoSQLowa, jak i PostgreSQL muszą operować w podobnych warunkach: albo obie bazy są postawione w osobnych dockerach, albo zainstalowane w tym samym OS, ale uruchamiane jedna na raz (proces instalacji musi być udokumentowany). Wyniki czasowe należy przedstawić w tabelce
+		\end{itemize}
+	\subsection{Użyte technologie i sprzęt}
+		\begin{itemize}
+			\item PostgreSQL - wersja 16.9
+			\item MongoDB - wersja 8.0.10
+			\item Laptop:
+			\begin{itemize}
+				\item System operacyjny - Linux Mint 22.1
+				\item CPU - Intel i7-9750H
+				\item GPU - Nvidia GTX 1660
+				\item RAM - 16GB 2667 MHz		
+			\end{itemize}
+		\end{itemize}
+	
+\newpage
+	\subsection{Schemat logiczny bazy danych}
+		\begin{figure}[h]
+			\includegraphics[width=\textwidth]{db-bench.png}
+			\caption{Schemat logiczny zrobiony w serwisie dbdiagram.io}
+		\end{figure}
+\section{Instalacja baz danych}
+	\subsection{PostgreSQL}
+		\begin{figure}[h]
+			\includegraphics[width=\textwidth]{1_instalacja_postgresa.png}
+			\caption{Instalacja za pomocą apt}
+		\end{figure}
+		\begin{figure}
+			\includegraphics[width=\textwidth]{2_sprawdzenie_postgresa_i_psql.png}
+			\caption{Po lewej - komenda systemctl aby sprawdzić czy działa, po prawej - logowanie na user, uruchomienie psqgl i test działania}
+		\end{figure}
+		\begin{figure}
+			\includegraphics[width=\textwidth]{3_instalacja_pgadmin_wiem_co_robie.png}
+			\caption{Instalacja pgadmina z serwera ftp PostgreSQL}
+		\end{figure}
+
+\newpage
+	\subsection{MongoDB}
+		\begin{figure}[h]
+			\includegraphics[width=\textwidth]{4_importowanie_klucza_gpg.png}
+			\caption{Importowanie kluczy gpg do MongoDB}
+		\end{figure}
+		\begin{figure}[!h]
+			\includegraphics[width=\textwidth]{5_tworzenie_pliku_z_listami_source_do_repo.png}
+			\caption{Stworzenie pliku z listą źródeł do pobierania repo/package}
+		\end{figure}
+		\begin{figure}
+			\includegraphics[width=\textwidth]{6_instalacja_mongodb.png}
+			\caption{Instalacja MongoDB}
+		\end{figure}
+		\begin{figure}
+			\includegraphics[width=\textwidth]{7_zmiana_ustawien_dotyczacych_plikow.png}
+			\caption{Zwiększenie limitu otwartych plików z 1024 do 64000}
+		\end{figure}
+		\begin{figure}
+			\includegraphics[width=\textwidth]{8_uruchomienie_sprawdzenie_i_aktywacja_autouruchamiania_mongodb.png}
+			\caption{Uruchomienie MongoDB, sprawdzenie statusu i włączenie autouruchamiania}
+		\end{figure}
 \section{Benchmark}
-        \subsection{Zapytanie xyz}
-                iohntr
-        \subsection{Zapytanie abc}
-                opnfj
+	\subsection{Zapytania}
+		\begin{enumerate}
+			\item Wybierz państwo które ma najwięcej odkryć z fizyki oraz nazwa państwa kończy się na "a"
+			\item Znajdź najstarsze i najmłodsze odkrycie z ZSRR z chemii
+			\item Znajdź miasto które nie ma żadnych odkryć w biologii po 1960 roku
+			\item Znajdź średnią liczbę wszystkich odkryć na rok w każdym państwie w europie
+			\item wypisz dziedzine w której każde państwo z azji dokonało najwięcej odkryć
+			\item Wypisz średnią liczbę odkryć na naukowca z każdego kontynetu
+			\item Znajdź państwo z największą średnią liczbą odkryć na osobę
+			\item Znajdź miasto z którego pochodzący naukowcy dokonali najwięcej odkryć z fizyki
+		\end{enumerate}
+	\subsection{Zapytania w PostgreSQL}
+		mnkln
+	\subsection{Zapytania w PostgreSQL w JSONB}
+		faafefe
+	\subsection{Zapytania w MongoDB}
+		cxzkm
+	\subsection{Zapytanie xyz}
+		iohntr
+	\subsection{Zapytanie abc}
+		opnfj
 
 \end{document}
