@@ -1,0 +1,10 @@
+I. 	zwykla instalacja postgresa za pomoca apt
+II. 	uzycie systemctl zeby sprawdzic czy smigga (lewo)
+	-po prawej, logowanie na usera postgres, uruchomienie psql i wypisanie prostego promptu
+III.	instalacja pgadmina na OS linux mint, kiedys sie z tym jebalem z 3h wiec	 wiem co robic dokladnie, pobralem z serwera ftp od pgadmin potrzebne pl	iki i zainstalowalem
+IV.	importowanie kluczy gpg do mongoDB
+V.	stworzenie pliku z lista zrodel do pobierania repo/package
+V + 1/2	sudo apt update na essie
+VI.	zainstalowanie MONGODB blyat
+VII.	dokumentacja kaze zwiekszyc limit otwartych plikow do 64000 (z 1024) bo 	inaczej mongo moze nie mongowac (skull_emoji)
+VIII.	uruchomienie mongodb, sprawdzenie statusu, a potem wlaczenie autouruchamiania
