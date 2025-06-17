@@ -1,0 +1,14 @@
+[
+	{
+		"id": "1",
+		"full_name": {
+			"name": "Albert",
+			"surname": "Einstein"
+		},
+		"dates": {
+			"birthdate": "1879-03-14",
+			"deathdate": "1955-04-18"
+		},
+		"place_of_birth_id": ""
+	},
+]
