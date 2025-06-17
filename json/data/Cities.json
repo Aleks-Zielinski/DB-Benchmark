@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "name": "Ulm",
+        "data": {
+            "population":"128998",
+            "size":"118"
+        },
+        "country_id":""
+    },
+    {
+        "id": "2",
+        "name": "Lochfield",
+        "data": {
+            "population":"NULL",
+            "size":"NULL"
+        },
+        "country_id":""
+    },
+    {
+        "id": "3",
+        "name": "Northampton",
+        "data": {
+            "population":"243511",
+            "size":"61"
+        },
+        "country_id":""
+    },
+    {
+        "id": "4",
+        "name": "Chicago",
+        "data": {
+            "population":"2746388",
+            "size":"606"
+        },
+        "country_id":""
+    },
+    {
+        "id": "5",
+        "name": "Kiel",
+        "data": {
+            "population":"249023",
+            "size":"155"
+        },
+        "country_id":""
+    },
+    {
+        "id": "6",
+        "name": "Warsaw",
+        "data": {
+            "population":"1861975",
+            "size":"517"
+        },
+        "country_id":""
+    },
+    {
+        "id": "7",
+        "name": "Vienna",
+        "data": {
+            "population":"1973403",
+            "size":"414"
+        },
+        "country_id":""
+    },
+    {
+        "id": "8",
+        "name": "Lichfield",
+        "data": {
+            "population":"32575",
+            "size":"9"
+        },
+        "country_id":""
+    }
+]
