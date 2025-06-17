@@ -3,72 +3,828 @@
         "id": "1",
         "name": "Ulm",
         "data": {
-            "population":"128998",
-            "size":"118"
+            "population": "129000",
+            "size": "118"
         },
-        "country_id":""
+        "country_id": "4"
     },
     {
         "id": "2",
         "name": "Lochfield",
         "data": {
-            "population":"NULL",
-            "size":"NULL"
+            "population": "34700",
+            "size": "14"
         },
-        "country_id":""
+        "country_id": "8"
     },
     {
         "id": "3",
         "name": "Northampton",
         "data": {
-            "population":"243511",
-            "size":"61"
+            "population": "243500",
+            "size": "61"
         },
-        "country_id":""
+        "country_id": "8"
     },
     {
         "id": "4",
         "name": "Chicago",
         "data": {
-            "population":"2746388",
-            "size":"606"
+            "population": "2746400",
+            "size": "606"
         },
-        "country_id":""
+        "country_id": "6"
     },
     {
         "id": "5",
         "name": "Kiel",
         "data": {
-            "population":"249023",
-            "size":"155"
+            "population": "249000",
+            "size": "155"
         },
-        "country_id":""
+        "country_id": "4"
     },
     {
         "id": "6",
         "name": "Warsaw",
         "data": {
-            "population":"1861975",
-            "size":"517"
+            "population": "1862000",
+            "size": "517"
         },
-        "country_id":""
+        "country_id": "1"
     },
     {
         "id": "7",
         "name": "Vienna",
         "data": {
-            "population":"1973403",
-            "size":"414"
+            "population": "1973400",
+            "size": "414"
         },
-        "country_id":""
+        "country_id": "31"
     },
     {
         "id": "8",
         "name": "Lichfield",
         "data": {
-            "population":"32575",
-            "size":"9"
+            "population": "32600",
+            "size": "9"
         },
-        "country_id":""
+        "country_id": "8"
+    },
+    {
+        "id": "9",
+        "name": "Dayton",
+        "data": {
+            "population": "138000",
+            "size": "148"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "10",
+        "name": "Millville",
+        "data": {
+            "population": "NULL",
+            "size": "NULL"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "11",
+        "name": "Heidelberg",
+        "data": {
+            "population": "162000",
+            "size": "109"
+        },
+        "country_id": "4"
+    },
+    {
+        "id": "12",
+        "name": "Wiesbaden",
+        "data": {
+            "population": "283000",
+            "size": "204"
+        },
+        "country_id": "4"
+    },
+    {
+        "id": "13",
+        "name": "Alliston",
+        "data": {
+            "population": "23000",
+            "size": "19"
+        },
+        "country_id": "7"
+    },
+    {
+        "id": "14",
+        "name": "Pembroke",
+        "data": {
+            "population": "788",
+            "size": "91"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "15",
+        "name": "Madison",
+        "data": {
+            "population": "270000",
+            "size": "263"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "16",
+        "name": "Xiamen",
+        "data": {
+            "population": "5164000",
+            "size": "1701"
+        },
+        "country_id": "38"
+    },
+    {
+        "id": "17",
+        "name": "Los Angeles",
+        "data": {
+            "population": "3900000",
+            "size": "1291"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "18",
+        "name": "Copenhagen",
+        "data": {
+            "population": "667000",
+            "size": "526"
+        },
+        "country_id": "12"
+    },
+    {
+        "id": "19",
+        "name": "Wurzburg",
+        "data": {
+            "population": "128000",
+            "size": "88"
+        },
+        "country_id": "4"
+    },
+    {
+        "id": "20",
+        "name": "Rome",
+        "data": {
+            "population": "2747000",
+            "size": "1285"
+        },
+        "country_id": "19"
+    },
+    {
+        "id": "21",
+        "name": "Bologna",
+        "data": {
+            "population": "391000",
+            "size": "141"
+        },
+        "country_id": "19"
+    },
+    {
+        "id": "22",
+        "name": "Lennep",
+        "data": {
+            "population": "114000",
+            "size": "75"
+        },
+        "country_id": "4"
+    },
+    {
+        "id": "23",
+        "name": "Semarang",
+        "data": {
+            "population": "1700000",
+            "size": "374"
+        },
+        "country_id": "56"
+    },
+    {
+        "id": "24",
+        "name": "Kcynia",
+        "data": {
+            "population": "4700",
+            "size": "7"
+        },
+        "country_id": "1"
+    },
+    {
+        "id": "25",
+        "name": "New York",
+        "data": {
+            "population": "8800000",
+            "size": "1224"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "26",
+        "name": "Helensburgh",
+        "data": {
+            "population": "13000",
+            "size": "5"
+        },
+        "country_id": "8"
+    },
+    {
+        "id": "27",
+        "name": "Eastbourne",
+        "data": {
+            "population": "102000",
+            "size": "44"
+        },
+        "country_id": "8"
+    },
+    {
+        "id": "28",
+        "name": "Strzelin",
+        "data": {
+            "population": "12500",
+            "size": "10"
+        },
+        "country_id": "1"
+    },
+    {
+        "id": "29",
+        "name": "Ghent",
+        "data": {
+            "population": "265000",
+            "size": "158"
+        },
+        "country_id": "25"
+    },
+    {
+        "id": "30",
+        "name": "Bydgoszcz",
+        "data": {
+            "population": "330000",
+            "size": "176"
+        },
+        "country_id": "1"
+    },
+    {
+        "id": "31",
+        "name": "Kiev",
+        "data": {
+            "population": "2950000",
+            "size": "839"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "32",
+        "name": "Budapest",
+        "data": {
+            "population": "1780000",
+            "size": "2538"
+        },
+        "country_id": "14"
+    },
+    {
+        "id": "33",
+        "name": "Prerov",
+        "data": {
+            "population": "41000",
+            "size": "59"
+        },
+        "country_id": "13"
+    },
+    {
+        "id": "34",
+        "name": "Lenoir",
+        "data": {
+            "population": "18400",
+            "size": "54"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "35",
+        "name": "London",
+        "data": {
+            "population": "8870000",
+            "size": "1738"
+        },
+        "country_id": "8"
+    },
+    {
+        "id": "36",
+        "name": "Beaufort West",
+        "data": {
+            "population": "34000",
+            "size": "57"
+        },
+        "country_id": "62"
+    },
+    {
+        "id": "37",
+        "name": "Rochester",
+        "data": {
+            "population": "211000",
+            "size": "96"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "38",
+        "name": "Vicenza",
+        "data": {
+            "population": "112000",
+            "size": "80"
+        },
+        "country_id": "19"
+    },
+    {
+        "id": "39",
+        "name": "Berndorf",
+        "data": {
+            "population": "506",
+            "size": "9"
+        },
+        "country_id": "4"
+    },
+    {
+        "id": "40",
+        "name": "Burlington",
+        "data": {
+            "population": "24000",
+            "size": "39"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "41",
+        "name": "Groningen",
+        "data": {
+            "population": "245000",
+            "size": "198"
+        },
+        "country_id": "26"
+    },
+    {
+        "id": "42",
+        "name": "Łagów",
+        "data": {
+            "population": "NULL",
+            "size": "NULL"
+        },
+        "country_id": "1"
+    },
+    {
+        "id": "43",
+        "name": "Waldstein",
+        "data": {
+            "population": "NULL",
+            "size": "NULL"
+        },
+        "country_id": "31"
+    },
+    {
+        "id": "44",
+        "name": "Pfaffendorf",
+        "data": {
+            "population": "NULL",
+            "size": "NULL"
+        },
+        "country_id": "4"
+    },
+    {
+        "id": "45",
+        "name": "Westward",
+        "data": {
+            "population": "838",
+            "size": "NULL"
+        },
+        "country_id": "8"
+    },
+    {
+        "id": "46",
+        "name": "Leiden",
+        "data": {
+            "population": "124000",
+            "size": "23"
+        },
+        "country_id": "26"
+    },
+    {
+        "id": "47",
+        "name": "Kaliningrad",
+        "data": {
+            "population": "431000",
+            "size": "223"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "48",
+        "name": "Lancaster",
+        "data": {
+            "population": "52000",
+            "size": "NULL"
+        },
+        "country_id": "8"
+    },
+    {
+        "id": "49",
+        "name": "Columbia",
+        "data": {
+            "population": "137000",
+            "size": "364"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "50",
+        "name": "Petoskey",
+        "data": {
+            "population": "5900",
+            "size": "14"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "51",
+        "name": "Avanca",
+        "data": {
+            "population": "6200",
+            "size": "21"
+        },
+        "country_id": "22"
+    },
+    {
+        "id": "52",
+        "name": "Culloden",
+        "data": {
+            "population": "200",
+            "size": "2"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "53",
+        "name": "Cleveland",
+        "data": {
+            "population": "373000",
+            "size": "83"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "54",
+        "name": "Portland",
+        "data": {
+            "population": "653000",
+            "size": "376"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "55",
+        "name": "Pribor",
+        "data": {
+            "population": "8300",
+            "size": "22"
+        },
+        "country_id": "13"
+    },
+    {
+        "id": "56",
+        "name": "Kolled",
+        "data": {
+            "population": "6500",
+            "size": "90"
+        },
+        "country_id": "3"
+    },
+    {
+        "id": "57",
+        "name": "Newark",
+        "data": {
+            "population": "312000",
+            "size": "67"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "58",
+        "name": "Olten",
+        "data": {
+            "population": "18000",
+            "size": "12"
+        },
+        "country_id": "20"
+    },
+    {
+        "id": "59",
+        "name": "Berlin",
+        "data": {
+            "population": "3600000",
+            "size": "3743"
+        },
+        "country_id": "3"
+    },
+    {
+        "id": "60",
+        "name": "Ohringen",
+        "data": {
+            "population": "25000",
+            "size": "68"
+        },
+        "country_id": "4"
+    },
+    {
+        "id": "61",
+        "name": "Bayonne",
+        "data": {
+            "population": "53000",
+            "size": "22"
+        },
+        "country_id": "2"
+    },
+    {
+        "id": "62",
+        "name": "Paris",
+        "data": {
+            "population": "2000000",
+            "size": "2824"
+        },
+        "country_id": "2"
+    },
+    {
+        "id": "63",
+        "name": "Hard",
+        "data": {
+            "population": "NULL",
+            "size": "NULL"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "64",
+        "name": "Bremerhaven",
+        "data": {
+            "population": "115500",
+            "size": "84"
+        },
+        "country_id": "4"
+    },
+    {
+        "id": "65",
+        "name": "Edinburgh",
+        "data": {
+            "population": "515000",
+            "size": "263"
+        },
+        "country_id": "8"
+    },
+    {
+        "id": "66",
+        "name": "Milan",
+        "data": {
+            "population": "1370",
+            "size": "3"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "67",
+        "name": "Besancon",
+        "data": {
+            "population": "120000",
+            "size": "65"
+        },
+        "country_id": "2"
+    },
+    {
+        "id": "68",
+        "name": "Moline",
+        "data": {
+            "population": "43000",
+            "size": "44"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "69",
+        "name": "Minehead",
+        "data": {
+            "population": "11800",
+            "size": "NULL"
+        },
+        "country_id": "8"
+    },
+    {
+        "id": "70",
+        "name": "San Francisco",
+        "data": {
+            "population": "874000",
+            "size": "601"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "71",
+        "name": "Sutton-on-Trent",
+        "data": {
+            "population": "1400",
+            "size": "11"
+        },
+        "country_id": "8"
+    },
+    {
+        "id": "72",
+        "name": "Johannesburg",
+        "data": {
+            "population": "4800000",
+            "size": "335"
+        },
+        "country_id": "62"
+    },
+    {
+        "id": "73",
+        "name": "Sidney",
+        "data": {
+            "population": "20600",
+            "size": "31"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "74",
+        "name": "Pretoria",
+        "data": {
+            "population": "2818000",
+            "size": "688"
+        },
+        "country_id": "62"
+    },
+    {
+        "id": "75",
+        "name": "Hampton Lucy",
+        "data": {
+            "population": "566",
+            "size": "NULL"
+        },
+        "country_id": "8"
+    },
+    {
+        "id": "76",
+        "name": "Tulsa",
+        "data": {
+            "population": "413000",
+            "size": "523"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "77",
+        "name": "Staunton",
+        "data": {
+            "population": "25750",
+            "size": "52"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "78",
+        "name": "Oakland",
+        "data": {
+            "population": "440000",
+            "size": "202"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "79",
+        "name": "Shanghai",
+        "data": {
+            "population": "24900000",
+            "size": "6341"
+        },
+        "country_id": "38"
+    },
+    {
+        "id": "80",
+        "name": "Southend-on-Sea",
+        "data": {
+            "population": "181000",
+            "size": "42"
+        },
+        "country_id": "8"
+    },
+    {
+        "id": "81",
+        "name": "Lviv",
+        "data": {
+            "population": "717000",
+            "size": "149"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "82",
+        "name": "Washington",
+        "data": {
+            "population": "689500",
+            "size": "177"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "83",
+        "name": "Hyncice",
+        "data": {
+            "population": "197",
+            "size": "6"
+        },
+        "country_id": "13"
+    },
+    {
+        "id": "84",
+        "name": "Frankfurt",
+        "data": {
+            "population": "773000",
+            "size": "248"
+        },
+        "country_id": "4"
+    },
+    {
+        "id": "85",
+        "name": "Boppard",
+        "data": {
+            "population": "15600",
+            "size": "75"
+        },
+        "country_id": "4"
+    },
+    {
+        "id": "86",
+        "name": "Zaduszniki",
+        "data": {
+            "population": "NULL",
+            "size": "NULL"
+        },
+        "country_id": "1"
+    },
+    {
+        "id": "87",
+        "name": "Greenville",
+        "data": {
+            "population": "70700",
+            "size": "78"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "88",
+        "name": "Tobolsk",
+        "data": {
+            "population": "100000",
+            "size": "222"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "89",
+        "name": "Hale",
+        "data": {
+            "population": "NULL",
+            "size": "NULL"
+        },
+        "country_id": "8"
+    },
+    {
+        "id": "90",
+        "name": "Cavendish",
+        "data": {
+            "population": "1390",
+            "size": "103"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "91",
+        "name": "Lexington",
+        "data": {
+            "population": "322600",
+            "size": "227"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "92",
+        "name": "Seattle",
+        "data": {
+            "population": "737000",
+            "size": "368"
+        },
+        "country_id": "6"
     }
 ]
