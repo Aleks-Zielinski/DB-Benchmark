@@ -9,6 +9,102 @@
 			"birthdate": "1879-03-14",
 			"deathdate": "1955-04-18"
 		},
+		"place_of_birth_id": "1"
+	},
+	{
+		"id": "2",
+		"full_name": {
+			"name": "Alexander",
+			"surname": "Fleming"
+		},
+		"dates": {
+			"birthdate": "1881-08-06",
+			"deathdate": "1955-03-11"
+		},
+		"place_of_birth_id": "2"
+	},
+	{
+		"id": "3",
+		"full_name": {
+			"name": "Francis",
+			"surname": "Crick"
+		},
+		"dates": {
+			"birthdate": "1916-06-08",
+			"deathdate": "2004-07-28"
+		},
+		"place_of_birth_id": "3"
+	},
+	{
+		"id": "4",
+		"full_name": {
+			"name": "James",
+			"surname": "Watson"
+		},
+		"dates": {
+			"birthdate": "1928-04-06",
+			"deathdate": "2024-12-01"
+		},
+		"place_of_birth_id": "4"
+	},
+	{
+		"id": "5",
+		"full_name": {
+			"name": "Max",
+			"surname": "Planck"
+		},
+		"dates": {
+			"birthdate": "1858-04-23",
+			"deathdate": "1947-10-04"
+		},
+		"place_of_birth_id": "5"
+	},
+	{
+		"id": "6",
+		"full_name": {
+			"name": "Orville",
+			"surname": "Wright"
+		},
+		"dates": {
+			"birthdate": "1871-08-19",
+			"deathdate": "1948-01-30"
+		},
+		"place_of_birth_id": ""
+	},
+	{
+		"id": "7",
+		"full_name": {
+			"name": "Wilbur",
+			"surname": "Wright"
+		},
+		"dates": {
+			"birthdate": "1867-04-16",
+			"deathdate": "1912-05-30"
+		},
+		"place_of_birth_id": ""
+	},
+	{
+		"id": "8",
+		"full_name": {
+			"name": "Marie",
+			"surname": "Curie"
+		},
+		"dates": {
+			"birthdate": "",
+			"deathdate": ""
+		},
+		"place_of_birth_id": ""
+	},
+	{
+		"id": "",
+		"full_name": {
+			"name": "",
+			"surname": ""
+		},
+		"dates": {
+			"birthdate": "",
+			"deathdate": ""
+		},
 		"place_of_birth_id": ""
 	},
 ]
