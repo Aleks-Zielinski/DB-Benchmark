@@ -63,15 +63,6 @@
         "continent_id": "3"
     },
     {
-        "id": "102",
-        "name": "Mexico",
-        "data": {
-            "population": "132000000",
-            "size": "2000000"
-        },
-        "continent_id": "3"
-    },
-    {
         "id": "8",
         "name": "United Kingdom",
         "data": {
@@ -916,5 +907,14 @@
             "size": "391000"
         },
         "continent_id": "6"
+    },
+    {
+        "id": "102",
+        "name": "Mexico",
+        "data": {
+            "population": "132000000",
+            "size": "2000000"
+        },
+        "continent_id": "3"
     }
 ]

@@ -826,5 +826,302 @@
             "size": "368"
         },
         "country_id": "6"
+    },
+    {
+        "id": "93",
+        "name": "Toruń",
+        "data": {
+            "population": "197000",
+            "size": "116"
+        },
+        "country_id": "1"
+    },
+    {
+        "id": "94",
+        "name": "Gdańsk",
+        "data": {
+            "population": "486000",
+            "size": "683"
+        },
+        "country_id": "1"
+    },
+    {
+        "id": "95",
+        "name": "Kraków",
+        "data": {
+            "population": "804000",
+            "size": "327"
+        },
+        "country_id": "1"
+    },
+    {
+        "id": "96",
+        "name": "Katowice",
+        "data": {
+            "population": "287000",
+            "size": "165"
+        },
+        "country_id": "1"
+    },
+    {
+        "id": "97",
+        "name": "Wrocław",
+        "data": {
+            "population": "674000",
+            "size": "293"
+        },
+        "country_id": "1"
+    },
+    {
+        "id": "98",
+        "name": "Moscow",
+        "data": {
+            "population": "13000000",
+            "size": "2562"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "99",
+        "name": "Leningrad",
+        "data": {
+            "population": "5600000",
+            "size": "1439"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "100",
+        "name": "Stalingrad",
+        "data": {
+            "population": "1020000",
+            "size": "859"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "101",
+        "name": "Ufa",
+        "data": {
+            "population": "1060000",
+            "size": "708"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "102",
+        "name": "Baltiysk",
+        "data": {
+            "population": "32700",
+            "size": "NULL"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "103",
+        "name": "Riga",
+        "data": {
+            "population": "592000",
+            "size": "304"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "104",
+        "name": "Tallinn",
+        "data": {
+            "population": "462000",
+            "size": "159"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "105",
+        "name": "Vilnius",
+        "data": {
+            "population": "608000",
+            "size": "401"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "106",
+        "name": "Minsk",
+        "data": {
+            "population": "1997000",
+            "size": "410"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "107",
+        "name": "Vladivostok",
+        "data": {
+            "population": "605000",
+            "size": "331"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "108",
+        "name": "Sevastopol",
+        "data": {
+            "population": "548000",
+            "size": "864"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "109",
+        "name": "Baku",
+        "data": {
+            "population": "2345000",
+            "size": "2140"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "110",
+        "name": "Astana",
+        "data": {
+            "population": "1424000",
+            "size": "810"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "111",
+        "name": "Murmansk",
+        "data": {
+            "population": "270000",
+            "size": "168"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "112",
+        "name": "Donetsk",
+        "data": {
+            "population": "902000",
+            "size": "358"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "113",
+        "name": "Mariupol",
+        "data": {
+            "population": "426000",
+            "size": "244"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "114",
+        "name": "Kursk",
+        "data": {
+            "population": "415000",
+            "size": "189"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "115",
+        "name": "Smolensk",
+        "data": {
+            "population": "327000",
+            "size": "166"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "116",
+        "name": "Kharkiv",
+        "data": {
+            "population": "1421000",
+            "size": "350"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "117",
+        "name": "Krasnodar",
+        "data": {
+            "population": "745000",
+            "size": "NULL"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "118",
+        "name": "Rostov-on-Don",
+        "data": {
+            "population": "1090000",
+            "size": "349"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "119",
+        "name": "Saratov",
+        "data": {
+            "population": "838000",
+            "size": "NULL"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "120",
+        "name": "Samara",
+        "data": {
+            "population": "1165000",
+            "size": "541"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "121",
+        "name": "Omsk",
+        "data": {
+            "population": "1154000",
+            "size": "567"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "122",
+        "name": "Novosibirsk",
+        "data": {
+            "population": "1474000",
+            "size": "503"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "123",
+        "name": "Krasnoyarsk",
+        "data": {
+            "population": "1091000",
+            "size": "348"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "124",
+        "name": "Irkutsk",
+        "data": {
+            "population": "588000",
+            "size": "277"
+        },
+        "country_id": "5"
+    },
+    {
+        "id": "",
+        "name": "",
+        "data": {
+            "population": "",
+            "size": ""
+        },
+        "country_id": ""
     }
 ]
