@@ -1,0 +1,2306 @@
+1. Szczególna teoria względności (1905)
+Naukowiec: Albert Einstein
+
+imię: Albert
+
+nazwisko: Einstein
+
+data urodzenia: 1879-03-14
+
+data śmierci: 1955-04-18
+
+miejsce urodzenia: Ulm, Niemcy
+
+Odkrycie: Szczególna teoria względności
+
+nazwa: Szczególna teoria względności
+
+rok odkrycia: 1905
+
+dziedzina naukowa: Fizyka
+
+2. Penicylina (1928)
+Naukowiec: Alexander Fleming
+
+imię: Alexander
+
+nazwisko: Fleming
+
+data urodzenia: 1881-08-06
+
+data śmierci: 1955-03-11
+
+miejsce urodzenia: Lochfield, Szkocja
+
+Odkrycie: Penicylina
+
+nazwa: Penicylina
+
+rok odkrycia: 1928
+
+dziedzina naukowa: Medycyna
+
+3. Struktura DNA (1953)
+Naukowiec 1: Francis Crick
+
+imię: Francis
+
+nazwisko: Crick
+
+data urodzenia: 1916-06-08
+
+data śmierci: 2004-07-28
+
+miejsce urodzenia: Northampton, Anglia
+
+Naukowiec 2: James Watson
+
+imię: James
+
+nazwisko: Watson
+
+data urodzenia: 1928-04-06
+
+data śmierci: 2024-12-01
+
+miejsce urodzenia: Chicago, USA
+
+Odkrycie: Struktura DNA
+
+nazwa: Struktura DNA
+
+rok odkrycia: 1953
+
+dziedzina naukowa: Biologia
+
+4. Teoria kwantów (1900)
+Naukowiec: Max Planck
+
+imię: Max
+
+nazwisko: Planck
+
+data urodzenia: 1858-04-23
+
+data śmierci: 1947-10-04
+
+miejsce urodzenia: Kiel, Niemcy
+
+Odkrycie: Teoria kwantów
+
+nazwa: Teoria kwantów
+
+rok odkrycia: 1900
+
+dziedzina naukowa: Fizyka
+
+5. Samolot (1903)
+Naukowiec 1: Orville Wright
+
+imię: Orville
+
+nazwisko: Wright
+
+data urodzenia: 1871-08-19
+
+data śmierci: 1948-01-30
+
+miejsce urodzenia: Dayton, USA
+
+Naukowiec 2: Wilbur Wright
+
+imię: Wilbur
+
+nazwisko: Wright
+
+data urodzenia: 1867-04-16
+
+data śmierci: 1912-05-30
+
+miejsce urodzenia: Millville, USA
+
+Odkrycie: Samolot
+
+nazwa: Samolot
+
+rok odkrycia: 1903
+
+dziedzina naukowa: Technologia
+
+6. Radioaktywność (1896)
+Naukowiec 1: Marie Curie
+
+imię: Marie
+
+nazwisko: Curie
+
+data urodzenia: 1867-11-07
+
+data śmierci: 1934-07-04
+
+miejsce urodzenia: Warszawa, Polska
+
+Naukowiec 2: Pierre Curie
+
+imię: Pierre
+
+nazwisko: Curie
+
+data urodzenia: 1859-05-15
+
+data śmierci: 1906-04-19
+
+miejsce urodzenia: Paryż, Francja
+
+Odkrycie: Radioaktywność
+
+nazwa: Radioaktywność
+
+rok odkrycia: 1896
+
+dziedzina naukowa: Fizyka
+
+7. Mikroskop elektronowy (1931)
+Naukowiec 1: Ernst Ruska
+
+imię: Ernst
+
+nazwisko: Ruska
+
+data urodzenia: 1906-12-25
+
+data śmierci: 1988-05-27
+
+miejsce urodzenia: Heidelberg, Niemcy
+
+Naukowiec 2: Max Knoll
+
+imię: Max
+
+nazwisko: Knoll
+
+data urodzenia: 1897-07-17
+
+data śmierci: 1969-11-06
+
+miejsce urodzenia: Wiesbaden, Niemcy
+
+Odkrycie: Mikroskop elektronowy
+
+nazwa: Mikroskop elektronowy
+
+rok odkrycia: 1931
+
+dziedzina naukowa: Technologia
+
+8. Ogólna teoria względności (1915)
+Naukowiec: Albert Einstein
+
+imię: Albert
+
+nazwisko: Einstein
+
+data urodzenia: 1879-03-14
+
+data śmierci: 1955-04-18
+
+miejsce urodzenia: Ulm, Niemcy
+
+Odkrycie: Ogólna teoria względności
+
+nazwa: Ogólna teoria względności
+
+rok odkrycia: 1915
+
+dziedzina naukowa: Fizyka
+
+9. Insulina (1921)
+Naukowiec 1: Frederick Banting
+
+imię: Frederick
+
+nazwisko: Banting
+
+data urodzenia: 1891-11-14
+
+data śmierci: 1941-02-21
+
+miejsce urodzenia: Alliston, Kanada
+
+Naukowiec 2: Charles Best
+
+imię: Charles
+
+nazwisko: Best
+
+data urodzenia: 1899-02-27
+
+data śmierci: 1978-03-31
+
+miejsce urodzenia: West Pembroke, USA
+
+Odkrycie: Insulina
+
+nazwa: Insulina
+
+rok odkrycia: 1921
+
+dziedzina naukowa: Medycyna
+
+10. Tranzystor (1947)
+Naukowiec 1: John Bardeen
+
+imię: John
+
+nazwisko: Bardeen
+
+data urodzenia: 1908-05-23
+
+data śmierci: 1991-01-30
+
+miejsce urodzenia: Madison, USA
+
+Naukowiec 2: Walter Brattain
+
+imię: Walter
+
+nazwisko: Brattain
+
+data urodzenia: 1902-02-10
+
+data śmierci: 1987-10-13
+
+miejsce urodzenia: Xiamen, Chiny
+
+Odkrycie: Tranzystor
+
+nazwa: Tranzystor
+
+rok odkrycia: 1947
+
+dziedzina naukowa: Technologia
+
+11. Laser (1960)
+Naukowiec: Theodore Maiman
+
+imię: Theodore
+
+nazwisko: Maiman
+
+data urodzenia: 1927-07-11
+
+data śmierci: 2007-05-05
+
+miejsce urodzenia: Los Angeles, USA
+
+Odkrycie: Laser
+
+nazwa: Laser
+
+rok odkrycia: 1960
+
+dziedzina naukowa: Technologia
+
+12. Model atomu (1913)
+Naukowiec: Niels Bohr
+
+imię: Niels
+
+nazwisko: Bohr
+
+data urodzenia: 1885-10-07
+
+data śmierci: 1962-11-18
+
+miejsce urodzenia: Kopenhaga, Dania
+
+Odkrycie: Model atomu
+
+nazwa: Model atomu
+
+rok odkrycia: 1913
+
+dziedzina naukowa: Fizyka
+
+13. Zasada nieoznaczoności (1927)
+Naukowiec: Werner Heisenberg
+
+imię: Werner
+
+nazwisko: Heisenberg
+
+data urodzenia: 1901-12-05
+
+data śmierci: 1976-02-01
+
+miejsce urodzenia: Würzburg, Niemcy
+
+Odkrycie: Zasada nieoznaczoności
+
+nazwa: Zasada nieoznaczoności
+
+rok odkrycia: 1927
+
+dziedzina naukowa: Fizyka
+
+14. Równanie Schrödingera (1926)
+Naukowiec: Erwin Schrödinger
+
+imię: Erwin
+
+nazwisko: Schrödinger
+
+data urodzenia: 1887-08-12
+
+data śmierci: 1961-01-04
+
+miejsce urodzenia: Wiedeń, Austria
+
+Odkrycie: Równanie Schrödingera
+
+nazwa: Równanie Schrödingera
+
+rok odkrycia: 1926
+
+dziedzina naukowa: Fizyka
+
+15. Reakcja łańcuchowa (1942)
+Naukowiec: Enrico Fermi
+
+imię: Enrico
+
+nazwisko: Fermi
+
+data urodzenia: 1901-09-29
+
+data śmierci: 1954-11-28
+
+miejsce urodzenia: Rzym, Włochy
+
+Odkrycie: Reakcja łańcuchowa
+
+nazwa: Reakcja łańcuchowa
+
+rok odkrycia: 1942
+
+dziedzina naukowa: Fizyka
+
+16. Radio (1896)
+Naukowiec: Guglielmo Marconi
+
+imię: Guglielmo
+
+nazwisko: Marconi
+
+data urodzenia: 1874-04-25
+
+data śmierci: 1937-07-20
+
+miejsce urodzenia: Bolonia, Włochy
+
+Odkrycie: Radio
+
+nazwa: Radio
+
+rok odkrycia: 1896
+
+dziedzina naukowa: Technologia
+
+17. Grupy krwi (1901)
+Naukowiec: Karl Landsteiner
+
+imię: Karl
+
+nazwisko: Landsteiner
+
+data urodzenia: 1868-06-14
+
+data śmierci: 1943-06-26
+
+miejsce urodzenia: Wiedeń, Austria
+
+Odkrycie: Grupy krwi
+
+nazwa: Grupy krwi
+
+rok odkrycia: 1901
+
+dziedzina naukowa: Medycyna
+
+18. Promienie X (1895)
+Naukowiec: Wilhelm Roentgen
+
+imię: Wilhelm
+
+nazwisko: Roentgen
+
+data urodzenia: 1845-03-27
+
+data śmierci: 1923-02-10
+
+miejsce urodzenia: Lennep, Niemcy
+
+Odkrycie: Promienie X
+
+nazwa: Promienie X
+
+rok odkrycia: 1895
+
+dziedzina naukowa: Fizyka
+
+19. Elektrokardiogram (1903)
+Naukowiec: Willem Einthoven
+
+imię: Willem
+
+nazwisko: Einthoven
+
+data urodzenia: 1860-05-21
+
+data śmierci: 1927-09-28
+
+miejsce urodzenia: Semarang, Holenderskie Indie Wschodnie
+
+Odkrycie: Elektrokardiogram
+
+nazwa: Elektrokardiogram
+
+rok odkrycia: 1903
+
+dziedzina naukowa: Medycyna
+
+20. Metoda Czochralskiego (1916)
+Naukowiec: Jan Czochralski
+
+imię: Jan
+
+nazwisko: Czochralski
+
+data urodzenia: 1885-10-23
+
+data śmierci: 1953-04-22
+
+miejsce urodzenia: Kcynia, Polska
+
+Odkrycie: Metoda Czochralskiego
+
+nazwa: Metoda Czochralskiego
+
+rok odkrycia: 1916
+
+dziedzina naukowa: Technologia
+
+21. Szczepionka przeciw polio (1952)
+Naukowiec: Jonas Salk
+
+imię: Jonas
+
+nazwisko: Salk
+
+data urodzenia: 1914-10-28
+
+data śmierci: 1995-06-23
+
+miejsce urodzenia: Nowy Jork, USA
+
+Odkrycie: Szczepionka przeciw polio
+
+nazwa: Szczepionka przeciw polio
+
+rok odkrycia: 1952
+
+dziedzina naukowa: Medycyna
+
+22. Telewizja (1925)
+Naukowiec: John Logie Baird
+
+imię: John
+
+nazwisko: Baird
+
+data urodzenia: 1888-08-13
+
+data śmierci: 1946-06-14
+
+miejsce urodzenia: Helensburgh, Szkocja
+
+Odkrycie: Telewizja
+
+nazwa: Telewizja
+
+rok odkrycia: 1925
+
+dziedzina naukowa: Technologia
+
+23. Witaminy (1906)
+Naukowiec: Frederick Hopkins
+
+imię: Frederick
+
+nazwisko: Hopkins
+
+data urodzenia: 1861-06-20
+
+data śmierci: 1947-05-16
+
+miejsce urodzenia: Eastbourne, Anglia
+
+Odkrycie: Witaminy
+
+nazwa: Witaminy
+
+rok odkrycia: 1906
+
+dziedzina naukowa: Medycyna
+
+24. Chemioterapia (1907)
+Naukowiec: Paul Ehrlich
+
+imię: Paul
+
+nazwisko: Ehrlich
+
+data urodzenia: 1854-03-14
+
+data śmierci: 1915-08-20
+
+miejsce urodzenia: Strzelin, Polska
+
+Odkrycie: Chemioterapia
+
+nazwa: Chemioterapia
+
+rok odkrycia: 1907
+
+dziedzina naukowa: Medycyna
+
+25. Tworzywa sztuczne (1907)
+Naukowiec: Leo Baekeland
+
+imię: Leo
+
+nazwisko: Baekeland
+
+data urodzenia: 1863-11-14
+
+data śmierci: 1944-02-23
+
+miejsce urodzenia: Ghent, Belgia
+
+Odkrycie: Tworzywa sztuczne
+
+nazwa: Tworzywa sztuczne
+
+rok odkrycia: 1907
+
+dziedzina naukowa: Chemia
+
+Kompletne zestawy danych (26-50)
+26. Deszyfrowanie Enigmy (1932)
+Naukowiec 1: Marian Rejewski
+
+imię: Marian
+
+nazwisko: Rejewski
+
+data urodzenia: 1905-08-16
+
+data śmierci: 1980-02-13
+
+miejsce urodzenia: Bromberg, Niemcy
+
+Naukowiec 2: Jerzy Różycki
+
+imię: Jerzy
+
+nazwisko: Różycki
+
+data urodzenia: 1909-07-24
+
+data śmierci: 1942-01-09
+
+miejsce urodzenia: Kijów, Rosja
+
+Odkrycie: Deszyfrowanie Enigmy
+
+nazwa: Deszyfrowanie Enigmy
+
+rok odkrycia: 1932
+
+dziedzina naukowa: Technologia
+
+27. Komputer (1946)
+Naukowiec: John von Neumann
+
+imię: John
+
+nazwisko: von Neumann
+
+data urodzenia: 1903-12-28
+
+data śmierci: 1957-02-08
+
+miejsce urodzenia: Budapeszt, Węgry
+
+Odkrycie: Komputer
+
+nazwa: Komputer
+
+rok odkrycia: 1946
+
+dziedzina naukowa: Technologia
+
+28. Reaktor jądrowy (1942)
+Naukowiec: Enrico Fermi
+
+imię: Enrico
+
+nazwisko: Fermi
+
+data urodzenia: 1901-09-29
+
+data śmierci: 1954-11-28
+
+miejsce urodzenia: Rzym, Włochy
+
+Odkrycie: Reaktor jądrowy
+
+nazwa: Reaktor jądrowy
+
+rok odkrycia: 1942
+
+dziedzina naukowa: Fizyka
+
+29. Szczepionka przeciw tyfusowi (1920)
+Naukowiec: Rudolf Weigl
+
+imię: Rudolf
+
+nazwisko: Weigl
+
+data urodzenia: 1883-09-02
+
+data śmierci: 1957-08-11
+
+miejsce urodzenia: Přerov, Austria-Węgry
+
+Odkrycie: Szczepionka przeciw tyfusowi
+
+nazwa: Szczepionka przeciw tyfusowi
+
+rok odkrycia: 1920
+
+dziedzina naukowa: Medycyna
+
+30. Reakcja PCR (1983)
+Naukowiec: Kary Mullis
+
+imię: Kary
+
+nazwisko: Mullis
+
+data urodzenia: 1944-12-28
+
+data śmierci: 2019-08-07
+
+miejsce urodzenia: Lenoir, USA
+
+Odkrycie: Reakcja PCR
+
+nazwa: Reakcja PCR
+
+rok odkrycia: 1983
+
+dziedzina naukowa: Technologia
+
+31. Internet (1969)
+Naukowiec: Tim Berners-Lee
+
+imię: Tim
+
+nazwisko: Berners-Lee
+
+data urodzenia: 1955-06-08
+
+data śmierci:
+
+miejsce urodzenia: Londyn, Anglia
+
+Odkrycie: Internet
+
+nazwa: Internet
+
+rok odkrycia: 1969
+
+dziedzina naukowa: Technologia
+
+32. Transplantacja serca (1967)
+Naukowiec: Christiaan Barnard
+
+imię: Christiaan
+
+nazwisko: Barnard
+
+data urodzenia: 1922-11-08
+
+data śmierci: 2001-09-02
+
+miejsce urodzenia: Beaufort West, RPA
+
+Odkrycie: Transplantacja serca
+
+nazwa: Transplantacja serca
+
+rok odkrycia: 1967
+
+dziedzina naukowa: Medycyna
+
+33. Mikroprocesor (1971)
+Naukowiec 1: Ted Hoff
+
+imię: Ted
+
+nazwisko: Hoff
+
+data urodzenia: 1937-10-28
+
+data śmierci:
+
+miejsce urodzenia: Rochester, USA
+
+Naukowiec 2: Federico Faggin
+
+imię: Federico
+
+nazwisko: Faggin
+
+data urodzenia: 1941-12-01
+
+data śmierci:
+
+miejsce urodzenia: Vicenza, Włochy
+
+Odkrycie: Mikroprocesor
+
+nazwa: Mikroprocesor
+
+rok odkrycia: 1971
+
+dziedzina naukowa: Technologia
+
+34. Lodówka (1911)
+Naukowiec: Carl von Linde
+
+imię: Carl
+
+nazwisko: von Linde
+
+data urodzenia: 1842-06-11
+
+data śmierci: 1934-11-16
+
+miejsce urodzenia: Berndorf, Niemcy
+
+Odkrycie: Lodówka
+
+nazwa: Lodówka
+
+rok odkrycia: 1911
+
+dziedzina naukowa: Technologia
+
+35. Nylon (1938)
+Naukowiec: Wallace Carothers
+
+imię: Wallace
+
+nazwisko: Carothers
+
+data urodzenia: 1896-04-27
+
+data śmierci: 1937-04-29
+
+miejsce urodzenia: Burlington, USA
+
+Odkrycie: Nylon
+
+nazwa: Nylon
+
+rok odkrycia: 1938
+
+dziedzina naukowa: Chemia
+
+36. Superprzewodnictwo (1911)
+Naukowiec: Heike Kamerlingh Onnes
+
+imię: Heike
+
+nazwisko: Kamerlingh Onnes
+
+data urodzenia: 1853-09-21
+
+data śmierci: 1926-02-21
+
+miejsce urodzenia: Groningen, Holandia
+
+Odkrycie: Superprzewodnictwo
+
+nazwa: Superprzewodnictwo
+
+rok odkrycia: 1911
+
+dziedzina naukowa: Fizyka
+
+37. Holografia (1947)
+Naukowiec: Dennis Gabor
+
+imię: Dennis
+
+nazwisko: Gabor
+
+data urodzenia: 1900-06-05
+
+data śmierci: 1979-02-08
+
+miejsce urodzenia: Budapeszt, Węgry
+
+Odkrycie: Holografia
+
+nazwa: Holografia
+
+rok odkrycia: 1947
+
+dziedzina naukowa: Technologia
+
+38. Teoria gier (1944)
+Naukowiec: John von Neumann
+
+imię: John
+
+nazwisko: von Neumann
+
+data urodzenia: 1903-12-28
+
+data śmierci: 1957-02-08
+
+miejsce urodzenia: Budapeszt, Węgry
+
+Odkrycie: Teoria gier
+
+nazwa: Teoria gier
+
+rok odkrycia: 1944
+
+dziedzina naukowa: Matematyka
+
+39. Antybiotyki (1932)
+Naukowiec: Gerhard Domagk
+
+imię: Gerhard
+
+nazwisko: Domagk
+
+data urodzenia: 1895-10-30
+
+data śmierci: 1964-04-24
+
+miejsce urodzenia: Lagow, Niemcy
+
+Odkrycie: Antybiotyki
+
+nazwa: Antybiotyki
+
+rok odkrycia: 1932
+
+dziedzina naukowa: Medycyna
+
+40. Promieniowanie kosmiczne (1912)
+Naukowiec: Victor Hess
+
+imię: Victor
+
+nazwisko: Hess
+
+data urodzenia: 1883-06-24
+
+data śmierci: 1964-12-17
+
+miejsce urodzenia: Waldstein, Austria
+
+Odkrycie: Promieniowanie kosmiczne
+
+nazwa: Promieniowanie kosmiczne
+
+rok odkrycia: 1912
+
+dziedzina naukowa: Fizyka
+
+41. Krystalografia (1912)
+Naukowiec 1: Max von Laue
+
+imię: Max
+
+nazwisko: von Laue
+
+data urodzenia: 1879-10-09
+
+data śmierci: 1960-04-24
+
+miejsce urodzenia: Pfaffendorf, Niemcy
+
+Naukowiec 2: William Bragg
+
+imię: William
+
+nazwisko: Bragg
+
+data urodzenia: 1862-07-02
+
+data śmierci: 1942-03-12
+
+miejsce urodzenia: Westward, Anglia
+
+Odkrycie: Krystalografia
+
+nazwa: Krystalografia
+
+rok odkrycia: 1912
+
+dziedzina naukowa: Fizyka
+
+42. Dializa (1943)
+Naukowiec: Willem Kolff
+
+imię: Willem
+
+nazwisko: Kolff
+
+data urodzenia: 1911-02-14
+
+data śmierci: 2009-02-11
+
+miejsce urodzenia: Leiden, Holandia
+
+Odkrycie: Dializa
+
+nazwa: Dializa
+
+rok odkrycia: 1943
+
+dziedzina naukowa: Medycyna
+
+43. Spektroskopia (1920)
+Naukowiec: Arnold Sommerfeld
+
+imię: Arnold
+
+nazwisko: Sommerfeld
+
+data urodzenia: 1868-12-05
+
+data śmierci: 1951-04-26
+
+miejsce urodzenia: Königsberg, Niemcy
+
+Odkrycie: Spektroskopia
+
+nazwa: Spektroskopia
+
+rok odkrycia: 1920
+
+dziedzina naukowa: Fizyka
+
+44. Elektronika (1904)
+Naukowiec: John Fleming
+
+imię: John
+
+nazwisko: Fleming
+
+data urodzenia: 1849-11-29
+
+data śmierci: 1945-04-18
+
+miejsce urodzenia: Lancaster, Anglia
+
+Odkrycie: Elektronika
+
+nazwa: Elektronika
+
+rok odkrycia: 1904
+
+dziedzina naukowa: Technologia
+
+45. Cybernetyka (1948)
+Naukowiec: Norbert Wiener
+
+imię: Norbert
+
+nazwisko: Wiener
+
+data urodzenia: 1894-11-26
+
+data śmierci: 1964-03-18
+
+miejsce urodzenia: Columbia, USA
+
+Odkrycie: Cybernetyka
+
+nazwa: Cybernetyka
+
+rok odkrycia: 1948
+
+dziedzina naukowa: Technologia
+
+46. Radioterapia (1903)
+Naukowiec: Marie Curie
+
+imię: Marie
+
+nazwisko: Curie
+
+data urodzenia: 1867-11-07
+
+data śmierci: 1934-07-04
+
+miejsce urodzenia: Warszawa, Polska
+
+Odkrycie: Radioterapia
+
+nazwa: Radioterapia
+
+rok odkrycia: 1903
+
+dziedzina naukowa: Medycyna
+
+47. Automatyka (1940)
+Naukowiec: Claude Shannon
+
+imię: Claude
+
+nazwisko: Shannon
+
+data urodzenia: 1916-04-30
+
+data śmierci: 2001-02-24
+
+miejsce urodzenia: Petoskey, USA
+
+Odkrycie: Automatyka
+
+nazwa: Automatyka
+
+rok odkrycia: 1940
+
+dziedzina naukowa: Technologia
+
+48. Geometria fraktalna (1975)
+Naukowiec: Benoit Mandelbrot
+
+imię: Benoit
+
+nazwisko: Mandelbrot
+
+data urodzenia: 1924-11-20
+
+data śmierci: 2010-10-14
+
+miejsce urodzenia: Warszawa, Polska
+
+Odkrycie: Geometria fraktalna
+
+nazwa: Geometria fraktalna
+
+rok odkrycia: 1975
+
+dziedzina naukowa: Matematyka
+
+49. Angiografia (1927)
+Naukowiec: Egas Moniz
+
+imię: Egas
+
+nazwisko: Moniz
+
+data urodzenia: 1874-11-29
+
+data śmierci: 1955-12-13
+
+miejsce urodzenia: Avanca, Portugalia
+
+Odkrycie: Angiografia
+
+nazwa: Angiografia
+
+rok odkrycia: 1927
+
+dziedzina naukowa: Medycyna
+
+50. Kardiochirugia (1944)
+Naukowiec: Alfred Blalock
+
+imię: Alfred
+
+nazwisko: Blalock
+
+data urodzenia: 1899-04-05
+
+data śmierci: 1964-09-15
+
+miejsce urodzenia: Culloden, USA
+
+Odkrycie: Kardiochirugia
+
+nazwa: Kardiochirugia
+
+rok odkrycia: 1944
+
+dziedzina naukowa: Medycyna
+
+Kompletne zestawy danych (51-75)
+51. Neurochirurgia (1926)
+Naukowiec: Harvey Cushing
+
+imię: Harvey
+
+nazwisko: Cushing
+
+data urodzenia: 1869-04-08
+
+data śmierci: 1939-10-07
+
+miejsce urodzenia: Cleveland, USA
+
+Odkrycie: Neurochirurgia
+
+nazwa: Neurochirurgia
+
+rok odkrycia: 1926
+
+dziedzina naukowa: Medycyna
+
+52. Ortopedia (1919)
+Naukowiec: Royal Whitman
+
+imię: Royal
+
+nazwisko: Whitman
+
+data urodzenia: 1857-06-03
+
+data śmierci: 1946-12-25
+
+miejsce urodzenia: New York, USA
+
+Odkrycie: Ortopedia
+
+nazwa: Ortopedia
+
+rok odkrycia: 1919
+
+dziedzina naukowa: Medycyna
+
+53. Rehabilitacja (1918)
+Naukowiec: Frank Krusen
+
+imię: Frank
+
+nazwisko: Krusen
+
+data urodzenia: 1898-02-10
+
+data śmierci: 1973-08-05
+
+miejsce urodzenia: Rochester, USA
+
+Odkrycie: Rehabilitacja
+
+nazwa: Rehabilitacja
+
+rok odkrycia: 1918
+
+dziedzina naukowa: Medycyna
+
+54. Fizjoterapia (1915)
+Naukowiec: Marguerite Sanderson
+
+imię: Marguerite
+
+nazwisko: Sanderson
+
+data urodzenia: 1882-01-01
+
+data śmierci: 1956-12-31
+
+miejsce urodzenia: Portland, USA
+
+Odkrycie: Fizjoterapia
+
+nazwa: Fizjoterapia
+
+rok odkrycia: 1915
+
+dziedzina naukowa: Medycyna
+
+55. Psychoterapia (1900)
+Naukowiec: Sigmund Freud
+
+imię: Sigmund
+
+nazwisko: Freud
+
+data urodzenia: 1856-05-06
+
+data śmierci: 1939-09-23
+
+miejsce urodzenia: Freiberg, Austria
+
+Odkrycie: Psychoterapia
+
+nazwa: Psychoterapia
+
+rok odkrycia: 1900
+
+dziedzina naukowa: Medycyna
+
+56. Sztuczny kauczuk (1909)
+Naukowiec: Fritz Hofmann
+
+imię: Fritz
+
+nazwisko: Hofmann
+
+data urodzenia: 1871-11-05
+
+data śmierci: 1956-11-08
+
+miejsce urodzenia: Kölleda, Niemcy
+
+Odkrycie: Sztuczny kauczuk
+
+nazwa: Sztuczny kauczuk
+
+rok odkrycia: 1909
+
+dziedzina naukowa: Chemia
+
+57. Silikon (1940)
+Naukowiec: Eugene Rochow
+
+imię: Eugene
+
+nazwisko: Rochow
+
+data urodzenia: 1909-10-04
+
+data śmierci: 2002-03-21
+
+miejsce urodzenia: Newark, USA
+
+Odkrycie: Silikon
+
+nazwa: Silikon
+
+rok odkrycia: 1940
+
+dziedzina naukowa: Chemia
+
+58. Pestycydy syntetyczne (1939)
+Naukowiec: Paul Müller
+
+imię: Paul
+
+nazwisko: Müller
+
+data urodzenia: 1899-01-12
+
+data śmierci: 1965-10-13
+
+miejsce urodzenia: Olten, Szwajcaria
+
+Odkrycie: Pestycydy syntetyczne
+
+nazwa: Pestycydy syntetyczne
+
+rok odkrycia: 1939
+
+dziedzina naukowa: Chemia
+
+59. Detergenty syntetyczne (1916)
+Naukowiec: Fritz Günther
+
+imię: Fritz
+
+nazwisko: Günther
+
+data urodzenia: 1886-03-15
+
+data śmierci: 1958-08-22
+
+miejsce urodzenia: Berlin, Niemcy
+
+Odkrycie: Detergenty syntetyczne
+
+nazwa: Detergenty syntetyczne
+
+rok odkrycia: 1916
+
+dziedzina naukowa: Chemia
+
+60. Farby syntetyczne (1920)
+Naukowiec: Otto Röhm
+
+imię: Otto
+
+nazwisko: Röhm
+
+data urodzenia: 1876-03-14
+
+data śmierci: 1939-09-08
+
+miejsce urodzenia: Öhringen, Niemcy
+
+Odkrycie: Farby syntetyczne
+
+nazwa: Farby syntetyczne
+
+rok odkrycia: 1920
+
+dziedzina naukowa: Chemia
+
+61. Leki psychotropowe (1950)
+Naukowiec 1: Jean Delay
+
+imię: Jean
+
+nazwisko: Delay
+
+data urodzenia: 1907-11-14
+
+data śmierci: 1987-05-29
+
+miejsce urodzenia: Bayonne, Francja
+
+Naukowiec 2: Pierre Deniker
+
+imię: Pierre
+
+nazwisko: Deniker
+
+data urodzenia: 1917-07-21
+
+data śmierci: 1998-09-10
+
+miejsce urodzenia: Paryż, Francja
+
+Odkrycie: Leki psychotropowe
+
+nazwa: Leki psychotropowe
+
+rok odkrycia: 1950
+
+dziedzina naukowa: Chemia
+
+62. Anestezja ogólna (1920)
+Naukowiec: John Lundy
+
+imię: John
+
+nazwisko: Lundy
+
+data urodzenia: 1894-02-20
+
+data śmierci: 1973-01-22
+
+miejsce urodzenia: Hard, USA
+
+Odkrycie: Anestezja ogólna
+
+nazwa: Anestezja ogólna
+
+rok odkrycia: 1920
+
+dziedzina naukowa: Chemia
+
+63. Hormony syntetyczne (1935)
+Naukowiec: Adolf Butenandt
+
+imię: Adolf
+
+nazwisko: Butenandt
+
+data urodzenia: 1903-03-24
+
+data śmierci: 1995-01-18
+
+miejsce urodzenia: Bremerhaven, Niemcy
+
+Odkrycie: Hormony syntetyczne
+
+nazwa: Hormony syntetyczne
+
+rok odkrycia: 1935
+
+dziedzina naukowa: Chemia
+
+64. Telefon (1876)
+Naukowiec: Alexander Graham Bell
+
+imię: Alexander
+
+nazwisko: Bell
+
+data urodzenia: 1847-03-03
+
+data śmierci: 1922-08-02
+
+miejsce urodzenia: Edynburg, Szkocja
+
+Odkrycie: Telefon
+
+nazwa: Telefon
+
+rok odkrycia: 1876
+
+dziedzina naukowa: Technologia
+
+65. Fonograf (1877)
+Naukowiec: Thomas Edison
+
+imię: Thomas
+
+nazwisko: Edison
+
+data urodzenia: 1847-02-11
+
+data śmierci: 1931-10-18
+
+miejsce urodzenia: Milan, USA
+
+Odkrycie: Fonograf
+
+nazwa: Fonograf
+
+rok odkrycia: 1877
+
+dziedzina naukowa: Technologia
+
+66. Kinematograf (1895)
+Naukowiec 1: Auguste Lumière
+
+imię: Auguste
+
+nazwisko: Lumière
+
+data urodzenia: 1862-10-19
+
+data śmierci: 1954-04-10
+
+miejsce urodzenia: Besançon, Francja
+
+Naukowiec 2: Louis Lumière
+
+imię: Louis
+
+nazwisko: Lumière
+
+data urodzenia: 1864-10-05
+
+data śmierci: 1948-06-06
+
+miejsce urodzenia: Besançon, Francja
+
+Odkrycie: Kinematograf
+
+nazwa: Kinematograf
+
+rok odkrycia: 1895
+
+dziedzina naukowa: Technologia
+
+67. Pralka automatyczna (1937)
+Naukowiec: John Bendix
+
+imię: John
+
+nazwisko: Bendix
+
+data urodzenia: 1882-08-03
+
+data śmierci: 1945-03-27
+
+miejsce urodzenia: Moline, USA
+
+Odkrycie: Pralka automatyczna
+
+nazwa: Pralka automatyczna
+
+rok odkrycia: 1937
+
+dziedzina naukowa: Technologia
+
+68. Telewizor kolorowy (1953)
+Naukowiec: Peter Goldmark
+
+imię: Peter
+
+nazwisko: Goldmark
+
+data urodzenia: 1906-12-02
+
+data śmierci: 1977-12-07
+
+miejsce urodzenia: Budapeszt, Węgry
+
+Odkrycie: Telewizor kolorowy
+
+nazwa: Telewizor kolorowy
+
+rok odkrycia: 1953
+
+dziedzina naukowa: Technologia
+
+69. Komunikacja satelitarna (1962)
+Naukowiec: Arthur Clarke
+
+imię: Arthur
+
+nazwisko: Clarke
+
+data urodzenia: 1917-12-16
+
+data śmierci: 2008-03-19
+
+miejsce urodzenia: Minehead, Anglia
+
+Odkrycie: Komunikacja satelitarna
+
+nazwa: Komunikacja satelitarna
+
+rok odkrycia: 1962
+
+dziedzina naukowa: Technologia
+
+70. GPS (1978)
+Naukowiec: Bradford Parkinson
+
+imię: Bradford
+
+nazwisko: Parkinson
+
+data urodzenia: 1935-02-16
+
+data śmierci:
+
+miejsce urodzenia: Madison, USA
+
+Odkrycie: GPS
+
+nazwa: GPS
+
+rok odkrycia: 1978
+
+dziedzina naukowa: Technologia
+
+71. Komputer osobisty (1981)
+Naukowiec: Steve Jobs
+
+imię: Steve
+
+nazwisko: Jobs
+
+data urodzenia: 1955-02-24
+
+data śmierci: 2011-10-05
+
+miejsce urodzenia: San Francisco, USA
+
+Odkrycie: Komputer osobisty
+
+nazwa: Komputer osobisty
+
+rok odkrycia: 1981
+
+dziedzina naukowa: Technologia
+
+72. Energia jądrowa (1942)
+Naukowiec: Enrico Fermi
+
+imię: Enrico
+
+nazwisko: Fermi
+
+data urodzenia: 1901-09-29
+
+data śmierci: 1954-11-28
+
+miejsce urodzenia: Rzym, Włochy
+
+Odkrycie: Energia jądrowa
+
+nazwa: Energia jądrowa
+
+rok odkrycia: 1942
+
+dziedzina naukowa: Fizyka
+
+73. Efekt fotoelektryczny (1905)
+Naukowiec: Albert Einstein
+
+imię: Albert
+
+nazwisko: Einstein
+
+data urodzenia: 1879-03-14
+
+data śmierci: 1955-04-18
+
+miejsce urodzenia: Ulm, Niemcy
+
+Odkrycie: Efekt fotoelektryczny
+
+nazwa: Efekt fotoelektryczny
+
+rok odkrycia: 1905
+
+dziedzina naukowa: Fizyka
+
+74. Mikrochirurgia (1960)
+Naukowiec: Julius Jacobson
+
+imię: Julius
+
+nazwisko: Jacobson
+
+data urodzenia: 1927-06-21
+
+data śmierci: 2016-01-10
+
+miejsce urodzenia: Chicago, USA
+
+Odkrycie: Mikrochirurgia
+
+nazwa: Mikrochirurgia
+
+rok odkrycia: 1960
+
+dziedzina naukowa: Medycyna
+
+75. Tomografia komputerowa (1972)
+Naukowiec 1: Godfrey Hounsfield
+
+imię: Godfrey
+
+nazwisko: Hounsfield
+
+data urodzenia: 1919-08-28
+
+data śmierci: 2004-08-12
+
+miejsce urodzenia: Sutton-on-Trent, Anglia
+
+Naukowiec 2: Allan Cormack
+
+imię: Allan
+
+nazwisko: Cormack
+
+data urodzenia: 1924-02-23
+
+data śmierci: 1998-05-07
+
+miejsce urodzenia: Johannesburg, RPA
+
+Odkrycie: Tomografia komputerowa
+
+nazwa: Tomografia komputerowa
+
+rok odkrycia: 1972
+
+dziedzina naukowa: Medycyna
+
+Kompletne zestawy danych (76-100)
+76. Rezonans magnetyczny (1973)
+Naukowiec: Paul Lauterbur
+
+imię: Paul
+
+nazwisko: Lauterbur
+
+data urodzenia: 1929-05-06
+
+data śmierci: 2007-03-27
+
+miejsce urodzenia: Sidney, USA
+
+Odkrycie: Rezonans magnetyczny
+
+nazwa: Rezonans magnetyczny
+
+rok odkrycia: 1973
+
+dziedzina naukowa: Medycyna
+
+77. Endoskopia (1957)
+Naukowiec: Basil Hirschowitz
+
+imię: Basil
+
+nazwisko: Hirschowitz
+
+data urodzenia: 1925-05-18
+
+data śmierci: 2013-01-19
+
+miejsce urodzenia: Pretoria, RPA
+
+Odkrycie: Endoskopia
+
+nazwa: Endoskopia
+
+rok odkrycia: 1957
+
+dziedzina naukowa: Medycyna
+
+78. Klonowanie (1996)
+Naukowiec: Ian Wilmut
+
+imię: Ian
+
+nazwisko: Wilmut
+
+data urodzenia: 1944-07-07
+
+data śmierci: 2023-09-10
+
+miejsce urodzenia: Hampton Lucy, Anglia
+
+Odkrycie: Klonowanie
+
+nazwa: Klonowanie
+
+rok odkrycia: 1996
+
+dziedzina naukowa: Biologia
+
+79. Terapia genowa (1990)
+Naukowiec: William French Anderson
+
+imię: William
+
+nazwisko: Anderson
+
+data urodzenia: 1936-12-31
+
+data śmierci: 2024-01-10
+
+miejsce urodzenia: Tulsa, USA
+
+Odkrycie: Terapia genowa
+
+nazwa: Terapia genowa
+
+rok odkrycia: 1990
+
+dziedzina naukowa: Medycyna
+
+80. Mapowanie genomu (1990)
+Naukowiec: Francis Collins
+
+imię: Francis
+
+nazwisko: Collins
+
+data urodzenia: 1950-04-14
+
+data śmierci:
+
+miejsce urodzenia: Staunton, USA
+
+Odkrycie: Mapowanie genomu
+
+nazwa: Mapowanie genomu
+
+rok odkrycia: 1990
+
+dziedzina naukowa: Biologia
+
+81. Nanotechnologia (1981)
+Naukowiec: Eric Drexler
+
+imię: Eric
+
+nazwisko: Drexler
+
+data urodzenia: 1955-04-25
+
+data śmierci:
+
+miejsce urodzenia: Oakland, USA
+
+Odkrycie: Nanotechnologia
+
+nazwa: Nanotechnologia
+
+rok odkrycia: 1981
+
+dziedzina naukowa: Technologia
+
+82. Światłowody (1966)
+Naukowiec 1: Charles Kao
+
+imię: Charles
+
+nazwisko: Kao
+
+data urodzenia: 1933-11-04
+
+data śmierci: 2018-09-23
+
+miejsce urodzenia: Szanghaj, Chiny
+
+Naukowiec 2: George Hockham
+
+imię: George
+
+nazwisko: Hockham
+
+data urodzenia: 1938-01-01
+
+data śmierci: 2013-11-09
+
+miejsce urodzenia: Southend-on-Sea, Anglia
+
+Odkrycie: Światłowody
+
+nazwa: Światłowody
+
+rok odkrycia: 1966
+
+dziedzina naukowa: Technologia
+
+83. Energia słoneczna (1954)
+Naukowiec: Calvin Fuller
+
+imię: Calvin
+
+nazwisko: Fuller
+
+data urodzenia: 1902-05-25
+
+data śmierci: 1994-10-28
+
+miejsce urodzenia: Chicago, USA
+
+Odkrycie: Energia słoneczna
+
+nazwa: Energia słoneczna
+
+rok odkrycia: 1954
+
+dziedzina naukowa: Technologia
+
+84. Bomba wodorowa (1951)
+Naukowiec: Stanisław Ulam
+
+imię: Stanisław
+
+nazwisko: Ulam
+
+data urodzenia: 1909-04-13
+
+data śmierci: 1984-05-13
+
+miejsce urodzenia: Lwów, Austria-Węgry
+
+Odkrycie: Bomba wodorowa
+
+nazwa: Bomba wodorowa
+
+rok odkrycia: 1951
+
+dziedzina naukowa: Fizyka
+
+85. Architektura komputerowa (1945)
+Naukowiec: John von Neumann
+
+imię: John
+
+nazwisko: von Neumann
+
+data urodzenia: 1903-12-28
+
+data śmierci: 1957-02-08
+
+miejsce urodzenia: Budapeszt, Węgry
+
+Odkrycie: Architektura komputerowa
+
+nazwa: Architektura komputerowa
+
+rok odkrycia: 1945
+
+dziedzina naukowa: Technologia
+
+86. Kryptografia (1976)
+Naukowiec 1: Whitfield Diffie
+
+imię: Whitfield
+
+nazwisko: Diffie
+
+data urodzenia: 1944-06-05
+
+data śmierci:
+
+miejsce urodzenia: Washington, USA
+
+Naukowiec 2: Martin Hellman
+
+imię: Martin
+
+nazwisko: Hellman
+
+data urodzenia: 1945-10-02
+
+data śmierci:
+
+miejsce urodzenia: Nowy Jork, USA
+
+Odkrycie: Kryptografia
+
+nazwa: Kryptografia
+
+rok odkrycia: 1976
+
+dziedzina naukowa: Technologia
+
+87. Synteza DNA (1955)
+Naukowiec: Arthur Kornberg
+
+imię: Arthur
+
+nazwisko: Kornberg
+
+data urodzenia: 1918-03-03
+
+data śmierci: 2007-10-26
+
+miejsce urodzenia: Nowy Jork, USA
+
+Odkrycie: Synteza DNA
+
+nazwa: Synteza DNA
+
+rok odkrycia: 1955
+
+dziedzina naukowa: Biologia
+
+88. Prawa dziedziczności (1865)
+Naukowiec: Gregor Mendel
+
+imię: Gregor
+
+nazwisko: Mendel
+
+data urodzenia: 1822-07-20
+
+data śmierci: 1884-01-06
+
+miejsce urodzenia: Hynčice, Austria
+
+Odkrycie: Prawa dziedziczności
+
+nazwa: Prawa dziedziczności
+
+rok odkrycia: 1865
+
+dziedzina naukowa: Biologia
+
+89. Szczepionka przeciw polio (1950)
+Naukowiec: Hilary Koprowski
+
+imię: Hilary
+
+nazwisko: Koprowski
+
+data urodzenia: 1916-12-05
+
+data śmierci: 2013-04-11
+
+miejsce urodzenia: Warszawa, Polska
+
+Odkrycie: Szczepionka przeciw polio
+
+nazwa: Szczepionka przeciw polio
+
+rok odkrycia: 1950
+
+dziedzina naukowa: Medycyna
+
+90. Rozszczepianie jądra atomowego (1938)
+Naukowiec 1: Otto Hahn
+
+imię: Otto
+
+nazwisko: Hahn
+
+data urodzenia: 1879-03-08
+
+data śmierci: 1968-07-28
+
+miejsce urodzenia: Frankfurt, Niemcy
+
+Naukowiec 2: Fritz Strassmann
+
+imię: Fritz
+
+nazwisko: Strassmann
+
+data urodzenia: 1902-02-22
+
+data śmierci: 1980-04-22
+
+miejsce urodzenia: Boppard, Niemcy
+
+Odkrycie: Rozszczepianie jądra atomowego
+
+nazwa: Rozszczepianie jądra atomowego
+
+rok odkrycia: 1938
+
+dziedzina naukowa: Fizyka
+
+91. Lampa naftowa (1853)
+Naukowiec: Ignacy Łukasiewicz
+
+imię: Ignacy
+
+nazwisko: Łukasiewicz
+
+data urodzenia: 1822-03-08
+
+data śmierci: 1882-01-07
+
+miejsce urodzenia: Zaduszniki, Polska
+
+Odkrycie: Lampa naftowa
+
+nazwa: Lampa naftowa
+
+rok odkrycia: 1853
+
+dziedzina naukowa: Technologia
+
+92. Maser (1954)
+Naukowiec 1: Charles Townes
+
+imię: Charles
+
+nazwisko: Townes
+
+data urodzenia: 1915-07-28
+
+data śmierci: 2015-01-27
+
+miejsce urodzenia: Greenville, USA
+
+Naukowiec 2: James Gordon
+
+imię: James
+
+nazwisko: Gordon
+
+data urodzenia: 1928-01-04
+
+data śmierci: 2013-12-25
+
+miejsce urodzenia: Chicago, USA
+
+Odkrycie: Maser
+
+nazwa: Maser
+
+rok odkrycia: 1954
+
+dziedzina naukowa: Technologia
+
+93. Teoria względności specjalnej (1905)
+Naukowiec: Albert Einstein
+
+imię: Albert
+
+nazwisko: Einstein
+
+data urodzenia: 1879-03-14
+
+data śmierci: 1955-04-18
+
+miejsce urodzenia: Ulm, Niemcy
+
+Odkrycie: Teoria względności specjalnej
+
+nazwa: Teoria względności specjalnej
+
+rok odkrycia: 1905
+
+dziedzina naukowa: Fizyka
+
+94. Elektrodinamika kwantowa (1947)
+Naukowiec 1: Richard Feynman
+
+imię: Richard
+
+nazwisko: Feynman
+
+data urodzenia: 1918-05-11
+
+data śmierci: 1988-02-15
+
+miejsce urodzenia: Nowy Jork, USA
+
+Naukowiec 2: Julian Schwinger
+
+imię: Julian
+
+nazwisko: Schwinger
+
+data urodzenia: 1918-02-12
+
+data śmierci: 1994-07-16
+
+miejsce urodzenia: Nowy Jork, USA
+
+Odkrycie: Elektrodinamika kwantowa
+
+nazwa: Elektrodinamika kwantowa
+
+rok odkrycia: 1947
+
+dziedzina naukowa: Fizyka
+
+95. Maszyna Turinga (1936)
+Naukowiec: Alan Turing
+
+imię: Alan
+
+nazwisko: Turing
+
+data urodzenia: 1912-06-23
+
+data śmierci: 1954-06-07
+
+miejsce urodzenia: Londyn, Anglia
+
+Odkrycie: Maszyna Turinga
+
+nazwa: Maszyna Turinga
+
+rok odkrycia: 1936
+
+dziedzina naukowa: Technologia
+
+96. Układ okresowy pierwiastków (1869)
+Naukowiec: Dmitrij Mendelejew
+
+imię: Dmitrij
+
+nazwisko: Mendelejew
+
+data urodzenia: 1834-02-08
+
+data śmierci: 1907-02-02
+
+miejsce urodzenia: Tobolsk, Rosja
+
+Odkrycie: Układ okresowy pierwiastków
+
+nazwa: Układ okresowy pierwiastków
+
+rok odkrycia: 1869
+
+dziedzina naukowa: Chemia
+
+97. Transformacja bakterii (1928)
+Naukowiec: Frederick Griffith
+
+imię: Frederick
+
+nazwisko: Griffith
+
+data urodzenia: 1879-10-03
+
+data śmierci: 1941-02-18
+
+miejsce urodzenia: Hale, Anglia
+
+Odkrycie: Transformacja bakterii
+
+nazwa: Transformacja bakterii
+
+rok odkrycia: 1928
+
+dziedzina naukowa: Biologia
+
+98. Chromosomy płci (1905)
+Naukowiec: Nettie Stevens
+
+imię: Nettie
+
+nazwisko: Stevens
+
+data urodzenia: 1861-07-07
+
+data śmierci: 1912-05-04
+
+miejsce urodzenia: Cavendish, USA
+
+Odkrycie: Chromosomy płci
+
+nazwa: Chromosomy płci
+
+rok odkrycia: 1905
+
+dziedzina naukowa: Biologia
+
+99. Geny w chromosomach (1911)
+Naukowiec: Thomas Morgan
+
+imię: Thomas
+
+nazwisko: Morgan
+
+data urodzenia: 1866-09-25
+
+data śmierci: 1945-12-04
+
+miejsce urodzenia: Lexington, USA
+
+Odkrycie: Geny w chromosomach
+
+nazwa: Geny w chromosomach
+
+rok odkrycia: 1911
+
+dziedzina naukowa: Biologia
+
+100. Fale grawitacyjne (1918)
+Naukowiec: Albert Einstein
+
+imię: Albert
+
+nazwisko: Einstein
+
+data urodzenia: 1879-03-14
+
+data śmierci: 1955-04-18
+
+miejsce urodzenia: Ulm, Niemcy
+
+Odkrycie: Fale grawitacyjne
+
+nazwa: Fale grawitacyjne
+
+rok odkrycia: 1918
+
+dziedzina naukowa: Fizyka
