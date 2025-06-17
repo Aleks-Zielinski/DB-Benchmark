@@ -1,4 +1,3 @@
-seks
 # DB-Benchmark
 PostgreSQL and MongoDB benchmark, made for a university project.
 
