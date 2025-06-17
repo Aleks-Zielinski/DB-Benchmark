@@ -1,6 +1,26 @@
 [
     {
-        "id":"",
-        "name":""
+        "id":"1",
+        "name":"Physics"
     },
+    {
+        "id":"2",
+        "name":"Biology"
+    },
+    {
+        "id":"3",
+        "name":"Chemistry"
+    },
+    {
+        "id":"4",
+        "name":"Technology"
+    },
+    {
+        "id":"5",
+        "name":"Medicine"
+    },
+    {
+        "id":"6",
+        "name":"Mathematics"
+    }
 ]

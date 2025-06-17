@@ -1,9 +1,205 @@
 [
     {
+        "id":"1",
+        "name":"Special Relativity",
+        "year_of_discovery":"1905",
+        "field_of_science_id":"1",
+        "discovered_by_ids": [1]
+    },
+    {
+        "id":"2",
+        "name":"Penicilin",
+        "year_of_discovery":"1928",
+        "field_of_science_id":"6",
+        "discovered_by_ids": [2]
+    },
+    {
+        "id":"3",
+        "name":"DNA Structure",
+        "year_of_discovery":"1953",
+        "field_of_science_id":"2",
+        "discovered_by_ids": [3,4]
+    },
+    {
+        "id":"4",
+        "name":"Quantum Theory",
+        "year_of_discovery":"1900",
+        "field_of_science_id":"1",
+        "discovered_by_ids": [5]
+    },
+    {
+        "id":"5",
+        "name":"Aeroplane",
+        "year_of_discovery":"1903",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [6,7]
+    },
+    {
+        "id":"6",
+        "name":"Radioactivity",
+        "year_of_discovery":"1896",
+        "field_of_science_id":"1",
+        "discovered_by_ids": [8,9]
+    },
+    {
+        "id":"7",
+        "name":"Electrone Microscope",
+        "year_of_discovery":"1931",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [10,11]
+    },
+    {
+        "id":"8",
+        "name":"General Relativity",
+        "year_of_discovery":"1915",
+        "field_of_science_id":"1",
+        "discovered_by_ids": [1]
+    },
+    {
+        "id":"9",
+        "name":"Insulin",
+        "year_of_discovery":"1921",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [12,13]
+    },
+    {
+        "id":"10",
+        "name":"Transistor",
+        "year_of_discovery":"1947",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [14,15]
+    },
+    {
+        "id":"11",
+        "name":"LASER",
+        "year_of_discovery":"1960",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [16]
+    },
+    {
+        "id":"12",
+        "name":"Model of Atom",
+        "year_of_discovery":"1913",
+        "field_of_science_id":"1",
+        "discovered_by_ids": [17]
+    },
+    {
+        "id":"13",
+        "name":"Uncertainty Principle",
+        "year_of_discovery":"1927",
+        "field_of_science_id":"1",
+        "discovered_by_ids": [18]
+    },
+    {
+        "id":"14",
+        "name":"Schrodringer's Equation",
+        "year_of_discovery":"1926",
+        "field_of_science_id":"1",
+        "discovered_by_ids": [19]
+    },
+    {
+        "id":"15",
+        "name":"Chain Reaction",
+        "year_of_discovery":"1942",
+        "field_of_science_id":"1",
+        "discovered_by_ids": [20]
+    },
+    {
+        "id":"16",
+        "name":"Radio",
+        "year_of_discovery":"1896",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [21]
+    },
+    {
+        "id":"17",
+        "name":"Blood Type",
+        "year_of_discovery":"1901",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [22]
+    },
+    {
+        "id":"18",
+        "name":"X Ray",
+        "year_of_discovery":"1895",
+        "field_of_science_id":"1",
+        "discovered_by_ids": [23]
+    },
+    {
+        "id":"19",
+        "name":"Electrocardiography",
+        "year_of_discovery":"1903",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [24]
+    },
+    {
+        "id":"20",
+        "name":"Czochralski Method",
+        "year_of_discovery":"1916",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [25]
+    },
+    {
+        "id":"21",
+        "name":"Polio Vaccine",
+        "year_of_discovery":"1952",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [26]
+    },
+    {
+        "id":"22",
+        "name":"Television",
+        "year_of_discovery":"1925",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [27]
+    },
+    {
+        "id":"23",
+        "name":"Vitamins",
+        "year_of_discovery":"1906",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [28]
+    },
+    {
+        "id":"24",
+        "name":"Chemiotherapy",
+        "year_of_discovery":"1907",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [29]
+    },
+    {
+        "id":"25",
+        "name":"Synthetic Fiber",
+        "year_of_discovery":"1907",
+        "field_of_science_id":"3",
+        "discovered_by_ids": [30]
+    },
+    {
+        "id":"26",
+        "name":"Deciphering Enigma",
+        "year_of_discovery":"1932",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [31,32]
+    },
+    {
         "id":"",
         "name":"",
         "year_of_discovery":"",
         "field_of_science_id":"",
-        "discovered_by_ids": [,],
+        "discovered_by_ids": [,]
+    },
+    {
+        "id":"",
+        "name":"",
+        "year_of_discovery":"",
+        "field_of_science_id":"",
+        "discovered_by_ids": [,]
+    },
+    {
+        "id":"",
+        "name":"",
+        "year_of_discovery":"",
+        "field_of_science_id":"",
+        "discovered_by_ids": [,]
     },
 ]
