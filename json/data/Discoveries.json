@@ -182,24 +182,521 @@
         "discovered_by_ids": [31,32]
     },
     {
-        "id":"",
-        "name":"",
-        "year_of_discovery":"",
-        "field_of_science_id":"",
-        "discovered_by_ids": [,]
+        "id":"27",
+        "name":"Computer",
+        "year_of_discovery":"1946",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [33]
     },
     {
-        "id":"",
-        "name":"",
-        "year_of_discovery":"",
-        "field_of_science_id":"",
-        "discovered_by_ids": [,]
+        "id":"28",
+        "name":"Nuclear Reactor",
+        "year_of_discovery":"1942",
+        "field_of_science_id":"1",
+        "discovered_by_ids": [20]
     },
     {
-        "id":"",
-        "name":"",
-        "year_of_discovery":"",
-        "field_of_science_id":"",
-        "discovered_by_ids": [,]
+        "id":"29",
+        "name":"Epidemic Typhus Vaccine",
+        "year_of_discovery":"1920",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [34]
     },
+    {
+        "id":"30",
+        "name":"PCR Reaction",
+        "year_of_discovery":"1983",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [35]
+    },
+    {
+        "id":"31",
+        "name":"Internet",
+        "year_of_discovery":"1969",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [36]
+    },
+    {
+        "id":"32",
+        "name":"Heart Transplant",
+        "year_of_discovery":"1967",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [37]
+    },
+    {
+        "id":"33",
+        "name":"Microprocessor",
+        "year_of_discovery":"1971",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [38,39]
+    },
+    {
+        "id":"34",
+        "name":"Fridge",
+        "year_of_discovery":"1911",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [40]
+    },
+    {
+        "id":"35",
+        "name":"Nylon",
+        "year_of_discovery":"1938",
+        "field_of_science_id":"3",
+        "discovered_by_ids": [41]
+    },
+    {
+        "id":"36",
+        "name":"Superconductivity",
+        "year_of_discovery":"1911",
+        "field_of_science_id":"1",
+        "discovered_by_ids": [42]
+    },
+    {
+        "id":"37",
+        "name":"Holograph",
+        "year_of_discovery":"1947",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [43]
+    },
+    {
+        "id":"38",
+        "name":"Game Theory",
+        "year_of_discovery":"1944",
+        "field_of_science_id":"1944",
+        "discovered_by_ids": [33]
+    },
+    {
+        "id":"39",
+        "name":"Antibiotics",
+        "year_of_discovery":"1932",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [44]
+    },
+    {
+        "id":"40",
+        "name":"Cosmic Radiation",
+        "year_of_discovery":"1912",
+        "field_of_science_id":"1",
+        "discovered_by_ids": [45]
+    },
+    {
+        "id":"41",
+        "name":"Crystalography",
+        "year_of_discovery":"1912",
+        "field_of_science_id":"1",
+        "discovered_by_ids": [46,47]
+    },
+    {
+        "id":"42",
+        "name":"Kidney Dialysis",
+        "year_of_discovery":"1943",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [48]
+    },
+    {
+        "id":"43",
+        "name":"Spectroscopy",
+        "year_of_discovery":"1920",
+        "field_of_science_id":"1",
+        "discovered_by_ids": [49]
+    },
+    {
+        "id":"44",
+        "name":"Electronics",
+        "year_of_discovery":"1904",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [50]
+    },
+    {
+        "id":"45",
+        "name":"Cybernetics",
+        "year_of_discovery":"1948",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [51]
+    },
+    {
+        "id":"46",
+        "name":"Radiotherapy",
+        "year_of_discovery":"1903",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [8]
+    },
+    {
+        "id":"47",
+        "name":"Automatics",
+        "year_of_discovery":"1940",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [52]
+    },
+    {
+        "id":"48",
+        "name":"Fractal Geometry",
+        "year_of_discovery":"1975",
+        "field_of_science_id":"6",
+        "discovered_by_ids": [53]
+    },
+    {
+        "id":"49",
+        "name":"Angiography",
+        "year_of_discovery":"1927",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [54]
+    },
+    {
+        "id":"50",
+        "name":"Cardiac Surgery",
+        "year_of_discovery":"1944",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [55]
+    },
+    {
+        "id":"51",
+        "name":"Neurosurgery",
+        "year_of_discovery":"1926",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [56]
+    },
+    {
+        "id":"52",
+        "name":"Orthopedics",
+        "year_of_discovery":"1919",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [57]
+    },
+    {
+        "id":"53",
+        "name":"Rehabilitation",
+        "year_of_discovery":"1918",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [58]
+    },
+    {
+        "id":"54",
+        "name":"Physiotherapy",
+        "year_of_discovery":"1915",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [59]
+    },
+    {
+        "id":"55",
+        "name":"Psychotherapy",
+        "year_of_discovery":"1900",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [60]
+    },
+    {
+        "id":"56",
+        "name":"Synthetic Rubber",
+        "year_of_discovery":"1909",
+        "field_of_science_id":"3",
+        "discovered_by_ids": [61]
+    },
+    {
+        "id":"57",
+        "name":"Silicone",
+        "year_of_discovery":"1940",
+        "field_of_science_id":"3",
+        "discovered_by_ids": [62]
+    },
+    {
+        "id":"58",
+        "name":"Synthetic Pesticides",
+        "year_of_discovery":"1939",
+        "field_of_science_id":"3",
+        "discovered_by_ids": [63]
+    },
+    {
+        "id":"59",
+        "name":"Synthetic Detergents",
+        "year_of_discovery":"1916",
+        "field_of_science_id":"3",
+        "discovered_by_ids": [64]
+    },
+    {
+        "id":"60",
+        "name":"Synthetic Paint",
+        "year_of_discovery":"1920",
+        "field_of_science_id":"3",
+        "discovered_by_ids": [65]
+    },
+    {
+        "id":"61",
+        "name":"Psychotropic Drugs",
+        "year_of_discovery":"1950",
+        "field_of_science_id":"3",
+        "discovered_by_ids": [66,67]
+    },
+    {
+        "id":"62",
+        "name":"Global Anesthesia",
+        "year_of_discovery":"1920",
+        "field_of_science_id":"3",
+        "discovered_by_ids": [68]
+    },
+    {
+        "id":"63",
+        "name":"Synthetic Hormones",
+        "year_of_discovery":"1935",
+        "field_of_science_id":"3",
+        "discovered_by_ids": [69]
+    },
+    {
+        "id":"64",
+        "name":"Telephone",
+        "year_of_discovery":"1876",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [70]
+    },
+    {
+        "id":"65",
+        "name":"Phonograph",
+        "year_of_discovery":"1877",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [71]
+    },
+    {
+        "id":"66",
+        "name":"Cinematograph",
+        "year_of_discovery":"1895",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [72,73]
+    },
+    {
+        "id":"67",
+        "name":"Automatic Washing Machine",
+        "year_of_discovery":"1937",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [74]
+    },
+    {
+        "id":"68",
+        "name":"Colour Television",
+        "year_of_discovery":"1953",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [75]
+    },
+    {
+        "id":"69",
+        "name":"Satellite Communication",
+        "year_of_discovery":"1962",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [76]
+    },
+    {
+        "id":"70",
+        "name":"GPS",
+        "year_of_discovery":"1978",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [77]
+    },
+    {
+        "id":"71",
+        "name":"Personal Computer",
+        "year_of_discovery":"1981",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [78]
+    },
+    {
+        "id":"72",
+        "name":"Nuclear Energy",
+        "year_of_discovery":"1942",
+        "field_of_science_id":"1",
+        "discovered_by_ids": [20]
+    },
+    {
+        "id":"73",
+        "name":"Photoelectric Effect",
+        "year_of_discovery":"1905",
+        "field_of_science_id":"1",
+        "discovered_by_ids": [1]
+    },
+    {
+        "id":"74",
+        "name":"Microsurgery",
+        "year_of_discovery":"1960",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [79]
+    },
+    {
+        "id":"75",
+        "name":"Computer Tomography",
+        "year_of_discovery":"1972",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [80,81]
+    },
+    {
+        "id":"76",
+        "name":"Magnetic Resonance",
+        "year_of_discovery":"1973",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [82]
+    },
+    {
+        "id":"77",
+        "name":"Endoscopy",
+        "year_of_discovery":"1957",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [83]
+    },
+    {
+        "id":"78",
+        "name":"Cloning",
+        "year_of_discovery":"1996",
+        "field_of_science_id":"2",
+        "discovered_by_ids": [84]
+    },
+    {
+        "id":"79",
+        "name":"Gene Therapy",
+        "year_of_discovery":"1990",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [85]
+    },
+    {
+        "id":"80",
+        "name":"Genome Mapping",
+        "year_of_discovery":"1990",
+        "field_of_science_id":"2",
+        "discovered_by_ids": [86]
+    },
+    {
+        "id":"81",
+        "name":"Nanotechnology",
+        "year_of_discovery":"1981",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [87]
+    },
+    {
+        "id":"82",
+        "name":"Optic Fiber",
+        "year_of_discovery":"1966",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [88,89]
+    },
+    {
+        "id":"83",
+        "name":"Solar Energy",
+        "year_of_discovery":"1954",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [90]
+    },
+    {
+        "id":"84",
+        "name":"Hydrogen Bomb",
+        "year_of_discovery":"1951",
+        "field_of_science_id":"1",
+        "discovered_by_ids": [91]
+    },
+    {
+        "id":"85",
+        "name":"Computer Architecture",
+        "year_of_discovery":"1945",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [33]
+    },
+    {
+        "id":"86",
+        "name":"Cryptography",
+        "year_of_discovery":"1976",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [92,93]
+    },
+    {
+        "id":"87",
+        "name":"DNA Synthesis",
+        "year_of_discovery":"1955",
+        "field_of_science_id":"2",
+        "discovered_by_ids": [94]
+    },
+    {
+        "id":"88",
+        "name":"Inheritance Rights",
+        "year_of_discovery":"1865",
+        "field_of_science_id":"2",
+        "discovered_by_ids": [95]
+    },
+    {
+        "id":"89",
+        "name":"Polio Vaccine, but OG one",
+        "year_of_discovery":"1950",
+        "field_of_science_id":"5",
+        "discovered_by_ids": [96]
+    },
+    {
+        "id":"90",
+        "name":"Splitting Atomic Nucleus",
+        "year_of_discovery":"1938",
+        "field_of_science_id":"1",
+        "discovered_by_ids": [97,98]
+    },
+    {
+        "id":"91",
+        "name":"Kerosene Lamp",
+        "year_of_discovery":"1853",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [99]
+    },
+    {
+        "id":"92",
+        "name":"Maser",
+        "year_of_discovery":"1954",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [100,101]
+    },
+    {
+        "id":"93",
+        "name":"Special Theory of Relativity",
+        "year_of_discovery":"1905",
+        "field_of_science_id":"1",
+        "discovered_by_ids": [1]
+    },
+    {
+        "id":"94",
+        "name":"Quantum Electrodynamics",
+        "year_of_discovery":"1947",
+        "field_of_science_id":"1",
+        "discovered_by_ids": [102,103]
+    },
+    {
+        "id":"95",
+        "name":"Turing's Machine",
+        "year_of_discovery":"1936",
+        "field_of_science_id":"4",
+        "discovered_by_ids": [104]
+    },
+    {
+        "id":"96",
+        "name":"Periodic Table",
+        "year_of_discovery":"1869",
+        "field_of_science_id":"3",
+        "discovered_by_ids": [105]
+    },
+    {
+        "id":"97",
+        "name":"Transformation of Bacteria",
+        "year_of_discovery":"1928",
+        "field_of_science_id":"2",
+        "discovered_by_ids": [106]
+    },
+    {
+        "id":"98",
+        "name":"Gender Chromosomes",
+        "year_of_discovery":"1905",
+        "field_of_science_id":"2",
+        "discovered_by_ids": [107]
+    },
+    {
+        "id":"99",
+        "name":"Genes in Chromosomes",
+        "year_of_discovery":"1911",
+        "field_of_science_id":"2",
+        "discovered_by_ids": [108]
+    },
+    {
+        "id":"100",
+        "name":"Gravitational Waves",
+        "year_of_discovery":"1918",
+        "field_of_science_id":"1",
+        "discovered_by_ids": [1]
+    }
 ]
