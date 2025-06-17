@@ -7,11 +7,11 @@
             "description": "Id",
             "type": "number"
         },
-        "size" : {
-            "type": "number"
-        },
         "name": {
             "type": "string"
+        },
+        "size" : {
+            "type": "number"
         }
     },
     "required": [
