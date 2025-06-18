@@ -1,8 +1,8 @@
-1. Wybierz państwo które ma najwięcej odkryć z fizyki oraz nazwa państwa kończy się na "a"
-2. Znajdź najstarsze i najmłodsze odkrycie z USA z fizyki
+1. Wybierz państwo którego nazwa kończy się na "a" i ma najwięcej odkryć z fizyki
+2. Znajdź najstarsze i najmłodsze odkrycie z USA z biologii
 3. Znajdź państwa które mają odkrycia z biologii po 1960 roku
-4. Znajdź średnią liczbę wszystkich odkryć na rok w każdym państwie w europie
+4. Znajdź średnią liczbę wszystkich odkryć na państwo w każdym kontynencie
 5. Wypisz dziedzine w której każde państwo z europy dokonało najwięcej odkryć
 6. Wypisz średnią liczbę odkryć na naukowca z każdego kontynetu
-7. Znajdź państwo z największą średnią liczbą odkryć na osobę
+7. Znajdź państwo z największą średnią liczbą odkryć na kilometr kwadratowy
 8. Znajdź miasto z którego pochodzi najwięcej fizyków
