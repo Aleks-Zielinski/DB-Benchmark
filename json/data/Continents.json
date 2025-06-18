@@ -1,37 +1,37 @@
 [
     {
-        "id": "1",
+        "id": 1,
         "name": "Europe",
-        "size": "10000000" 
+        "size": 10000000
     },
     {
-        "id": "2",
+        "id": 2,
         "name": "Asia",
-        "size": "44000000"
+        "size": 44000000
     },
     {
-        "id": "3",
+        "id": 3,
         "name": "North America",
-        "size": "24700000"
+        "size": 24700000
     },
     {
-        "id": "4",
+        "id": 4,
         "name": "South America",
-        "size": "17800000"
+        "size": 17800000
     },
     {
-        "id": "5",
+        "id": 5,
         "name": "Australia",
-        "size": "8600000"
+        "size": 8600000
     },
     {
-        "id": "6",
+        "id": 6,
         "name": "Africa",
-        "size": "30400000"
+        "size": 30400000
     },
     {
-        "id": "7",
+        "id": 7,
         "name": "Antarctica",
-        "size": "14200000"
+        "size": 14200000
     }
 ]

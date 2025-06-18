@@ -1,1298 +1,1298 @@
 [
-	{
-		"id": "1",
-		"full_name": {
-			"name": "Albert",
-			"surname": "Einstein"
-		},
-		"dates": {
-			"birthdate": "1879-03-14",
-			"deathdate": "1955-04-18"
-		},
-		"place_of_birth_id": "1"
-	},
-	{
-		"id": "2",
-		"full_name": {
-			"name": "Alexander",
-			"surname": "Fleming"
-		},
-		"dates": {
-			"birthdate": "1881-08-06",
-			"deathdate": "1955-03-11"
-		},
-		"place_of_birth_id": "2"
-	},
-	{
-		"id": "3",
-		"full_name": {
-			"name": "Francis",
-			"surname": "Crick"
-		},
-		"dates": {
-			"birthdate": "1916-06-08",
-			"deathdate": "2004-07-28"
-		},
-		"place_of_birth_id": "3"
-	},
-	{
-		"id": "4",
-		"full_name": {
-			"name": "James",
-			"surname": "Watson"
-		},
-		"dates": {
-			"birthdate": "1928-04-06",
-			"deathdate": "2024-12-01"
-		},
-		"place_of_birth_id": "4"
-	},
-	{
-		"id": "5",
-		"full_name": {
-			"name": "Max",
-			"surname": "Planck"
-		},
-		"dates": {
-			"birthdate": "1858-04-23",
-			"deathdate": "1947-10-04"
-		},
-		"place_of_birth_id": "5"
-	},
-	{
-		"id": "6",
-		"full_name": {
-			"name": "Orville",
-			"surname": "Wright"
-		},
-		"dates": {
-			"birthdate": "1871-08-19",
-			"deathdate": "1948-01-30"
-		},
-		"place_of_birth_id": "9"
-	},
-	{
-		"id": "7",
-		"full_name": {
-			"name": "Wilbur",
-			"surname": "Wright"
-		},
-		"dates": {
-			"birthdate": "1867-04-16",
-			"deathdate": "1912-05-30"
-		},
-		"place_of_birth_id": "10"
-	},
-	{
-		"id": "8",
-		"full_name": {
-			"name": "Marie",
-			"surname": "Curie"
-		},
-		"dates": {
-			"birthdate": "1867-11-07",
-			"deathdate": "1934-07-04"
-		},
-		"place_of_birth_id": "6"
-	},
-	{
-		"id": "9",
-		"full_name": {
-			"name": "Pierre",
-			"surname": "Curie"
-		},
-		"dates": {
-			"birthdate": "1859-05-15",
-			"deathdate": "1906-04-19"
-		},
-		"place_of_birth_id": "62"
-	},
-	{
-		"id": "10",
-		"full_name": {
-			"name": "Ernst",
-			"surname": "Ruska"
-		},
-		"dates": {
-			"birthdate": "1906-12-25",
-			"deathdate": "1988-05-27"
-		},
-		"place_of_birth_id": "11"
-	},
-	{
-		"id": "11",
-		"full_name": {
-			"name": "Max",
-			"surname": "Knoll"
-		},
-		"dates": {
-			"birthdate": "1897-07-17",
-			"deathdate": "1969-11-06"
-		},
-		"place_of_birth_id": "12"
-	},
-	{
-		"id": "12",
-		"full_name": {
-			"name": "Frederick",
-			"surname": "Banting"
-		},
-		"dates": {
-			"birthdate": "1891-11-14",
-			"deathdate": "1941-02-21"
-		},
-		"place_of_birth_id": "13"
-	},
-	{
-		"id": "13",
-		"full_name": {
-			"name": "Charles",
-			"surname": "Best"
-		},
-		"dates": {
-			"birthdate": "1899-02-27",
-			"deathdate": "1978-03-31"
-		},
-		"place_of_birth_id": "14"
-	},
-	{
-		"id": "14",
-		"full_name": {
-			"name": "John",
-			"surname": "Bardeen"
-		},
-		"dates": {
-			"birthdate": "1908-05-23",
-			"deathdate": "1991-01-30"
-		},
-		"place_of_birth_id": "15"
-	},
-	{
-		"id": "15",
-		"full_name": {
-			"name": "Walter",
-			"surname": "Brattain"
-		},
-		"dates": {
-			"birthdate": "1902-02-10",
-			"deathdate": "1987-10-13"
-		},
-		"place_of_birth_id": "16"
-	},
-	{
-		"id": "16",
-		"full_name": {
-			"name": "Theodore",
-			"surname": "Maiman"
-		},
-		"dates": {
-			"birthdate": "1927-07-11",
-			"deathdate": "2007-05-05"
-		},
-		"place_of_birth_id": "17"
-	},
-	{
-		"id": "17",
-		"full_name": {
-			"name": "Niels",
-			"surname": "Bohr"
-		},
-		"dates": {
-			"birthdate": "1885-10-07",
-			"deathdate": "1962-11-18"
-		},
-		"place_of_birth_id": "18"
-	},
-	{
-		"id": "18",
-		"full_name": {
-			"name": "Werner",
-			"surname": "Heisenberg"
-		},
-		"dates": {
-			"birthdate": "1901-12-05",
-			"deathdate": "1976-02-01"
-		},
-		"place_of_birth_id": "19"
-	},
-	{
-		"id": "19",
-		"full_name": {
-			"name": "Erwin",
-			"surname": "Schrodinger"
-		},
-		"dates": {
-			"birthdate": "1887-08-12",
-			"deathdate": "1961-01-04"
-		},
-		"place_of_birth_id": "7"
-	},
-	{
-		"id": "20",
-		"full_name": {
-			"name": "Enrico",
-			"surname": "Fermi"
-		},
-		"dates": {
-			"birthdate": "1901-09-29",
-			"deathdate": "1954-11-28"
-		},
-		"place_of_birth_id": "20"
-	},
-	{
-		"id": "21",
-		"full_name": {
-			"name": "Guglielmo",
-			"surname": "Marconi"
-		},
-		"dates": {
-			"birthdate": "1874-04-25",
-			"deathdate": "1937-07-20"
-		},
-		"place_of_birth_id": "21"
-	},
-	{
-		"id": "22",
-		"full_name": {
-			"name": "Karl",
-			"surname": "Landsteiner"
-		},
-		"dates": {
-			"birthdate": "1868-06-14",
-			"deathdate": "1943-06-26"
-		},
-		"place_of_birth_id": "7"
-	},
-	{
-		"id": "23",
-		"full_name": {
-			"name": "Wilhelm",
-			"surname": "Roentgen"
-		},
-		"dates": {
-			"birthdate": "1845-03-27",
-			"deathdate": "1923-02-10"
-		},
-		"place_of_birth_id": "22"
-	},
-	{
-		"id": "24",
-		"full_name": {
-			"name": "Willem",
-			"surname": "Einthoven"
-		},
-		"dates": {
-			"birthdate": "1860-05-21",
-			"deathdate": "1927-09-28"
-		},
-		"place_of_birth_id": "23"
-	},
-	{
-		"id": "25",
-		"full_name": {
-			"name": "Jan",
-			"surname": "Czochralski"
-		},
-		"dates": {
-			"birthdate": "1885-10-23",
-			"deathdate": "1953-04-22"
-		},
-		"place_of_birth_id": "24"
-	},
-	{
-		"id": "26",
-		"full_name": {
-			"name": "Jonas",
-			"surname": "Salk"
-		},
-		"dates": {
-			"birthdate": "1914-10-28",
-			"deathdate": "1995-06-23"
-		},
-		"place_of_birth_id": "25"
-	},
-	{
-		"id": "27",
-		"full_name": {
-			"name": "John",
-			"surname": "Baird"
-		},
-		"dates": {
-			"birthdate": "1888-08-13",
-			"deathdate": "1946-06-14"
-		},
-		"place_of_birth_id": "26"
-	},
-	{
-		"id": "28",
-		"full_name": {
-			"name": "Frederick",
-			"surname": "Hopkins"
-		},
-		"dates": {
-			"birthdate": "1861-06-20",
-			"deathdate": "1947-05-16"
-		},
-		"place_of_birth_id": "27"
-	},
-	{
-		"id": "29",
-		"full_name": {
-			"name": "Paul",
-			"surname": "Ehrlich"
-		},
-		"dates": {
-			"birthdate": "1854-03-14",
-			"deathdate": "1915-08-20"
-		},
-		"place_of_birth_id": "28"
-	},
-	{
-		"id": "30",
-		"full_name": {
-			"name": "Leo",
-			"surname": "Baekeland"
-		},
-		"dates": {
-			"birthdate": "1863-11-14",
-			"deathdate": "1944-02-23"
-		},
-		"place_of_birth_id": "29"
-	},
-	{
-		"id": "31",
-		"full_name": {
-			"name": "Marian",
-			"surname": "Rejewski"
-		},
-		"dates": {
-			"birthdate": "1905-08-16",
-			"deathdate": "1980-02-13"
-		},
-		"place_of_birth_id": "30"
-	},
-	{
-		"id": "32",
-		"full_name": {
-			"name": "Jerzy",
-			"surname": "Różycki"
-		},
-		"dates": {
-			"birthdate": "1909-07-24",
-			"deathdate": "1942-01-09"
-		},
-		"place_of_birth_id": "31"
-	},
-	{
-		"id": "33",
-		"full_name": {
-			"name": "John",
-			"surname": "von Neumann"
-		},
-		"dates": {
-			"birthdate": "1903-12-28",
-			"deathdate": "1957-02-08"
-		},
-		"place_of_birth_id": "32"
-	},
-	{
-		"id": "34",
-		"full_name": {
-			"name": "Rudolf",
-			"surname": "Weigl"
-		},
-		"dates": {
-			"birthdate": "1883-09-02",
-			"deathdate": "1957-08-11"
-		},
-		"place_of_birth_id": "33"
-	},
-	{
-		"id": "35",
-		"full_name": {
-			"name": "Kary",
-			"surname": "Mullis"
-		},
-		"dates": {
-			"birthdate": "1944-12-28",
-			"deathdate": "2019-08-07"
-		},
-		"place_of_birth_id": "34"
-	},
-	{
-		"id": "36",
-		"full_name": {
-			"name": "Tim",
-			"surname": "Berners-Lee"
-		},
-		"dates": {
-			"birthdate": "1955-06-08",
-			"deathdate": "NULL"
-		},
-		"place_of_birth_id": "35"
-	},
-	{
-		"id": "37",
-		"full_name": {
-			"name": "Christiaan",
-			"surname": "Barnard"
-		},
-		"dates": {
-			"birthdate": "1922-11-08",
-			"deathdate": "2001-09-02"
-		},
-		"place_of_birth_id": "36"
-	},
-	{
-		"id": "38",
-		"full_name": {
-			"name": "Ted",
-			"surname": "Hoff"
-		},
-		"dates": {
-			"birthdate": "1937-10-28",
-			"deathdate": "NULL"
-		},
-		"place_of_birth_id": "37"
-	},
-	{
-		"id": "39",
-		"full_name": {
-			"name": "Frederico",
-			"surname": "Faggin"
-		},
-		"dates": {
-			"birthdate": "1941-12-01",
-			"deathdate": "NULL"
-		},
-		"place_of_birth_id": "38"
-	},
-	{
-		"id": "40",
-		"full_name": {
-			"name": "Carl",
-			"surname": "von Linde"
-		},
-		"dates": {
-			"birthdate": "1842-06-11",
-			"deathdate": "1934-11-16"
-		},
-		"place_of_birth_id": "39"
-	},
-	{
-		"id": "41",
-		"full_name": {
-			"name": "Wallace",
-			"surname": "Carothers"
-		},
-		"dates": {
-			"birthdate": "1896-04-27",
-			"deathdate": "1937-04-29"
-		},
-		"place_of_birth_id": "40"
-	},
-	{
-		"id": "42",
-		"full_name": {
-			"name": "Heike",
-			"surname": "Kamerlingh Onnes"
-		},
-		"dates": {
-			"birthdate": "1853-09-21",
-			"deathdate": "1926-02-21"
-		},
-		"place_of_birth_id": "41"
-	},
-	{
-		"id": "43",
-		"full_name": {
-			"name": "Dennis",
-			"surname": "Gabor"
-		},
-		"dates": {
-			"birthdate": "1900-06-05",
-			"deathdate": "1979-02-08"
-		},
-		"place_of_birth_id": "32"
-	},
-	{
-		"id": "44",
-		"full_name": {
-			"name": "Gerhard",
-			"surname": "Domagk"
-		},
-		"dates": {
-			"birthdate": "1895-10-30",
-			"deathdate": "1964-04-24"
-		},
-		"place_of_birth_id": "42"
-	},
-	{
-		"id": "45",
-		"full_name": {
-			"name": "Victor",
-			"surname": "Hess"
-		},
-		"dates": {
-			"birthdate": "1883-06-24",
-			"deathdate": "1964-12-17"
-		},
-		"place_of_birth_id": "43"
-	},
-	{
-		"id": "46",
-		"full_name": {
-			"name": "Max",
-			"surname": "von Laue"
-		},
-		"dates": {
-			"birthdate": "1879-10-09",
-			"deathdate": "1960-04-24"
-		},
-		"place_of_birth_id": "44"
-	},
-	{
-		"id": "47",
-		"full_name": {
-			"name": "William",
-			"surname": "Bragg"
-		},
-		"dates": {
-			"birthdate": "1862-07-02",
-			"deathdate": "1942-03-12"
-		},
-		"place_of_birth_id": "45"
-	},
-	{
-		"id": "48",
-		"full_name": {
-			"name": "Willem",
-			"surname": "Kolff"
-		},
-		"dates": {
-			"birthdate": "1911-02-14",
-			"deathdate": "2009-02-11"
-		},
-		"place_of_birth_id": "46"
-	},
-	{
-		"id": "49",
-		"full_name": {
-			"name": "Arnold",
-			"surname": "Sommerfeld"
-		},
-		"dates": {
-			"birthdate": "1868-12-05",
-			"deathdate": "1951-04-26"
-		},
-		"place_of_birth_id": "47"
-	},
-	{
-		"id": "50",
-		"full_name": {
-			"name": "John",
-			"surname": "Fleming"
-		},
-		"dates": {
-			"birthdate": "1849-11-29",
-			"deathdate": "1945-04-18"
-		},
-		"place_of_birth_id": "48"
-	},
-	{
-		"id": "51",
-		"full_name": {
-			"name": "Norbert",
-			"surname": "Weiner"
-		},
-		"dates": {
-			"birthdate": "1894-11-26",
-			"deathdate": "1964-03-18"
-		},
-		"place_of_birth_id": "49"
-	},
-	{
-		"id": "52",
-		"full_name": {
-			"name": "Claude",
-			"surname": "Shannon"
-		},
-		"dates": {
-			"birthdate": "1916-04-30",
-			"deathdate": "2001-02-24"
-		},
-		"place_of_birth_id": "50"
-	},
-	{
-		"id": "53",
-		"full_name": {
-			"name": "Benoit",
-			"surname": "Mandelbrot"
-		},
-		"dates": {
-			"birthdate": "1924-11-20",
-			"deathdate": "2010-10-14"
-		},
-		"place_of_birth_id": "6"
-	},
-	{
-		"id": "54",
-		"full_name": {
-			"name": "Egas",
-			"surname": "Moniz"
-		},
-		"dates": {
-			"birthdate": "1874-11-29",
-			"deathdate": "1955-12-13"
-		},
-		"place_of_birth_id": "51"
-	},
-	{
-		"id": "55",
-		"full_name": {
-			"name": "Alfred",
-			"surname": "Blalock"
-		},
-		"dates": {
-			"birthdate": "1899-04-05",
-			"deathdate": "1964-09-15"
-		},
-		"place_of_birth_id": "52"
-	},
-	{
-		"id": "56",
-		"full_name": {
-			"name": "Harvey",
-			"surname": "Cushing"
-		},
-		"dates": {
-			"birthdate": "1869-04-08",
-			"deathdate": "1939-10-07"
-		},
-		"place_of_birth_id": "53"
-	},
-	{
-		"id": "57",
-		"full_name": {
-			"name": "Royal",
-			"surname": "Whitman"
-		},
-		"dates": {
-			"birthdate": "1857-06-03",
-			"deathdate": "1946-12-25"
-		},
-		"place_of_birth_id": "25"
-	},
-	{
-		"id": "58",
-		"full_name": {
-			"name": "Frank",
-			"surname": "Krusen"
-		},
-		"dates": {
-			"birthdate": "1898-02-10",
-			"deathdate": "1973-08-05"
-		},
-		"place_of_birth_id": "37"
-	},
-	{
-		"id": "59",
-		"full_name": {
-			"name": "Marguerite",
-			"surname": "Sanderson"
-		},
-		"dates": {
-			"birthdate": "1882-01-01",
-			"deathdate": "1956-12-31"
-		},
-		"place_of_birth_id": "54"
-	},
-	{
-		"id": "60",
-		"full_name": {
-			"name": "Sigmund",
-			"surname": "Freud"
-		},
-		"dates": {
-			"birthdate": "1856-05-06",
-			"deathdate": "1939-09-23"
-		},
-		"place_of_birth_id": "55"
-	},
-	{
-		"id": "61",
-		"full_name": {
-			"name": "Fritz",
-			"surname": "Hofmann"
-		},
-		"dates": {
-			"birthdate": "1871-11-05",
-			"deathdate": "1956-11-08"
-		},
-		"place_of_birth_id": "56"
-	},
-	{
-		"id": "62",
-		"full_name": {
-			"name": "Eugene",
-			"surname": "Rochow"
-		},
-		"dates": {
-			"birthdate": "1909-10-04",
-			"deathdate": "2002-03-21"
-		},
-		"place_of_birth_id": "57"
-	},
-	{
-		"id": "63",
-		"full_name": {
-			"name": "Paul",
-			"surname": "Muller"
-		},
-		"dates": {
-			"birthdate": "1899-01-12",
-			"deathdate": "1965-10-13"
-		},
-		"place_of_birth_id": "58"
-	},
-	{
-		"id": "64",
-		"full_name": {
-			"name": "Fritz",
-			"surname": "Gunther"
-		},
-		"dates": {
-			"birthdate": "1886-03-15",
-			"deathdate": "1958-08-22"
-		},
-		"place_of_birth_id": "59"
-	},
-	{
-		"id": "65",
-		"full_name": {
-			"name": "Otto",
-			"surname": "Rohm"
-		},
-		"dates": {
-			"birthdate": "1876-03-14",
-			"deathdate": "1939-09-08"
-		},
-		"place_of_birth_id": "60"
-	},
-	{
-		"id": "66",
-		"full_name": {
-			"name": "Jean",
-			"surname": "Delay"
-		},
-		"dates": {
-			"birthdate": "1907-11-14",
-			"deathdate": "1987-05-29"
-		},
-		"place_of_birth_id": "61"
-	},
-	{
-		"id": "67",
-		"full_name": {
-			"name": "Pierre",
-			"surname": "Deniker"
-		},
-		"dates": {
-			"birthdate": "1917-07-21",
-			"deathdate": "1998-09-10"
-		},
-		"place_of_birth_id": "62"
-	},
-	{
-		"id": "68",
-		"full_name": {
-			"name": "John",
-			"surname": "Lundy"
-		},
-		"dates": {
-			"birthdate": "1894-02-20",
-			"deathdate": "1973-01-22"
-		},
-		"place_of_birth_id": "63"
-	},
-	{
-		"id": "69",
-		"full_name": {
-			"name": "Adolf",
-			"surname": "Butenandt"
-		},
-		"dates": {
-			"birthdate": "1903-03-24",
-			"deathdate": "1995-01-18"
-		},
-		"place_of_birth_id": "64"
-	},
-	{
-		"id": "70",
-		"full_name": {
-			"name": "Alexander",
-			"surname": "Bell"
-		},
-		"dates": {
-			"birthdate": "1847-03-03",
-			"deathdate": "1922-08-02"
-		},
-		"place_of_birth_id": "65"
-	},
-	{
-		"id": "71",
-		"full_name": {
-			"name": "Thomas",
-			"surname": "Edison"
-		},
-		"dates": {
-			"birthdate": "1874-02-11",
-			"deathdate": "1931-10-18"
-		},
-		"place_of_birth_id": "66"
-	},
-	{
-		"id": "72",
-		"full_name": {
-			"name": "Auguste",
-			"surname": "Lumiere"
-		},
-		"dates": {
-			"birthdate": "1862-10-19",
-			"deathdate": "1954-04-10"
-		},
-		"place_of_birth_id": "67"
-	},
-	{
-		"id": "73",
-		"full_name": {
-			"name": "Louis",
-			"surname": "Lumiere"
-		},
-		"dates": {
-			"birthdate": "1864-10-05",
-			"deathdate": "1948-06-06"
-		},
-		"place_of_birth_id": "67"
-	},
-	{
-		"id": "74",
-		"full_name": {
-			"name": "John",
-			"surname": "Bendix"
-		},
-		"dates": {
-			"birthdate": "1882-08-03",
-			"deathdate": "1945-03-27"
-		},
-		"place_of_birth_id": "68"
-	},
-	{
-		"id": "75",
-		"full_name": {
-			"name": "Peter",
-			"surname": "Goldmark"
-		},
-		"dates": {
-			"birthdate": "1906-12-02",
-			"deathdate": "1977-12-07"
-		},
-		"place_of_birth_id": "32"
-	},
-	{
-		"id": "76",
-		"full_name": {
-			"name": "Arthur",
-			"surname": "Clarke"
-		},
-		"dates": {
-			"birthdate": "1917-12-16",
-			"deathdate": "2008-03-19"
-		},
-		"place_of_birth_id": "69"
-	},
-	{
-		"id": "77",
-		"full_name": {
-			"name": "Bradford",
-			"surname": "Parkinson"
-		},
-		"dates": {
-			"birthdate": "1935-02-16",
-			"deathdate": "NULL"
-		},
-		"place_of_birth_id": "15"
-	},
-	{
-		"id": "78",
-		"full_name": {
-			"name": "Steve",
-			"surname": "Jobs"
-		},
-		"dates": {
-			"birthdate": "1955-02-24",
-			"deathdate": "2011-10-05"
-		},
-		"place_of_birth_id": "70"
-	},
-	{
-		"id": "79",
-		"full_name": {
-			"name": "Julius",
-			"surname": "Jacobson"
-		},
-		"dates": {
-			"birthdate": "1927-06-21",
-			"deathdate": "2016-01-10"
-		},
-		"place_of_birth_id": "4"
-	},
-	{
-		"id": "80",
-		"full_name": {
-			"name": "Godfrey",
-			"surname": "Hounsfield"
-		},
-		"dates": {
-			"birthdate": "1919-08-28",
-			"deathdate": "2004-08-12"
-		},
-		"place_of_birth_id": "71"
-	},
-	{
-		"id": "81",
-		"full_name": {
-			"name": "Allan",
-			"surname": "Cormack"
-		},
-		"dates": {
-			"birthdate": "1924-02-23",
-			"deathdate": "1998-05-07"
-		},
-		"place_of_birth_id": "72"
-	},
-	{
-		"id": "82",
-		"full_name": {
-			"name": "Paul",
-			"surname": "Lauterbur"
-		},
-		"dates": {
-			"birthdate": "1929-05-06",
-			"deathdate": "2007-03-27"
-		},
-		"place_of_birth_id": "73"
-	},
-	{
-		"id": "83",
-		"full_name": {
-			"name": "Basil",
-			"surname": "Hirschowitz"
-		},
-		"dates": {
-			"birthdate": "1925-05-18",
-			"deathdate": "2013-01-19"
-		},
-		"place_of_birth_id": "74"
-	},
-	{
-		"id": "84",
-		"full_name": {
-			"name": "Ian",
-			"surname": "Wilmut"
-		},
-		"dates": {
-			"birthdate": "1944-07-07",
-			"deathdate": "2023-09-10"
-		},
-		"place_of_birth_id": "75"
-	},
-	{
-		"id": "85",
-		"full_name": {
-			"name": "William",
-			"surname": "Anderson"
-		},
-		"dates": {
-			"birthdate": "1936-12-31",
-			"deathdate": "2024-01-10"
-		},
-		"place_of_birth_id": "76"
-	},
-	{
-		"id": "86",
-		"full_name": {
-			"name": "Francis",
-			"surname": "Collins"
-		},
-		"dates": {
-			"birthdate": "1950-04-14",
-			"deathdate": "NULL"
-		},
-		"place_of_birth_id": "77"
-	},
-	{
-		"id": "87",
-		"full_name": {
-			"name": "Eric",
-			"surname": "Drexler"
-		},
-		"dates": {
-			"birthdate": "1955-04-25",
-			"deathdate": "NULL"
-		},
-		"place_of_birth_id": "78"
-	},
-	{
-		"id": "88",
-		"full_name": {
-			"name": "Charles",
-			"surname": "Kao"
-		},
-		"dates": {
-			"birthdate": "1933-11-04",
-			"deathdate": "2018-09-23"
-		},
-		"place_of_birth_id": "79"
-	},
-	{
-		"id": "89",
-		"full_name": {
-			"name": "George",
-			"surname": "Hockham"
-		},
-		"dates": {
-			"birthdate": "1938-01-01",
-			"deathdate": "2013-11-09"
-		},
-		"place_of_birth_id": "80"
-	},
-	{
-		"id": "90",
-		"full_name": {
-			"name": "Calvin",
-			"surname": "Fuller"
-		},
-		"dates": {
-			"birthdate": "1902-05-25",
-			"deathdate": "1994-10-28"
-		},
-		"place_of_birth_id": "4"
-	},
-	{
-		"id": "91",
-		"full_name": {
-			"name": "Stanisław",
-			"surname": "Ulam"
-		},
-		"dates": {
-			"birthdate": "1909-04-13",
-			"deathdate": "1984-05-13"
-		},
-		"place_of_birth_id": "81"
-	},
-	{
-		"id": "92",
-		"full_name": {
-			"name": "Whitfield",
-			"surname": "Diffie"
-		},
-		"dates": {
-			"birthdate": "1944-06-05",
-			"deathdate": "NULL"
-		},
-		"place_of_birth_id": "82"
-	},
-	{
-		"id": "93",
-		"full_name": {
-			"name": "Martin",
-			"surname": "Hellman"
-		},
-		"dates": {
-			"birthdate": "1945-10-02",
-			"deathdate": "NULL"
-		},
-		"place_of_birth_id": "25"
-	},
-	{
-		"id": "94",
-		"full_name": {
-			"name": "Arthur",
-			"surname": "Kornberg"
-		},
-		"dates": {
-			"birthdate": "1918-03-03",
-			"deathdate": "2007-10-26"
-		},
-		"place_of_birth_id": "25"
-	},
-	{
-		"id": "95",
-		"full_name": {
-			"name": "Gregor",
-			"surname": "Mendel"
-		},
-		"dates": {
-			"birthdate": "1822-07-20",
-			"deathdate": "1884-01-06"
-		},
-		"place_of_birth_id": "83"
-	},
-	{
-		"id": "96",
-		"full_name": {
-			"name": "Hilary",
-			"surname": "Koprowski"
-		},
-		"dates": {
-			"birthdate": "1916-12-05",
-			"deathdate": "2013-04-11"
-		},
-		"place_of_birth_id": "6"
-	},
-	{
-		"id": "97",
-		"full_name": {
-			"name": "Otto",
-			"surname": "Hahn"
-		},
-		"dates": {
-			"birthdate": "1879-03-08",
-			"deathdate": "1968-07-28"
-		},
-		"place_of_birth_id": "84"
-	},
-	{
-		"id": "98",
-		"full_name": {
-			"name": "Fritz",
-			"surname": "Strassmann"
-		},
-		"dates": {
-			"birthdate": "1902-02-22",
-			"deathdate": "1980-04-22"
-		},
-		"place_of_birth_id": "85"
-	},
-	{
-		"id": "99",
-		"full_name": {
-			"name": "Ignacy",
-			"surname": "Łukasiewicz"
-		},
-		"dates": {
-			"birthdate": "1822-03-08",
-			"deathdate": "1882-01-07"
-		},
-		"place_of_birth_id": "86"
-	},
-	{
-		"id": "100",
-		"full_name": {
-			"name": "Charles",
-			"surname": "Townes"
-		},
-		"dates": {
-			"birthdate": "1915-07-28",
-			"deathdate": "2015-01-27"
-		},
-		"place_of_birth_id": "87"
-	},
-	{
-		"id": "101",
-		"full_name": {
-			"name": "James",
-			"surname": "Gordon"
-		},
-		"dates": {
-			"birthdate": "1928-01-04",
-			"deathdate": "2013-12-25"
-		},
-		"place_of_birth_id": "4"
-	},
-	{
-		"id": "102",
-		"full_name": {
-			"name": "Richard",
-			"surname": "Feynman"
-		},
-		"dates": {
-			"birthdate": "1918-05-11",
-			"deathdate": "1988-02-15"
-		},
-		"place_of_birth_id": "25"
-	},
-	{
-		"id": "103",
-		"full_name": {
-			"name": "Julian",
-			"surname": "Schwinger"
-		},
-		"dates": {
-			"birthdate": "1918-02-12",
-			"deathdate": "1994-07-16"
-		},
-		"place_of_birth_id": "25"
-	},
-	{
-		"id": "104",
-		"full_name": {
-			"name": "Alan",
-			"surname": "Turing"
-		},
-		"dates": {
-			"birthdate": "1912-06-23",
-			"deathdate": "1954-06-07"
-		},
-		"place_of_birth_id": "35"
-	},
-	{
-		"id": "105",
-		"full_name": {
-			"name": "Dmitrij",
-			"surname": "Mendelejew"
-		},
-		"dates": {
-			"birthdate": "1834-02-08",
-			"deathdate": "1907-02-02"
-		},
-		"place_of_birth_id": "88"
-	},
-	{
-		"id": "106",
-		"full_name": {
-			"name": "Frederick",
-			"surname": "Griffith"
-		},
-		"dates": {
-			"birthdate": "1879-10-03",
-			"deathdate": "1941-02-18"
-		},
-		"place_of_birth_id": "89"
-	},
-	{
-		"id": "107",
-		"full_name": {
-			"name": "Nettie",
-			"surname": "Stevens"
-		},
-		"dates": {
-			"birthdate": "1861-07-07",
-			"deathdate": "1912-05-04"
-		},
-		"place_of_birth_id": "90"
-	},
-	{
-		"id": "108",
-		"full_name": {
-			"name": "Thomas",
-			"surname": "Morgan"
-		},
-		"dates": {
-			"birthdate": "1866-09-25",
-			"deathdate": "1945-12-04"
-		},
-		"place_of_birth_id": "91"
-	}
+    {
+        "id": 1,
+        "full_name": {
+            "name": "Albert",
+            "surname": "Einstein"
+        },
+        "dates": {
+            "birthdate": "1879-03-14",
+            "deathdate": "1955-04-18"
+        },
+        "place_of_birth_id": 1
+    },
+    {
+        "id": 2,
+        "full_name": {
+            "name": "Alexander",
+            "surname": "Fleming"
+        },
+        "dates": {
+            "birthdate": "1881-08-06",
+            "deathdate": "1955-03-11"
+        },
+        "place_of_birth_id": 2
+    },
+    {
+        "id": 3,
+        "full_name": {
+            "name": "Francis",
+            "surname": "Crick"
+        },
+        "dates": {
+            "birthdate": "1916-06-08",
+            "deathdate": "2004-07-28"
+        },
+        "place_of_birth_id": 3
+    },
+    {
+        "id": 4,
+        "full_name": {
+            "name": "James",
+            "surname": "Watson"
+        },
+        "dates": {
+            "birthdate": "1928-04-06",
+            "deathdate": "2024-12-01"
+        },
+        "place_of_birth_id": 4
+    },
+    {
+        "id": 5,
+        "full_name": {
+            "name": "Max",
+            "surname": "Planck"
+        },
+        "dates": {
+            "birthdate": "1858-04-23",
+            "deathdate": "1947-10-04"
+        },
+        "place_of_birth_id": 5
+    },
+    {
+        "id": 6,
+        "full_name": {
+            "name": "Orville",
+            "surname": "Wright"
+        },
+        "dates": {
+            "birthdate": "1871-08-19",
+            "deathdate": "1948-01-30"
+        },
+        "place_of_birth_id": 9
+    },
+    {
+        "id": 7,
+        "full_name": {
+            "name": "Wilbur",
+            "surname": "Wright"
+        },
+        "dates": {
+            "birthdate": "1867-04-16",
+            "deathdate": "1912-05-30"
+        },
+        "place_of_birth_id": 10
+    },
+    {
+        "id": 8,
+        "full_name": {
+            "name": "Marie",
+            "surname": "Curie"
+        },
+        "dates": {
+            "birthdate": "1867-11-07",
+            "deathdate": "1934-07-04"
+        },
+        "place_of_birth_id": 6
+    },
+    {
+        "id": 9,
+        "full_name": {
+            "name": "Pierre",
+            "surname": "Curie"
+        },
+        "dates": {
+            "birthdate": "1859-05-15",
+            "deathdate": "1906-04-19"
+        },
+        "place_of_birth_id": 62
+    },
+    {
+        "id": 10,
+        "full_name": {
+            "name": "Ernst",
+            "surname": "Ruska"
+        },
+        "dates": {
+            "birthdate": "1906-12-25",
+            "deathdate": "1988-05-27"
+        },
+        "place_of_birth_id": 11
+    },
+    {
+        "id": 11,
+        "full_name": {
+            "name": "Max",
+            "surname": "Knoll"
+        },
+        "dates": {
+            "birthdate": "1897-07-17",
+            "deathdate": "1969-11-06"
+        },
+        "place_of_birth_id": 12
+    },
+    {
+        "id": 12,
+        "full_name": {
+            "name": "Frederick",
+            "surname": "Banting"
+        },
+        "dates": {
+            "birthdate": "1891-11-14",
+            "deathdate": "1941-02-21"
+        },
+        "place_of_birth_id": 13
+    },
+    {
+        "id": 13,
+        "full_name": {
+            "name": "Charles",
+            "surname": "Best"
+        },
+        "dates": {
+            "birthdate": "1899-02-27",
+            "deathdate": "1978-03-31"
+        },
+        "place_of_birth_id": 14
+    },
+    {
+        "id": 14,
+        "full_name": {
+            "name": "John",
+            "surname": "Bardeen"
+        },
+        "dates": {
+            "birthdate": "1908-05-23",
+            "deathdate": "1991-01-30"
+        },
+        "place_of_birth_id": 15
+    },
+    {
+        "id": 15,
+        "full_name": {
+            "name": "Walter",
+            "surname": "Brattain"
+        },
+        "dates": {
+            "birthdate": "1902-02-10",
+            "deathdate": "1987-10-13"
+        },
+        "place_of_birth_id": 16
+    },
+    {
+        "id": 16,
+        "full_name": {
+            "name": "Theodore",
+            "surname": "Maiman"
+        },
+        "dates": {
+            "birthdate": "1927-07-11",
+            "deathdate": "2007-05-05"
+        },
+        "place_of_birth_id": 17
+    },
+    {
+        "id": 17,
+        "full_name": {
+            "name": "Niels",
+            "surname": "Bohr"
+        },
+        "dates": {
+            "birthdate": "1885-10-07",
+            "deathdate": "1962-11-18"
+        },
+        "place_of_birth_id": 18
+    },
+    {
+        "id": 18,
+        "full_name": {
+            "name": "Werner",
+            "surname": "Heisenberg"
+        },
+        "dates": {
+            "birthdate": "1901-12-05",
+            "deathdate": "1976-02-01"
+        },
+        "place_of_birth_id": 19
+    },
+    {
+        "id": 19,
+        "full_name": {
+            "name": "Erwin",
+            "surname": "Schrodinger"
+        },
+        "dates": {
+            "birthdate": "1887-08-12",
+            "deathdate": "1961-01-04"
+        },
+        "place_of_birth_id": 7
+    },
+    {
+        "id": 20,
+        "full_name": {
+            "name": "Enrico",
+            "surname": "Fermi"
+        },
+        "dates": {
+            "birthdate": "1901-09-29",
+            "deathdate": "1954-11-28"
+        },
+        "place_of_birth_id": 20
+    },
+    {
+        "id": 21,
+        "full_name": {
+            "name": "Guglielmo",
+            "surname": "Marconi"
+        },
+        "dates": {
+            "birthdate": "1874-04-25",
+            "deathdate": "1937-07-20"
+        },
+        "place_of_birth_id": 21
+    },
+    {
+        "id": 22,
+        "full_name": {
+            "name": "Karl",
+            "surname": "Landsteiner"
+        },
+        "dates": {
+            "birthdate": "1868-06-14",
+            "deathdate": "1943-06-26"
+        },
+        "place_of_birth_id": 7
+    },
+    {
+        "id": 23,
+        "full_name": {
+            "name": "Wilhelm",
+            "surname": "Roentgen"
+        },
+        "dates": {
+            "birthdate": "1845-03-27",
+            "deathdate": "1923-02-10"
+        },
+        "place_of_birth_id": 22
+    },
+    {
+        "id": 24,
+        "full_name": {
+            "name": "Willem",
+            "surname": "Einthoven"
+        },
+        "dates": {
+            "birthdate": "1860-05-21",
+            "deathdate": "1927-09-28"
+        },
+        "place_of_birth_id": 23
+    },
+    {
+        "id": 25,
+        "full_name": {
+            "name": "Jan",
+            "surname": "Czochralski"
+        },
+        "dates": {
+            "birthdate": "1885-10-23",
+            "deathdate": "1953-04-22"
+        },
+        "place_of_birth_id": 24
+    },
+    {
+        "id": 26,
+        "full_name": {
+            "name": "Jonas",
+            "surname": "Salk"
+        },
+        "dates": {
+            "birthdate": "1914-10-28",
+            "deathdate": "1995-06-23"
+        },
+        "place_of_birth_id": 25
+    },
+    {
+        "id": 27,
+        "full_name": {
+            "name": "John",
+            "surname": "Baird"
+        },
+        "dates": {
+            "birthdate": "1888-08-13",
+            "deathdate": "1946-06-14"
+        },
+        "place_of_birth_id": 26
+    },
+    {
+        "id": 28,
+        "full_name": {
+            "name": "Frederick",
+            "surname": "Hopkins"
+        },
+        "dates": {
+            "birthdate": "1861-06-20",
+            "deathdate": "1947-05-16"
+        },
+        "place_of_birth_id": 27
+    },
+    {
+        "id": 29,
+        "full_name": {
+            "name": "Paul",
+            "surname": "Ehrlich"
+        },
+        "dates": {
+            "birthdate": "1854-03-14",
+            "deathdate": "1915-08-20"
+        },
+        "place_of_birth_id": 28
+    },
+    {
+        "id": 30,
+        "full_name": {
+            "name": "Leo",
+            "surname": "Baekeland"
+        },
+        "dates": {
+            "birthdate": "1863-11-14",
+            "deathdate": "1944-02-23"
+        },
+        "place_of_birth_id": 29
+    },
+    {
+        "id": 31,
+        "full_name": {
+            "name": "Marian",
+            "surname": "Rejewski"
+        },
+        "dates": {
+            "birthdate": "1905-08-16",
+            "deathdate": "1980-02-13"
+        },
+        "place_of_birth_id": 30
+    },
+    {
+        "id": 32,
+        "full_name": {
+            "name": "Jerzy",
+            "surname": "R\u00f3\u017cycki"
+        },
+        "dates": {
+            "birthdate": "1909-07-24",
+            "deathdate": "1942-01-09"
+        },
+        "place_of_birth_id": 31
+    },
+    {
+        "id": 33,
+        "full_name": {
+            "name": "John",
+            "surname": "von Neumann"
+        },
+        "dates": {
+            "birthdate": "1903-12-28",
+            "deathdate": "1957-02-08"
+        },
+        "place_of_birth_id": 32
+    },
+    {
+        "id": 34,
+        "full_name": {
+            "name": "Rudolf",
+            "surname": "Weigl"
+        },
+        "dates": {
+            "birthdate": "1883-09-02",
+            "deathdate": "1957-08-11"
+        },
+        "place_of_birth_id": 33
+    },
+    {
+        "id": 35,
+        "full_name": {
+            "name": "Kary",
+            "surname": "Mullis"
+        },
+        "dates": {
+            "birthdate": "1944-12-28",
+            "deathdate": "2019-08-07"
+        },
+        "place_of_birth_id": 34
+    },
+    {
+        "id": 36,
+        "full_name": {
+            "name": "Tim",
+            "surname": "Berners-Lee"
+        },
+        "dates": {
+            "birthdate": "1955-06-08",
+            "deathdate": "NULL"
+        },
+        "place_of_birth_id": 35
+    },
+    {
+        "id": 37,
+        "full_name": {
+            "name": "Christiaan",
+            "surname": "Barnard"
+        },
+        "dates": {
+            "birthdate": "1922-11-08",
+            "deathdate": "2001-09-02"
+        },
+        "place_of_birth_id": 36
+    },
+    {
+        "id": 38,
+        "full_name": {
+            "name": "Ted",
+            "surname": "Hoff"
+        },
+        "dates": {
+            "birthdate": "1937-10-28",
+            "deathdate": "NULL"
+        },
+        "place_of_birth_id": 37
+    },
+    {
+        "id": 39,
+        "full_name": {
+            "name": "Frederico",
+            "surname": "Faggin"
+        },
+        "dates": {
+            "birthdate": "1941-12-01",
+            "deathdate": "NULL"
+        },
+        "place_of_birth_id": 38
+    },
+    {
+        "id": 40,
+        "full_name": {
+            "name": "Carl",
+            "surname": "von Linde"
+        },
+        "dates": {
+            "birthdate": "1842-06-11",
+            "deathdate": "1934-11-16"
+        },
+        "place_of_birth_id": 39
+    },
+    {
+        "id": 41,
+        "full_name": {
+            "name": "Wallace",
+            "surname": "Carothers"
+        },
+        "dates": {
+            "birthdate": "1896-04-27",
+            "deathdate": "1937-04-29"
+        },
+        "place_of_birth_id": 40
+    },
+    {
+        "id": 42,
+        "full_name": {
+            "name": "Heike",
+            "surname": "Kamerlingh Onnes"
+        },
+        "dates": {
+            "birthdate": "1853-09-21",
+            "deathdate": "1926-02-21"
+        },
+        "place_of_birth_id": 41
+    },
+    {
+        "id": 43,
+        "full_name": {
+            "name": "Dennis",
+            "surname": "Gabor"
+        },
+        "dates": {
+            "birthdate": "1900-06-05",
+            "deathdate": "1979-02-08"
+        },
+        "place_of_birth_id": 32
+    },
+    {
+        "id": 44,
+        "full_name": {
+            "name": "Gerhard",
+            "surname": "Domagk"
+        },
+        "dates": {
+            "birthdate": "1895-10-30",
+            "deathdate": "1964-04-24"
+        },
+        "place_of_birth_id": 42
+    },
+    {
+        "id": 45,
+        "full_name": {
+            "name": "Victor",
+            "surname": "Hess"
+        },
+        "dates": {
+            "birthdate": "1883-06-24",
+            "deathdate": "1964-12-17"
+        },
+        "place_of_birth_id": 43
+    },
+    {
+        "id": 46,
+        "full_name": {
+            "name": "Max",
+            "surname": "von Laue"
+        },
+        "dates": {
+            "birthdate": "1879-10-09",
+            "deathdate": "1960-04-24"
+        },
+        "place_of_birth_id": 44
+    },
+    {
+        "id": 47,
+        "full_name": {
+            "name": "William",
+            "surname": "Bragg"
+        },
+        "dates": {
+            "birthdate": "1862-07-02",
+            "deathdate": "1942-03-12"
+        },
+        "place_of_birth_id": 45
+    },
+    {
+        "id": 48,
+        "full_name": {
+            "name": "Willem",
+            "surname": "Kolff"
+        },
+        "dates": {
+            "birthdate": "1911-02-14",
+            "deathdate": "2009-02-11"
+        },
+        "place_of_birth_id": 46
+    },
+    {
+        "id": 49,
+        "full_name": {
+            "name": "Arnold",
+            "surname": "Sommerfeld"
+        },
+        "dates": {
+            "birthdate": "1868-12-05",
+            "deathdate": "1951-04-26"
+        },
+        "place_of_birth_id": 47
+    },
+    {
+        "id": 50,
+        "full_name": {
+            "name": "John",
+            "surname": "Fleming"
+        },
+        "dates": {
+            "birthdate": "1849-11-29",
+            "deathdate": "1945-04-18"
+        },
+        "place_of_birth_id": 48
+    },
+    {
+        "id": 51,
+        "full_name": {
+            "name": "Norbert",
+            "surname": "Weiner"
+        },
+        "dates": {
+            "birthdate": "1894-11-26",
+            "deathdate": "1964-03-18"
+        },
+        "place_of_birth_id": 49
+    },
+    {
+        "id": 52,
+        "full_name": {
+            "name": "Claude",
+            "surname": "Shannon"
+        },
+        "dates": {
+            "birthdate": "1916-04-30",
+            "deathdate": "2001-02-24"
+        },
+        "place_of_birth_id": 50
+    },
+    {
+        "id": 53,
+        "full_name": {
+            "name": "Benoit",
+            "surname": "Mandelbrot"
+        },
+        "dates": {
+            "birthdate": "1924-11-20",
+            "deathdate": "2010-10-14"
+        },
+        "place_of_birth_id": 6
+    },
+    {
+        "id": 54,
+        "full_name": {
+            "name": "Egas",
+            "surname": "Moniz"
+        },
+        "dates": {
+            "birthdate": "1874-11-29",
+            "deathdate": "1955-12-13"
+        },
+        "place_of_birth_id": 51
+    },
+    {
+        "id": 55,
+        "full_name": {
+            "name": "Alfred",
+            "surname": "Blalock"
+        },
+        "dates": {
+            "birthdate": "1899-04-05",
+            "deathdate": "1964-09-15"
+        },
+        "place_of_birth_id": 52
+    },
+    {
+        "id": 56,
+        "full_name": {
+            "name": "Harvey",
+            "surname": "Cushing"
+        },
+        "dates": {
+            "birthdate": "1869-04-08",
+            "deathdate": "1939-10-07"
+        },
+        "place_of_birth_id": 53
+    },
+    {
+        "id": 57,
+        "full_name": {
+            "name": "Royal",
+            "surname": "Whitman"
+        },
+        "dates": {
+            "birthdate": "1857-06-03",
+            "deathdate": "1946-12-25"
+        },
+        "place_of_birth_id": 25
+    },
+    {
+        "id": 58,
+        "full_name": {
+            "name": "Frank",
+            "surname": "Krusen"
+        },
+        "dates": {
+            "birthdate": "1898-02-10",
+            "deathdate": "1973-08-05"
+        },
+        "place_of_birth_id": 37
+    },
+    {
+        "id": 59,
+        "full_name": {
+            "name": "Marguerite",
+            "surname": "Sanderson"
+        },
+        "dates": {
+            "birthdate": "1882-01-01",
+            "deathdate": "1956-12-31"
+        },
+        "place_of_birth_id": 54
+    },
+    {
+        "id": 60,
+        "full_name": {
+            "name": "Sigmund",
+            "surname": "Freud"
+        },
+        "dates": {
+            "birthdate": "1856-05-06",
+            "deathdate": "1939-09-23"
+        },
+        "place_of_birth_id": 55
+    },
+    {
+        "id": 61,
+        "full_name": {
+            "name": "Fritz",
+            "surname": "Hofmann"
+        },
+        "dates": {
+            "birthdate": "1871-11-05",
+            "deathdate": "1956-11-08"
+        },
+        "place_of_birth_id": 56
+    },
+    {
+        "id": 62,
+        "full_name": {
+            "name": "Eugene",
+            "surname": "Rochow"
+        },
+        "dates": {
+            "birthdate": "1909-10-04",
+            "deathdate": "2002-03-21"
+        },
+        "place_of_birth_id": 57
+    },
+    {
+        "id": 63,
+        "full_name": {
+            "name": "Paul",
+            "surname": "Muller"
+        },
+        "dates": {
+            "birthdate": "1899-01-12",
+            "deathdate": "1965-10-13"
+        },
+        "place_of_birth_id": 58
+    },
+    {
+        "id": 64,
+        "full_name": {
+            "name": "Fritz",
+            "surname": "Gunther"
+        },
+        "dates": {
+            "birthdate": "1886-03-15",
+            "deathdate": "1958-08-22"
+        },
+        "place_of_birth_id": 59
+    },
+    {
+        "id": 65,
+        "full_name": {
+            "name": "Otto",
+            "surname": "Rohm"
+        },
+        "dates": {
+            "birthdate": "1876-03-14",
+            "deathdate": "1939-09-08"
+        },
+        "place_of_birth_id": 60
+    },
+    {
+        "id": 66,
+        "full_name": {
+            "name": "Jean",
+            "surname": "Delay"
+        },
+        "dates": {
+            "birthdate": "1907-11-14",
+            "deathdate": "1987-05-29"
+        },
+        "place_of_birth_id": 61
+    },
+    {
+        "id": 67,
+        "full_name": {
+            "name": "Pierre",
+            "surname": "Deniker"
+        },
+        "dates": {
+            "birthdate": "1917-07-21",
+            "deathdate": "1998-09-10"
+        },
+        "place_of_birth_id": 62
+    },
+    {
+        "id": 68,
+        "full_name": {
+            "name": "John",
+            "surname": "Lundy"
+        },
+        "dates": {
+            "birthdate": "1894-02-20",
+            "deathdate": "1973-01-22"
+        },
+        "place_of_birth_id": 63
+    },
+    {
+        "id": 69,
+        "full_name": {
+            "name": "Adolf",
+            "surname": "Butenandt"
+        },
+        "dates": {
+            "birthdate": "1903-03-24",
+            "deathdate": "1995-01-18"
+        },
+        "place_of_birth_id": 64
+    },
+    {
+        "id": 70,
+        "full_name": {
+            "name": "Alexander",
+            "surname": "Bell"
+        },
+        "dates": {
+            "birthdate": "1847-03-03",
+            "deathdate": "1922-08-02"
+        },
+        "place_of_birth_id": 65
+    },
+    {
+        "id": 71,
+        "full_name": {
+            "name": "Thomas",
+            "surname": "Edison"
+        },
+        "dates": {
+            "birthdate": "1874-02-11",
+            "deathdate": "1931-10-18"
+        },
+        "place_of_birth_id": 66
+    },
+    {
+        "id": 72,
+        "full_name": {
+            "name": "Auguste",
+            "surname": "Lumiere"
+        },
+        "dates": {
+            "birthdate": "1862-10-19",
+            "deathdate": "1954-04-10"
+        },
+        "place_of_birth_id": 67
+    },
+    {
+        "id": 73,
+        "full_name": {
+            "name": "Louis",
+            "surname": "Lumiere"
+        },
+        "dates": {
+            "birthdate": "1864-10-05",
+            "deathdate": "1948-06-06"
+        },
+        "place_of_birth_id": 67
+    },
+    {
+        "id": 74,
+        "full_name": {
+            "name": "John",
+            "surname": "Bendix"
+        },
+        "dates": {
+            "birthdate": "1882-08-03",
+            "deathdate": "1945-03-27"
+        },
+        "place_of_birth_id": 68
+    },
+    {
+        "id": 75,
+        "full_name": {
+            "name": "Peter",
+            "surname": "Goldmark"
+        },
+        "dates": {
+            "birthdate": "1906-12-02",
+            "deathdate": "1977-12-07"
+        },
+        "place_of_birth_id": 32
+    },
+    {
+        "id": 76,
+        "full_name": {
+            "name": "Arthur",
+            "surname": "Clarke"
+        },
+        "dates": {
+            "birthdate": "1917-12-16",
+            "deathdate": "2008-03-19"
+        },
+        "place_of_birth_id": 69
+    },
+    {
+        "id": 77,
+        "full_name": {
+            "name": "Bradford",
+            "surname": "Parkinson"
+        },
+        "dates": {
+            "birthdate": "1935-02-16",
+            "deathdate": "NULL"
+        },
+        "place_of_birth_id": 15
+    },
+    {
+        "id": 78,
+        "full_name": {
+            "name": "Steve",
+            "surname": "Jobs"
+        },
+        "dates": {
+            "birthdate": "1955-02-24",
+            "deathdate": "2011-10-05"
+        },
+        "place_of_birth_id": 70
+    },
+    {
+        "id": 79,
+        "full_name": {
+            "name": "Julius",
+            "surname": "Jacobson"
+        },
+        "dates": {
+            "birthdate": "1927-06-21",
+            "deathdate": "2016-01-10"
+        },
+        "place_of_birth_id": 4
+    },
+    {
+        "id": 80,
+        "full_name": {
+            "name": "Godfrey",
+            "surname": "Hounsfield"
+        },
+        "dates": {
+            "birthdate": "1919-08-28",
+            "deathdate": "2004-08-12"
+        },
+        "place_of_birth_id": 71
+    },
+    {
+        "id": 81,
+        "full_name": {
+            "name": "Allan",
+            "surname": "Cormack"
+        },
+        "dates": {
+            "birthdate": "1924-02-23",
+            "deathdate": "1998-05-07"
+        },
+        "place_of_birth_id": 72
+    },
+    {
+        "id": 82,
+        "full_name": {
+            "name": "Paul",
+            "surname": "Lauterbur"
+        },
+        "dates": {
+            "birthdate": "1929-05-06",
+            "deathdate": "2007-03-27"
+        },
+        "place_of_birth_id": 73
+    },
+    {
+        "id": 83,
+        "full_name": {
+            "name": "Basil",
+            "surname": "Hirschowitz"
+        },
+        "dates": {
+            "birthdate": "1925-05-18",
+            "deathdate": "2013-01-19"
+        },
+        "place_of_birth_id": 74
+    },
+    {
+        "id": 84,
+        "full_name": {
+            "name": "Ian",
+            "surname": "Wilmut"
+        },
+        "dates": {
+            "birthdate": "1944-07-07",
+            "deathdate": "2023-09-10"
+        },
+        "place_of_birth_id": 75
+    },
+    {
+        "id": 85,
+        "full_name": {
+            "name": "William",
+            "surname": "Anderson"
+        },
+        "dates": {
+            "birthdate": "1936-12-31",
+            "deathdate": "2024-01-10"
+        },
+        "place_of_birth_id": 76
+    },
+    {
+        "id": 86,
+        "full_name": {
+            "name": "Francis",
+            "surname": "Collins"
+        },
+        "dates": {
+            "birthdate": "1950-04-14",
+            "deathdate": "NULL"
+        },
+        "place_of_birth_id": 77
+    },
+    {
+        "id": 87,
+        "full_name": {
+            "name": "Eric",
+            "surname": "Drexler"
+        },
+        "dates": {
+            "birthdate": "1955-04-25",
+            "deathdate": "NULL"
+        },
+        "place_of_birth_id": 78
+    },
+    {
+        "id": 88,
+        "full_name": {
+            "name": "Charles",
+            "surname": "Kao"
+        },
+        "dates": {
+            "birthdate": "1933-11-04",
+            "deathdate": "2018-09-23"
+        },
+        "place_of_birth_id": 79
+    },
+    {
+        "id": 89,
+        "full_name": {
+            "name": "George",
+            "surname": "Hockham"
+        },
+        "dates": {
+            "birthdate": "1938-01-01",
+            "deathdate": "2013-11-09"
+        },
+        "place_of_birth_id": 80
+    },
+    {
+        "id": 90,
+        "full_name": {
+            "name": "Calvin",
+            "surname": "Fuller"
+        },
+        "dates": {
+            "birthdate": "1902-05-25",
+            "deathdate": "1994-10-28"
+        },
+        "place_of_birth_id": 4
+    },
+    {
+        "id": 91,
+        "full_name": {
+            "name": "Stanis\u0142aw",
+            "surname": "Ulam"
+        },
+        "dates": {
+            "birthdate": "1909-04-13",
+            "deathdate": "1984-05-13"
+        },
+        "place_of_birth_id": 81
+    },
+    {
+        "id": 92,
+        "full_name": {
+            "name": "Whitfield",
+            "surname": "Diffie"
+        },
+        "dates": {
+            "birthdate": "1944-06-05",
+            "deathdate": "NULL"
+        },
+        "place_of_birth_id": 82
+    },
+    {
+        "id": 93,
+        "full_name": {
+            "name": "Martin",
+            "surname": "Hellman"
+        },
+        "dates": {
+            "birthdate": "1945-10-02",
+            "deathdate": "NULL"
+        },
+        "place_of_birth_id": 25
+    },
+    {
+        "id": 94,
+        "full_name": {
+            "name": "Arthur",
+            "surname": "Kornberg"
+        },
+        "dates": {
+            "birthdate": "1918-03-03",
+            "deathdate": "2007-10-26"
+        },
+        "place_of_birth_id": 25
+    },
+    {
+        "id": 95,
+        "full_name": {
+            "name": "Gregor",
+            "surname": "Mendel"
+        },
+        "dates": {
+            "birthdate": "1822-07-20",
+            "deathdate": "1884-01-06"
+        },
+        "place_of_birth_id": 83
+    },
+    {
+        "id": 96,
+        "full_name": {
+            "name": "Hilary",
+            "surname": "Koprowski"
+        },
+        "dates": {
+            "birthdate": "1916-12-05",
+            "deathdate": "2013-04-11"
+        },
+        "place_of_birth_id": 6
+    },
+    {
+        "id": 97,
+        "full_name": {
+            "name": "Otto",
+            "surname": "Hahn"
+        },
+        "dates": {
+            "birthdate": "1879-03-08",
+            "deathdate": "1968-07-28"
+        },
+        "place_of_birth_id": 84
+    },
+    {
+        "id": 98,
+        "full_name": {
+            "name": "Fritz",
+            "surname": "Strassmann"
+        },
+        "dates": {
+            "birthdate": "1902-02-22",
+            "deathdate": "1980-04-22"
+        },
+        "place_of_birth_id": 85
+    },
+    {
+        "id": 99,
+        "full_name": {
+            "name": "Ignacy",
+            "surname": "\u0141ukasiewicz"
+        },
+        "dates": {
+            "birthdate": "1822-03-08",
+            "deathdate": "1882-01-07"
+        },
+        "place_of_birth_id": 86
+    },
+    {
+        "id": 100,
+        "full_name": {
+            "name": "Charles",
+            "surname": "Townes"
+        },
+        "dates": {
+            "birthdate": "1915-07-28",
+            "deathdate": "2015-01-27"
+        },
+        "place_of_birth_id": 87
+    },
+    {
+        "id": 101,
+        "full_name": {
+            "name": "James",
+            "surname": "Gordon"
+        },
+        "dates": {
+            "birthdate": "1928-01-04",
+            "deathdate": "2013-12-25"
+        },
+        "place_of_birth_id": 4
+    },
+    {
+        "id": 102,
+        "full_name": {
+            "name": "Richard",
+            "surname": "Feynman"
+        },
+        "dates": {
+            "birthdate": "1918-05-11",
+            "deathdate": "1988-02-15"
+        },
+        "place_of_birth_id": 25
+    },
+    {
+        "id": 103,
+        "full_name": {
+            "name": "Julian",
+            "surname": "Schwinger"
+        },
+        "dates": {
+            "birthdate": "1918-02-12",
+            "deathdate": "1994-07-16"
+        },
+        "place_of_birth_id": 25
+    },
+    {
+        "id": 104,
+        "full_name": {
+            "name": "Alan",
+            "surname": "Turing"
+        },
+        "dates": {
+            "birthdate": "1912-06-23",
+            "deathdate": "1954-06-07"
+        },
+        "place_of_birth_id": 35
+    },
+    {
+        "id": 105,
+        "full_name": {
+            "name": "Dmitrij",
+            "surname": "Mendelejew"
+        },
+        "dates": {
+            "birthdate": "1834-02-08",
+            "deathdate": "1907-02-02"
+        },
+        "place_of_birth_id": 88
+    },
+    {
+        "id": 106,
+        "full_name": {
+            "name": "Frederick",
+            "surname": "Griffith"
+        },
+        "dates": {
+            "birthdate": "1879-10-03",
+            "deathdate": "1941-02-18"
+        },
+        "place_of_birth_id": 89
+    },
+    {
+        "id": 107,
+        "full_name": {
+            "name": "Nettie",
+            "surname": "Stevens"
+        },
+        "dates": {
+            "birthdate": "1861-07-07",
+            "deathdate": "1912-05-04"
+        },
+        "place_of_birth_id": 90
+    },
+    {
+        "id": 108,
+        "full_name": {
+            "name": "Thomas",
+            "surname": "Morgan"
+        },
+        "dates": {
+            "birthdate": "1866-09-25",
+            "deathdate": "1945-12-04"
+        },
+        "place_of_birth_id": 91
+    }
 ]

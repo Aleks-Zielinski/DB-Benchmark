@@ -1,920 +1,920 @@
 [
     {
-        "id": "1",
+        "id": 1,
         "name": "Poland",
         "data": {
-            "population": "38000000",
-            "size": "313000"
+            "population": 38000000,
+            "size": 313000
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "2",
+        "id": 2,
         "name": "France",
         "data": {
-            "population": "67000000",
-            "size": "644000"
+            "population": 67000000,
+            "size": 644000
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "3",
+        "id": 3,
         "name": "East Germany",
         "data": {
-            "population": "16000000",
-            "size": "109000"
+            "population": 16000000,
+            "size": 109000
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "4",
+        "id": 4,
         "name": "West Germany",
         "data": {
-            "population": "64000000",
-            "size": "249000"
+            "population": 64000000,
+            "size": 249000
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "5",
+        "id": 5,
         "name": "Soviet Union",
         "data": {
-            "population": "287000000",
-            "size": "22400000"
+            "population": 287000000,
+            "size": 22400000
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "6",
+        "id": 6,
         "name": "United states of America",
         "data": {
-            "population": "331000000",
-            "size": "9800000"
+            "population": 331000000,
+            "size": 9800000
         },
-        "continent_id": "3"
+        "continent_id": 3
     },
     {
-        "id": "7",
+        "id": 7,
         "name": "Canada",
         "data": {
-            "population": "37000000",
-            "size": "10000000"
+            "population": 37000000,
+            "size": 10000000
         },
-        "continent_id": "3"
+        "continent_id": 3
     },
     {
-        "id": "8",
+        "id": 8,
         "name": "United Kingdom",
         "data": {
-            "population": "67000000",
-            "size": "242000"
+            "population": 67000000,
+            "size": 242000
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "9",
+        "id": 9,
         "name": "Sweden",
         "data": {
-            "population": "10500000",
-            "size": "450000"
+            "population": 10500000,
+            "size": 450000
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "10",
+        "id": 10,
         "name": "Finland",
         "data": {
-            "population": "5600000",
-            "size": "338000"
+            "population": 5600000,
+            "size": 338000
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "11",
+        "id": 11,
         "name": "Norway",
         "data": {
-            "population": "5600000",
-            "size": "385000"
+            "population": 5600000,
+            "size": 385000
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "12",
+        "id": 12,
         "name": "Denmark",
         "data": {
-            "population": "43000",
-            "size": "6000000"
+            "population": 43000,
+            "size": 6000000
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "13",
+        "id": 13,
         "name": "Czechoslovakia",
         "data": {
-            "population": "15600000",
-            "size": "127900"
+            "population": 15600000,
+            "size": 127900
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "14",
+        "id": 14,
         "name": "Hungary",
         "data": {
-            "population": "9600000",
-            "size": "93000"
+            "population": 9600000,
+            "size": 93000
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "15",
+        "id": 15,
         "name": "Romania",
         "data": {
-            "population": "19000000",
-            "size": "238000"
+            "population": 19000000,
+            "size": 238000
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "16",
+        "id": 16,
         "name": "Bulgaria",
         "data": {
-            "population": "6500000",
-            "size": "111000"
+            "population": 6500000,
+            "size": 111000
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "17",
+        "id": 17,
         "name": "Greece",
         "data": {
-            "population": "10400000",
-            "size": "132000"
+            "population": 10400000,
+            "size": 132000
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "18",
+        "id": 18,
         "name": "Yugoslavia",
         "data": {
-            "population": "23500000",
-            "size": "102000"
+            "population": 23500000,
+            "size": 102000
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "19",
+        "id": 19,
         "name": "Italy",
         "data": {
-            "population": "58900000",
-            "size": "301000"
+            "population": 58900000,
+            "size": 301000
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "20",
+        "id": 20,
         "name": "Switzerland",
         "data": {
-            "population": "9000000",
-            "size": "41000"
+            "population": 9000000,
+            "size": 41000
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "21",
+        "id": 21,
         "name": "Spain",
         "data": {
-            "population": "49000000",
-            "size": "506000"
+            "population": 49000000,
+            "size": 506000
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "22",
+        "id": 22,
         "name": "Portugal",
         "data": {
-            "population": "10600000",
-            "size": "92000"
+            "population": 10600000,
+            "size": 92000
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "23",
+        "id": 23,
         "name": "Ireland",
         "data": {
-            "population": "7200000",
-            "size": "84400"
+            "population": 7200000,
+            "size": 84400
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "24",
+        "id": 24,
         "name": "Luxembourg",
         "data": {
-            "population": "640000",
-            "size": "2600"
+            "population": 640000,
+            "size": 2600
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "25",
+        "id": 25,
         "name": "Belgium",
         "data": {
-            "population": "11800000",
-            "size": "30700"
+            "population": 11800000,
+            "size": 30700
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "26",
+        "id": 26,
         "name": "Netherlands",
         "data": {
-            "population": "18300000",
-            "size": "41800"
+            "population": 18300000,
+            "size": 41800
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "27",
+        "id": 27,
         "name": "Andorra",
         "data": {
-            "population": "87500",
-            "size": "468"
+            "population": 87500,
+            "size": 468
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "28",
+        "id": 28,
         "name": "Liechtenstein",
         "data": {
-            "population": "41200",
-            "size": "161"
+            "population": 41200,
+            "size": 161
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "29",
+        "id": 29,
         "name": "San Marino",
         "data": {
-            "population": "34000",
-            "size": "61"
+            "population": 34000,
+            "size": 61
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "30",
+        "id": 30,
         "name": "Vatican City",
         "data": {
-            "population": "882",
-            "size": "1"
+            "population": 882,
+            "size": 1
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "31",
+        "id": 31,
         "name": "Austria",
         "data": {
-            "population": "9000000",
-            "size": "84000"
+            "population": 9000000,
+            "size": 84000
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "32",
+        "id": 32,
         "name": "Iceland",
         "data": {
-            "population": "389000",
-            "size": "103000"
+            "population": 389000,
+            "size": 103000
         },
-        "continent_id": "1"
+        "continent_id": 1
     },
     {
-        "id": "33",
+        "id": 33,
         "name": "Turkey",
         "data": {
-            "population": "85600000",
-            "size": "784000"
+            "population": 85600000,
+            "size": 784000
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "34",
+        "id": 34,
         "name": "Japan",
         "data": {
-            "population": "123400000",
-            "size": "378000"
+            "population": 123400000,
+            "size": 378000
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "35",
+        "id": 35,
         "name": "South Korea",
         "data": {
-            "population": "52000000",
-            "size": "100300"
+            "population": 52000000,
+            "size": 100300
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "36",
+        "id": 36,
         "name": "North Korea",
         "data": {
-            "population": "26300000",
-            "size": "120500"
+            "population": 26300000,
+            "size": 120500
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "37",
+        "id": 37,
         "name": "Mongolia",
         "data": {
-            "population": "3500000",
-            "size": "1560000"
+            "population": 3500000,
+            "size": 1560000
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "38",
+        "id": 38,
         "name": "China",
         "data": {
-            "population": "1400000000",
-            "size": "9600000"
+            "population": 1400000000,
+            "size": 9600000
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "39",
+        "id": 39,
         "name": "Taiwan",
         "data": {
-            "population": "23400000",
-            "size": "36000"
+            "population": 23400000,
+            "size": 36000
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "40",
+        "id": 40,
         "name": "Iran",
         "data": {
-            "population": "86000000",
-            "size": "1650000"
+            "population": 86000000,
+            "size": 1650000
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "41",
+        "id": 41,
         "name": "Afghanistan",
         "data": {
-            "population": "40000000",
-            "size": "653000"
+            "population": 40000000,
+            "size": 653000
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "42",
+        "id": 42,
         "name": "Pakistan",
         "data": {
-            "population": "241500000",
-            "size": "882000"
+            "population": 241500000,
+            "size": 882000
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "43",
+        "id": 43,
         "name": "India",
         "data": {
-            "population": "1211000000",
-            "size": "3300000"
+            "population": 1211000000,
+            "size": 3300000
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "44",
+        "id": 44,
         "name": "Bangladesh",
         "data": {
-            "population": "171500000",
-            "size": "148500"
+            "population": 171500000,
+            "size": 148500
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "45",
+        "id": 45,
         "name": "Burma",
         "data": {
-            "population": "55800000",
-            "size": "676500"
+            "population": 55800000,
+            "size": 676500
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "46",
+        "id": 46,
         "name": "Thailand",
         "data": {
-            "population": "66000000",
-            "size": "513000"
+            "population": 66000000,
+            "size": 513000
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "47",
+        "id": 47,
         "name": "Vietnam",
         "data": {
-            "population": "100300000",
-            "size": "331000"
+            "population": 100300000,
+            "size": 331000
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "48",
+        "id": 48,
         "name": "Cambodia",
         "data": {
-            "population": "17600000",
-            "size": "181000"
+            "population": 17600000,
+            "size": 181000
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "49",
+        "id": 49,
         "name": "Laos",
         "data": {
-            "population": "8000000",
-            "size": "236800"
+            "population": 8000000,
+            "size": 236800
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "50",
+        "id": 50,
         "name": "Nepal",
         "data": {
-            "population": "31000000",
-            "size": "147500"
+            "population": 31000000,
+            "size": 147500
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "51",
+        "id": 51,
         "name": "Bhutan",
         "data": {
-            "population": "777500",
-            "size": "38400"
+            "population": 777500,
+            "size": 38400
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "52",
+        "id": 52,
         "name": "Tibet",
         "data": {
-            "population": "1000000",
-            "size": "1221600"
+            "population": 1000000,
+            "size": 1221600
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "53",
+        "id": 53,
         "name": "Philippines",
         "data": {
-            "population": "114000000",
-            "size": "300000"
+            "population": 114000000,
+            "size": 300000
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "54",
+        "id": 54,
         "name": "Malaysia",
         "data": {
-            "population": "34500000",
-            "size": "330800"
+            "population": 34500000,
+            "size": 330800
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "55",
+        "id": 55,
         "name": "Singapore",
         "data": {
-            "population": "6040000",
-            "size": "736"
+            "population": 6040000,
+            "size": 736
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "56",
+        "id": 56,
         "name": "Indonesia",
         "data": {
-            "population": "285000000",
-            "size": "1905000"
+            "population": 285000000,
+            "size": 1905000
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "57",
+        "id": 57,
         "name": "Australia",
         "data": {
-            "population": "27900000",
-            "size": "7700000"
+            "population": 27900000,
+            "size": 7700000
         },
-        "continent_id": "5"
+        "continent_id": 5
     },
     {
-        "id": "58",
+        "id": 58,
         "name": "New Zealand",
         "data": {
-            "population": "5300000",
-            "size": "263300"
+            "population": 5300000,
+            "size": 263300
         },
-        "continent_id": "5"
+        "continent_id": 5
     },
     {
-        "id": "59",
+        "id": 59,
         "name": "Egypt",
         "data": {
-            "population": "109500000",
-            "size": "1010400"
+            "population": 109500000,
+            "size": 1010400
         },
-        "continent_id": "6"
+        "continent_id": 6
     },
     {
-        "id": "60",
+        "id": 60,
         "name": "Palestine",
         "data": {
-            "population": "5500000",
-            "size": "25600"
+            "population": 5500000,
+            "size": 25600
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "61",
+        "id": 61,
         "name": "Ethiopia",
         "data": {
-            "population": "109500000",
-            "size": "1104300"
+            "population": 109500000,
+            "size": 1104300
         },
-        "continent_id": "6"
+        "continent_id": 6
     },
     {
-        "id": "62",
+        "id": 62,
         "name": "South Africa",
         "data": {
-            "population": "63000000",
-            "size": "1221000"
+            "population": 63000000,
+            "size": 1221000
         },
-        "continent_id": "6"
+        "continent_id": 6
     },
     {
-        "id": "63",
+        "id": 63,
         "name": "Brazil",
         "data": {
-            "population": "212600000",
-            "size": "8500000"
+            "population": 212600000,
+            "size": 8500000
         },
-        "continent_id": "4"
+        "continent_id": 4
     },
     {
-        "id": "64",
+        "id": 64,
         "name": "Argentina",
         "data": {
-            "population": "47000000",
-            "size": "2780000"
+            "population": 47000000,
+            "size": 2780000
         },
-        "continent_id": "4"
+        "continent_id": 4
     },
     {
-        "id": "65",
+        "id": 65,
         "name": "Uruguay",
         "data": {
-            "population": "3500000",
-            "size": "176200"
+            "population": 3500000,
+            "size": 176200
         },
-        "continent_id": "4"
+        "continent_id": 4
     },
     {
-        "id": "66",
+        "id": 66,
         "name": "Chile",
         "data": {
-            "population": "19600000",
-            "size": "756100"
+            "population": 19600000,
+            "size": 756100
         },
-        "continent_id": "4"
+        "continent_id": 4
     },
     {
-        "id": "67",
+        "id": 67,
         "name": "Bolivia",
         "data": {
-            "population": "11300000",
-            "size": "1100000"
+            "population": 11300000,
+            "size": 1100000
         },
-        "continent_id": "4"
+        "continent_id": 4
     },
     {
-        "id": "68",
+        "id": 68,
         "name": "Peru",
         "data": {
-            "population": "34400000",
-            "size": "1300000"
+            "population": 34400000,
+            "size": 1300000
         },
-        "continent_id": "4"
+        "continent_id": 4
     },
     {
-        "id": "69",
+        "id": 69,
         "name": "Ecuador",
         "data": {
-            "population": "17500000",
-            "size": "284000"
+            "population": 17500000,
+            "size": 284000
         },
-        "continent_id": "4"
+        "continent_id": 4
     },
     {
-        "id": "70",
+        "id": 70,
         "name": "Colombia",
         "data": {
-            "population": "52700000",
-            "size": "1142000"
+            "population": 52700000,
+            "size": 1142000
         },
-        "continent_id": "4"
+        "continent_id": 4
     },
     {
-        "id": "71",
+        "id": 71,
         "name": "Venezuela",
         "data": {
-            "population": "30500000",
-            "size": "916400"
+            "population": 30500000,
+            "size": 916400
         },
-        "continent_id": "4"
+        "continent_id": 4
     },
     {
-        "id": "72",
+        "id": 72,
         "name": "Iraq",
         "data": {
-            "population": "46000000",
-            "size": "438300"
+            "population": 46000000,
+            "size": 438300
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "73",
+        "id": 73,
         "name": "Syria",
         "data": {
-            "population": "25300000",
-            "size": "185200"
+            "population": 25300000,
+            "size": 185200
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "74",
+        "id": 74,
         "name": "Jordan",
         "data": {
-            "population": "11500000",
-            "size": "89300"
+            "population": 11500000,
+            "size": 89300
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "75",
+        "id": 75,
         "name": "Saudi Arabia",
         "data": {
-            "population": "32000000",
-            "size": "2150000"
+            "population": 32000000,
+            "size": 2150000
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "76",
+        "id": 76,
         "name": "Oman",
         "data": {
-            "population": "5500000",
-            "size": "309500"
+            "population": 5500000,
+            "size": 309500
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "77",
+        "id": 77,
         "name": "Yemen",
         "data": {
-            "population": "41400000",
-            "size": "455500"
+            "population": 41400000,
+            "size": 455500
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "78",
+        "id": 78,
         "name": "United Arab Emirates",
         "data": {
-            "population": "11000000",
-            "size": "83600"
+            "population": 11000000,
+            "size": 83600
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "79",
+        "id": 79,
         "name": "Kuwait",
         "data": {
-            "population": "5000000",
-            "size": "17800"
+            "population": 5000000,
+            "size": 17800
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "80",
+        "id": 80,
         "name": "Qatar",
         "data": {
-            "population": "3000000",
-            "size": "11600"
+            "population": 3000000,
+            "size": 11600
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "81",
+        "id": 81,
         "name": "Lebanon",
         "data": {
-            "population": "5400000",
-            "size": "10500"
+            "population": 5400000,
+            "size": 10500
         },
-        "continent_id": "2"
+        "continent_id": 2
     },
     {
-        "id": "82",
+        "id": 82,
         "name": "Morocco",
         "data": {
-            "population": "37500000",
-            "size": "446550"
+            "population": 37500000,
+            "size": 446550
         },
-        "continent_id": "6"
+        "continent_id": 6
     },
     {
-        "id": "83",
+        "id": 83,
         "name": "Algieria",
         "data": {
-            "population": "46700000",
-            "size": "2382000"
+            "population": 46700000,
+            "size": 2382000
         },
-        "continent_id": "6"
+        "continent_id": 6
     },
     {
-        "id": "84",
+        "id": 84,
         "name": "Libya",
         "data": {
-            "population": "7400000",
-            "size": "1760000"
+            "population": 7400000,
+            "size": 1760000
         },
-        "continent_id": "6"
+        "continent_id": 6
     },
     {
-        "id": "85",
+        "id": 85,
         "name": "Kenya",
         "data": {
-            "population": "52400000",
-            "size": "580000"
+            "population": 52400000,
+            "size": 580000
         },
-        "continent_id": "6"
+        "continent_id": 6
     },
     {
-        "id": "86",
+        "id": 86,
         "name": "Tanzania",
         "data": {
-            "population": "67500000",
-            "size": "947000"
+            "population": 67500000,
+            "size": 947000
         },
-        "continent_id": "6"
+        "continent_id": 6
     },
     {
-        "id": "87",
+        "id": 87,
         "name": "Namibia",
         "data": {
-            "population": "3000000",
-            "size": "826000"
+            "population": 3000000,
+            "size": 826000
         },
-        "continent_id": "6"
+        "continent_id": 6
     },
     {
-        "id": "88",
+        "id": 88,
         "name": "Democratic Republic of Congo",
         "data": {
-            "population": "113000000",
-            "size": "2345000"
+            "population": 113000000,
+            "size": 2345000
         },
-        "continent_id": "6"
+        "continent_id": 6
     },
     {
-        "id": "89",
+        "id": 89,
         "name": "Central African Republic",
         "data": {
-            "population": "5651000",
-            "size": "623000"
+            "population": 5651000,
+            "size": 623000
         },
-        "continent_id": "6"
+        "continent_id": 6
     },
     {
-        "id": "90",
+        "id": 90,
         "name": "Chad",
         "data": {
-            "population": "19100000",
-            "size": "1300000"
+            "population": 19100000,
+            "size": 1300000
         },
-        "continent_id": "6"
+        "continent_id": 6
     },
     {
-        "id": "91",
+        "id": 91,
         "name": "Djibouti",
         "data": {
-            "population": "1070000",
-            "size": "23200"
+            "population": 1070000,
+            "size": 23200
         },
-        "continent_id": "6"
+        "continent_id": 6
     },
     {
-        "id": "92",
+        "id": 92,
         "name": "Somalia",
         "data": {
-            "population": "18100000",
-            "size": "638000"
+            "population": 18100000,
+            "size": 638000
         },
-        "continent_id": "6"
+        "continent_id": 6
     },
     {
-        "id": "93",
+        "id": 93,
         "name": "Angola",
         "data": {
-            "population": "39000000",
-            "size": "1250000"
+            "population": 39000000,
+            "size": 1250000
         },
-        "continent_id": "6"
+        "continent_id": 6
     },
     {
-        "id": "94",
+        "id": 94,
         "name": "Mozambique",
         "data": {
-            "population": "34900000",
-            "size": "802000"
+            "population": 34900000,
+            "size": 802000
         },
-        "continent_id": "6"
+        "continent_id": 6
     },
     {
-        "id": "95",
+        "id": 95,
         "name": "Gabon",
         "data": {
-            "population": "2400000",
-            "size": "268000"
+            "population": 2400000,
+            "size": 268000
         },
-        "continent_id": "6"
+        "continent_id": 6
     },
     {
-        "id": "96",
+        "id": 96,
         "name": "Cuba",
         "data": {
-            "population": "9700000",
-            "size": "111000"
+            "population": 9700000,
+            "size": 111000
         },
-        "continent_id": "3"
+        "continent_id": 3
     },
     {
-        "id": "97",
+        "id": 97,
         "name": "Haiti",
         "data": {
-            "population": "11500000",
-            "size": "27750"
+            "population": 11500000,
+            "size": 27750
         },
-        "continent_id": "3"
+        "continent_id": 3
     },
     {
-        "id": "98",
+        "id": 98,
         "name": "Dominican Republic",
         "data": {
-            "population": "11500000",
-            "size": "48700"
+            "population": 11500000,
+            "size": 48700
         },
-        "continent_id": "3"
+        "continent_id": 3
     },
     {
-        "id": "99",
+        "id": 99,
         "name": "Jamaica",
         "data": {
-            "population": "2800000",
-            "size": "11000"
+            "population": 2800000,
+            "size": 11000
         },
-        "continent_id": "3"
+        "continent_id": 3
     },
     {
-        "id": "100",
+        "id": 100,
         "name": "Botswana",
         "data": {
-            "population": "2360000",
-            "size": "582000"
+            "population": 2360000,
+            "size": 582000
         },
-        "continent_id": "6"
+        "continent_id": 6
     },
     {
-        "id": "101",
+        "id": 101,
         "name": "Zimbabwe",
         "data": {
-            "population": "16900000",
-            "size": "391000"
+            "population": 16900000,
+            "size": 391000
         },
-        "continent_id": "6"
+        "continent_id": 6
     },
     {
-        "id": "102",
+        "id": 102,
         "name": "Mexico",
         "data": {
-            "population": "132000000",
-            "size": "2000000"
+            "population": 132000000,
+            "size": 2000000
         },
-        "continent_id": "3"
+        "continent_id": 3
     }
 ]

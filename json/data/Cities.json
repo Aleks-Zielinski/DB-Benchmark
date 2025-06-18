@@ -1,4556 +1,4556 @@
 [
     {
-        "id": "1",
+        "id": 1,
         "name": "Ulm",
         "data": {
-            "population": "129000",
-            "size": "118"
+            "population": 129000,
+            "size": 118
         },
-        "country_id": "4"
+        "country_id": 4
     },
     {
-        "id": "2",
+        "id": 2,
         "name": "Lochfield",
         "data": {
-            "population": "34700",
-            "size": "14"
+            "population": 34700,
+            "size": 14
         },
-        "country_id": "8"
+        "country_id": 8
     },
     {
-        "id": "3",
+        "id": 3,
         "name": "Northampton",
         "data": {
-            "population": "243500",
-            "size": "61"
+            "population": 243500,
+            "size": 61
         },
-        "country_id": "8"
+        "country_id": 8
     },
     {
-        "id": "4",
+        "id": 4,
         "name": "Chicago",
         "data": {
-            "population": "2746400",
-            "size": "606"
+            "population": 2746400,
+            "size": 606
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "5",
+        "id": 5,
         "name": "Kiel",
         "data": {
-            "population": "249000",
-            "size": "155"
+            "population": 249000,
+            "size": 155
         },
-        "country_id": "4"
+        "country_id": 4
     },
     {
-        "id": "6",
+        "id": 6,
         "name": "Warsaw",
         "data": {
-            "population": "1862000",
-            "size": "517"
+            "population": 1862000,
+            "size": 517
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "7",
+        "id": 7,
         "name": "Vienna",
         "data": {
-            "population": "1973400",
-            "size": "414"
+            "population": 1973400,
+            "size": 414
         },
-        "country_id": "31"
+        "country_id": 31
     },
     {
-        "id": "8",
+        "id": 8,
         "name": "Lichfield",
         "data": {
-            "population": "32600",
-            "size": "9"
+            "population": 32600,
+            "size": 9
         },
-        "country_id": "8"
+        "country_id": 8
     },
     {
-        "id": "9",
+        "id": 9,
         "name": "Dayton",
         "data": {
-            "population": "138000",
-            "size": "148"
+            "population": 138000,
+            "size": 148
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "10",
+        "id": 10,
         "name": "Millville",
         "data": {
-            "population": "NULL",
-            "size": "NULL"
+            "population": null,
+            "size": null
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "11",
+        "id": 11,
         "name": "Heidelberg",
         "data": {
-            "population": "162000",
-            "size": "109"
+            "population": 162000,
+            "size": 109
         },
-        "country_id": "4"
+        "country_id": 4
     },
     {
-        "id": "12",
+        "id": 12,
         "name": "Wiesbaden",
         "data": {
-            "population": "283000",
-            "size": "204"
+            "population": 283000,
+            "size": 204
         },
-        "country_id": "4"
+        "country_id": 4
     },
     {
-        "id": "13",
+        "id": 13,
         "name": "Alliston",
         "data": {
-            "population": "23000",
-            "size": "19"
+            "population": 23000,
+            "size": 19
         },
-        "country_id": "7"
+        "country_id": 7
     },
     {
-        "id": "14",
+        "id": 14,
         "name": "Pembroke",
         "data": {
-            "population": "788",
-            "size": "91"
+            "population": 788,
+            "size": 91
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "15",
+        "id": 15,
         "name": "Madison",
         "data": {
-            "population": "270000",
-            "size": "263"
+            "population": 270000,
+            "size": 263
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "16",
+        "id": 16,
         "name": "Xiamen",
         "data": {
-            "population": "5164000",
-            "size": "1701"
+            "population": 5164000,
+            "size": 1701
         },
-        "country_id": "38"
+        "country_id": 38
     },
     {
-        "id": "17",
+        "id": 17,
         "name": "Los Angeles",
         "data": {
-            "population": "3900000",
-            "size": "1291"
+            "population": 3900000,
+            "size": 1291
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "18",
+        "id": 18,
         "name": "Copenhagen",
         "data": {
-            "population": "667000",
-            "size": "526"
+            "population": 667000,
+            "size": 526
         },
-        "country_id": "12"
+        "country_id": 12
     },
     {
-        "id": "19",
+        "id": 19,
         "name": "Wurzburg",
         "data": {
-            "population": "128000",
-            "size": "88"
+            "population": 128000,
+            "size": 88
         },
-        "country_id": "4"
+        "country_id": 4
     },
     {
-        "id": "20",
+        "id": 20,
         "name": "Rome",
         "data": {
-            "population": "2747000",
-            "size": "1285"
+            "population": 2747000,
+            "size": 1285
         },
-        "country_id": "19"
+        "country_id": 19
     },
     {
-        "id": "21",
+        "id": 21,
         "name": "Bologna",
         "data": {
-            "population": "391000",
-            "size": "141"
+            "population": 391000,
+            "size": 141
         },
-        "country_id": "19"
+        "country_id": 19
     },
     {
-        "id": "22",
+        "id": 22,
         "name": "Lennep",
         "data": {
-            "population": "114000",
-            "size": "75"
+            "population": 114000,
+            "size": 75
         },
-        "country_id": "4"
+        "country_id": 4
     },
     {
-        "id": "23",
+        "id": 23,
         "name": "Semarang",
         "data": {
-            "population": "1700000",
-            "size": "374"
+            "population": 1700000,
+            "size": 374
         },
-        "country_id": "56"
+        "country_id": 56
     },
     {
-        "id": "24",
+        "id": 24,
         "name": "Kcynia",
         "data": {
-            "population": "4700",
-            "size": "7"
+            "population": 4700,
+            "size": 7
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "25",
+        "id": 25,
         "name": "New York",
         "data": {
-            "population": "8800000",
-            "size": "1224"
+            "population": 8800000,
+            "size": 1224
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "26",
+        "id": 26,
         "name": "Helensburgh",
         "data": {
-            "population": "13000",
-            "size": "5"
+            "population": 13000,
+            "size": 5
         },
-        "country_id": "8"
+        "country_id": 8
     },
     {
-        "id": "27",
+        "id": 27,
         "name": "Eastbourne",
         "data": {
-            "population": "102000",
-            "size": "44"
+            "population": 102000,
+            "size": 44
         },
-        "country_id": "8"
+        "country_id": 8
     },
     {
-        "id": "28",
+        "id": 28,
         "name": "Strzelin",
         "data": {
-            "population": "12500",
-            "size": "10"
+            "population": 12500,
+            "size": 10
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "29",
+        "id": 29,
         "name": "Ghent",
         "data": {
-            "population": "265000",
-            "size": "158"
+            "population": 265000,
+            "size": 158
         },
-        "country_id": "25"
+        "country_id": 25
     },
     {
-        "id": "30",
+        "id": 30,
         "name": "Bydgoszcz",
         "data": {
-            "population": "330000",
-            "size": "176"
+            "population": 330000,
+            "size": 176
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "31",
+        "id": 31,
         "name": "Kiev",
         "data": {
-            "population": "2950000",
-            "size": "839"
+            "population": 2950000,
+            "size": 839
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "32",
+        "id": 32,
         "name": "Budapest",
         "data": {
-            "population": "1780000",
-            "size": "2538"
+            "population": 1780000,
+            "size": 2538
         },
-        "country_id": "14"
+        "country_id": 14
     },
     {
-        "id": "33",
+        "id": 33,
         "name": "Prerov",
         "data": {
-            "population": "41000",
-            "size": "59"
+            "population": 41000,
+            "size": 59
         },
-        "country_id": "13"
+        "country_id": 13
     },
     {
-        "id": "34",
+        "id": 34,
         "name": "Lenoir",
         "data": {
-            "population": "18400",
-            "size": "54"
+            "population": 18400,
+            "size": 54
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "35",
+        "id": 35,
         "name": "London",
         "data": {
-            "population": "8870000",
-            "size": "1738"
+            "population": 8870000,
+            "size": 1738
         },
-        "country_id": "8"
+        "country_id": 8
     },
     {
-        "id": "36",
+        "id": 36,
         "name": "Beaufort West",
         "data": {
-            "population": "34000",
-            "size": "57"
+            "population": 34000,
+            "size": 57
         },
-        "country_id": "62"
+        "country_id": 62
     },
     {
-        "id": "37",
+        "id": 37,
         "name": "Rochester",
         "data": {
-            "population": "211000",
-            "size": "96"
+            "population": 211000,
+            "size": 96
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "38",
+        "id": 38,
         "name": "Vicenza",
         "data": {
-            "population": "112000",
-            "size": "80"
+            "population": 112000,
+            "size": 80
         },
-        "country_id": "19"
+        "country_id": 19
     },
     {
-        "id": "39",
+        "id": 39,
         "name": "Berndorf",
         "data": {
-            "population": "506",
-            "size": "9"
+            "population": 506,
+            "size": 9
         },
-        "country_id": "4"
+        "country_id": 4
     },
     {
-        "id": "40",
+        "id": 40,
         "name": "Burlington",
         "data": {
-            "population": "24000",
-            "size": "39"
+            "population": 24000,
+            "size": 39
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "41",
+        "id": 41,
         "name": "Groningen",
         "data": {
-            "population": "245000",
-            "size": "198"
+            "population": 245000,
+            "size": 198
         },
-        "country_id": "26"
+        "country_id": 26
     },
     {
-        "id": "42",
-        "name": "Łagów",
+        "id": 42,
+        "name": "\u0141ag\u00f3w",
         "data": {
-            "population": "NULL",
-            "size": "NULL"
+            "population": null,
+            "size": null
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "43",
+        "id": 43,
         "name": "Waldstein",
         "data": {
-            "population": "NULL",
-            "size": "NULL"
+            "population": null,
+            "size": null
         },
-        "country_id": "31"
+        "country_id": 31
     },
     {
-        "id": "44",
+        "id": 44,
         "name": "Pfaffendorf",
         "data": {
-            "population": "NULL",
-            "size": "NULL"
+            "population": null,
+            "size": null
         },
-        "country_id": "4"
+        "country_id": 4
     },
     {
-        "id": "45",
+        "id": 45,
         "name": "Westward",
         "data": {
-            "population": "838",
-            "size": "NULL"
+            "population": 838,
+            "size": null
         },
-        "country_id": "8"
+        "country_id": 8
     },
     {
-        "id": "46",
+        "id": 46,
         "name": "Leiden",
         "data": {
-            "population": "124000",
-            "size": "23"
+            "population": 124000,
+            "size": 23
         },
-        "country_id": "26"
+        "country_id": 26
     },
     {
-        "id": "47",
+        "id": 47,
         "name": "Kaliningrad",
         "data": {
-            "population": "431000",
-            "size": "223"
+            "population": 431000,
+            "size": 223
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "48",
+        "id": 48,
         "name": "Lancaster",
         "data": {
-            "population": "52000",
-            "size": "NULL"
+            "population": 52000,
+            "size": null
         },
-        "country_id": "8"
+        "country_id": 8
     },
     {
-        "id": "49",
+        "id": 49,
         "name": "Columbia",
         "data": {
-            "population": "137000",
-            "size": "364"
+            "population": 137000,
+            "size": 364
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "50",
+        "id": 50,
         "name": "Petoskey",
         "data": {
-            "population": "5900",
-            "size": "14"
+            "population": 5900,
+            "size": 14
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "51",
+        "id": 51,
         "name": "Avanca",
         "data": {
-            "population": "6200",
-            "size": "21"
+            "population": 6200,
+            "size": 21
         },
-        "country_id": "22"
+        "country_id": 22
     },
     {
-        "id": "52",
+        "id": 52,
         "name": "Culloden",
         "data": {
-            "population": "200",
-            "size": "2"
+            "population": 200,
+            "size": 2
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "53",
+        "id": 53,
         "name": "Cleveland",
         "data": {
-            "population": "373000",
-            "size": "83"
+            "population": 373000,
+            "size": 83
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "54",
+        "id": 54,
         "name": "Portland",
         "data": {
-            "population": "653000",
-            "size": "376"
+            "population": 653000,
+            "size": 376
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "55",
+        "id": 55,
         "name": "Pribor",
         "data": {
-            "population": "8300",
-            "size": "22"
+            "population": 8300,
+            "size": 22
         },
-        "country_id": "13"
+        "country_id": 13
     },
     {
-        "id": "56",
+        "id": 56,
         "name": "Kolled",
         "data": {
-            "population": "6500",
-            "size": "90"
+            "population": 6500,
+            "size": 90
         },
-        "country_id": "3"
+        "country_id": 3
     },
     {
-        "id": "57",
+        "id": 57,
         "name": "Newark",
         "data": {
-            "population": "312000",
-            "size": "67"
+            "population": 312000,
+            "size": 67
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "58",
+        "id": 58,
         "name": "Olten",
         "data": {
-            "population": "18000",
-            "size": "12"
+            "population": 18000,
+            "size": 12
         },
-        "country_id": "20"
+        "country_id": 20
     },
     {
-        "id": "59",
+        "id": 59,
         "name": "Berlin",
         "data": {
-            "population": "3600000",
-            "size": "3743"
+            "population": 3600000,
+            "size": 3743
         },
-        "country_id": "3"
+        "country_id": 3
     },
     {
-        "id": "60",
+        "id": 60,
         "name": "Ohringen",
         "data": {
-            "population": "25000",
-            "size": "68"
+            "population": 25000,
+            "size": 68
         },
-        "country_id": "4"
+        "country_id": 4
     },
     {
-        "id": "61",
+        "id": 61,
         "name": "Bayonne",
         "data": {
-            "population": "53000",
-            "size": "22"
+            "population": 53000,
+            "size": 22
         },
-        "country_id": "2"
+        "country_id": 2
     },
     {
-        "id": "62",
+        "id": 62,
         "name": "Paris",
         "data": {
-            "population": "2000000",
-            "size": "2824"
+            "population": 2000000,
+            "size": 2824
         },
-        "country_id": "2"
+        "country_id": 2
     },
     {
-        "id": "63",
+        "id": 63,
         "name": "Hard",
         "data": {
-            "population": "NULL",
-            "size": "NULL"
+            "population": null,
+            "size": null
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "64",
+        "id": 64,
         "name": "Bremerhaven",
         "data": {
-            "population": "115500",
-            "size": "84"
+            "population": 115500,
+            "size": 84
         },
-        "country_id": "4"
+        "country_id": 4
     },
     {
-        "id": "65",
+        "id": 65,
         "name": "Edinburgh",
         "data": {
-            "population": "515000",
-            "size": "263"
+            "population": 515000,
+            "size": 263
         },
-        "country_id": "8"
+        "country_id": 8
     },
     {
-        "id": "66",
+        "id": 66,
         "name": "Milan",
         "data": {
-            "population": "1370",
-            "size": "3"
+            "population": 1370,
+            "size": 3
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "67",
+        "id": 67,
         "name": "Besancon",
         "data": {
-            "population": "120000",
-            "size": "65"
+            "population": 120000,
+            "size": 65
         },
-        "country_id": "2"
+        "country_id": 2
     },
     {
-        "id": "68",
+        "id": 68,
         "name": "Moline",
         "data": {
-            "population": "43000",
-            "size": "44"
+            "population": 43000,
+            "size": 44
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "69",
+        "id": 69,
         "name": "Minehead",
         "data": {
-            "population": "11800",
-            "size": "NULL"
+            "population": 11800,
+            "size": null
         },
-        "country_id": "8"
+        "country_id": 8
     },
     {
-        "id": "70",
+        "id": 70,
         "name": "San Francisco",
         "data": {
-            "population": "874000",
-            "size": "601"
+            "population": 874000,
+            "size": 601
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "71",
+        "id": 71,
         "name": "Sutton-on-Trent",
         "data": {
-            "population": "1400",
-            "size": "11"
+            "population": 1400,
+            "size": 11
         },
-        "country_id": "8"
+        "country_id": 8
     },
     {
-        "id": "72",
+        "id": 72,
         "name": "Johannesburg",
         "data": {
-            "population": "4800000",
-            "size": "335"
+            "population": 4800000,
+            "size": 335
         },
-        "country_id": "62"
+        "country_id": 62
     },
     {
-        "id": "73",
+        "id": 73,
         "name": "Sidney",
         "data": {
-            "population": "20600",
-            "size": "31"
+            "population": 20600,
+            "size": 31
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "74",
+        "id": 74,
         "name": "Pretoria",
         "data": {
-            "population": "2818000",
-            "size": "688"
+            "population": 2818000,
+            "size": 688
         },
-        "country_id": "62"
+        "country_id": 62
     },
     {
-        "id": "75",
+        "id": 75,
         "name": "Hampton Lucy",
         "data": {
-            "population": "566",
-            "size": "NULL"
+            "population": 566,
+            "size": null
         },
-        "country_id": "8"
+        "country_id": 8
     },
     {
-        "id": "76",
+        "id": 76,
         "name": "Tulsa",
         "data": {
-            "population": "413000",
-            "size": "523"
+            "population": 413000,
+            "size": 523
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "77",
+        "id": 77,
         "name": "Staunton",
         "data": {
-            "population": "25750",
-            "size": "52"
+            "population": 25750,
+            "size": 52
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "78",
+        "id": 78,
         "name": "Oakland",
         "data": {
-            "population": "440000",
-            "size": "202"
+            "population": 440000,
+            "size": 202
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "79",
+        "id": 79,
         "name": "Shanghai",
         "data": {
-            "population": "24900000",
-            "size": "6341"
+            "population": 24900000,
+            "size": 6341
         },
-        "country_id": "38"
+        "country_id": 38
     },
     {
-        "id": "80",
+        "id": 80,
         "name": "Southend-on-Sea",
         "data": {
-            "population": "181000",
-            "size": "42"
+            "population": 181000,
+            "size": 42
         },
-        "country_id": "8"
+        "country_id": 8
     },
     {
-        "id": "81",
+        "id": 81,
         "name": "Lviv",
         "data": {
-            "population": "717000",
-            "size": "149"
+            "population": 717000,
+            "size": 149
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "82",
+        "id": 82,
         "name": "Washington",
         "data": {
-            "population": "689500",
-            "size": "177"
+            "population": 689500,
+            "size": 177
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "83",
+        "id": 83,
         "name": "Hyncice",
         "data": {
-            "population": "197",
-            "size": "6"
+            "population": 197,
+            "size": 6
         },
-        "country_id": "13"
+        "country_id": 13
     },
     {
-        "id": "84",
+        "id": 84,
         "name": "Frankfurt",
         "data": {
-            "population": "773000",
-            "size": "248"
+            "population": 773000,
+            "size": 248
         },
-        "country_id": "4"
+        "country_id": 4
     },
     {
-        "id": "85",
+        "id": 85,
         "name": "Boppard",
         "data": {
-            "population": "15600",
-            "size": "75"
+            "population": 15600,
+            "size": 75
         },
-        "country_id": "4"
+        "country_id": 4
     },
     {
-        "id": "86",
+        "id": 86,
         "name": "Zaduszniki",
         "data": {
-            "population": "NULL",
-            "size": "NULL"
+            "population": null,
+            "size": null
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "87",
+        "id": 87,
         "name": "Greenville",
         "data": {
-            "population": "70700",
-            "size": "78"
+            "population": 70700,
+            "size": 78
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "88",
+        "id": 88,
         "name": "Tobolsk",
         "data": {
-            "population": "100000",
-            "size": "222"
+            "population": 100000,
+            "size": 222
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "89",
+        "id": 89,
         "name": "Hale",
         "data": {
-            "population": "NULL",
-            "size": "NULL"
+            "population": null,
+            "size": null
         },
-        "country_id": "8"
+        "country_id": 8
     },
     {
-        "id": "90",
+        "id": 90,
         "name": "Cavendish",
         "data": {
-            "population": "1390",
-            "size": "103"
+            "population": 1390,
+            "size": 103
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "91",
+        "id": 91,
         "name": "Lexington",
         "data": {
-            "population": "322600",
-            "size": "227"
+            "population": 322600,
+            "size": 227
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "92",
+        "id": 92,
         "name": "Seattle",
         "data": {
-            "population": "737000",
-            "size": "368"
+            "population": 737000,
+            "size": 368
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "93",
-        "name": "Toruń",
+        "id": 93,
+        "name": "Toru\u0144",
         "data": {
-            "population": "197000",
-            "size": "116"
+            "population": 197000,
+            "size": 116
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "94",
-        "name": "Gdańsk",
+        "id": 94,
+        "name": "Gda\u0144sk",
         "data": {
-            "population": "486000",
-            "size": "683"
+            "population": 486000,
+            "size": 683
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "95",
-        "name": "Kraków",
+        "id": 95,
+        "name": "Krak\u00f3w",
         "data": {
-            "population": "804000",
-            "size": "327"
+            "population": 804000,
+            "size": 327
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "96",
+        "id": 96,
         "name": "Katowice",
         "data": {
-            "population": "287000",
-            "size": "165"
+            "population": 287000,
+            "size": 165
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "97",
-        "name": "Wrocław",
+        "id": 97,
+        "name": "Wroc\u0142aw",
         "data": {
-            "population": "674000",
-            "size": "293"
+            "population": 674000,
+            "size": 293
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "98",
+        "id": 98,
         "name": "Moscow",
         "data": {
-            "population": "13000000",
-            "size": "2562"
+            "population": 13000000,
+            "size": 2562
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "99",
+        "id": 99,
         "name": "Leningrad",
         "data": {
-            "population": "5600000",
-            "size": "1439"
+            "population": 5600000,
+            "size": 1439
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "100",
+        "id": 100,
         "name": "Stalingrad",
         "data": {
-            "population": "1020000",
-            "size": "859"
+            "population": 1020000,
+            "size": 859
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "101",
+        "id": 101,
         "name": "Ufa",
         "data": {
-            "population": "1060000",
-            "size": "708"
+            "population": 1060000,
+            "size": 708
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "102",
+        "id": 102,
         "name": "Baltiysk",
         "data": {
-            "population": "32700",
-            "size": "NULL"
+            "population": 32700,
+            "size": null
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "103",
+        "id": 103,
         "name": "Riga",
         "data": {
-            "population": "592000",
-            "size": "304"
+            "population": 592000,
+            "size": 304
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "104",
+        "id": 104,
         "name": "Tallinn",
         "data": {
-            "population": "462000",
-            "size": "159"
+            "population": 462000,
+            "size": 159
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "106",
+        "id": 106,
         "name": "Minsk",
         "data": {
-            "population": "1997000",
-            "size": "410"
+            "population": 1997000,
+            "size": 410
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "107",
+        "id": 107,
         "name": "Vladivostok",
         "data": {
-            "population": "605000",
-            "size": "331"
+            "population": 605000,
+            "size": 331
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "108",
+        "id": 108,
         "name": "Sevastopol",
         "data": {
-            "population": "548000",
-            "size": "864"
+            "population": 548000,
+            "size": 864
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "109",
+        "id": 109,
         "name": "Baku",
         "data": {
-            "population": "2345000",
-            "size": "2140"
+            "population": 2345000,
+            "size": 2140
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "110",
+        "id": 110,
         "name": "Astana",
         "data": {
-            "population": "1424000",
-            "size": "810"
+            "population": 1424000,
+            "size": 810
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "111",
+        "id": 111,
         "name": "Murmansk",
         "data": {
-            "population": "270000",
-            "size": "168"
+            "population": 270000,
+            "size": 168
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "112",
+        "id": 112,
         "name": "Donetsk",
         "data": {
-            "population": "902000",
-            "size": "358"
+            "population": 902000,
+            "size": 358
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "113",
+        "id": 113,
         "name": "Mariupol",
         "data": {
-            "population": "426000",
-            "size": "244"
+            "population": 426000,
+            "size": 244
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "114",
+        "id": 114,
         "name": "Kursk",
         "data": {
-            "population": "415000",
-            "size": "189"
+            "population": 415000,
+            "size": 189
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "115",
+        "id": 115,
         "name": "Smolensk",
         "data": {
-            "population": "327000",
-            "size": "166"
+            "population": 327000,
+            "size": 166
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "116",
+        "id": 116,
         "name": "Kharkiv",
         "data": {
-            "population": "1421000",
-            "size": "350"
+            "population": 1421000,
+            "size": 350
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "117",
+        "id": 117,
         "name": "Krasnodar",
         "data": {
-            "population": "745000",
-            "size": "NULL"
+            "population": 745000,
+            "size": null
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "118",
+        "id": 118,
         "name": "Rostov-on-Don",
         "data": {
-            "population": "1090000",
-            "size": "349"
+            "population": 1090000,
+            "size": 349
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "119",
+        "id": 119,
         "name": "Saratov",
         "data": {
-            "population": "838000",
-            "size": "NULL"
+            "population": 838000,
+            "size": null
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "120",
+        "id": 120,
         "name": "Samara",
         "data": {
-            "population": "1165000",
-            "size": "541"
+            "population": 1165000,
+            "size": 541
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "121",
+        "id": 121,
         "name": "Omsk",
         "data": {
-            "population": "1154000",
-            "size": "567"
+            "population": 1154000,
+            "size": 567
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "122",
+        "id": 122,
         "name": "Novosibirsk",
         "data": {
-            "population": "1474000",
-            "size": "503"
+            "population": 1474000,
+            "size": 503
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "123",
+        "id": 123,
         "name": "Krasnoyarsk",
         "data": {
-            "population": "1091000",
-            "size": "348"
+            "population": 1091000,
+            "size": 348
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "124",
+        "id": 124,
         "name": "Irkutsk",
         "data": {
-            "population": "588000",
-            "size": "277"
+            "population": 588000,
+            "size": 277
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "125",
-        "name": "Mała Nieszawka",
+        "id": 125,
+        "name": "Ma\u0142a Nieszawka",
         "data": {
-            "population": "2200",
-            "size": "NULL"
+            "population": 2200,
+            "size": null
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "126",
-        "name": "Książki",
+        "id": 126,
+        "name": "Ksi\u0105\u017cki",
         "data": {
-            "population": "2000",
-            "size": "NULL"
+            "population": 2000,
+            "size": null
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "127",
-        "name": "Kuczwały",
+        "id": 127,
+        "name": "Kuczwa\u0142y",
         "data": {
-            "population": "470",
-            "size": "NULL"
+            "population": 470,
+            "size": null
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "128",
-        "name": "Chełmża",
+        "id": 128,
+        "name": "Che\u0142m\u017ca",
         "data": {
-            "population": "14000",
-            "size": "NULL"
+            "population": 14000,
+            "size": null
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "129",
-        "name": "Grębocin",
+        "id": 129,
+        "name": "Gr\u0119bocin",
         "data": {
-            "population": "3000",
-            "size": "NULL"
+            "population": 3000,
+            "size": null
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "130",
+        "id": 130,
         "name": "Lubicz Dolny",
         "data": {
-            "population": "3200",
-            "size": "NULL"
+            "population": 3200,
+            "size": null
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "131",
-        "name": "Lubicz Górny",
+        "id": 131,
+        "name": "Lubicz G\u00f3rny",
         "data": {
-            "population": "3600",
-            "size": "NULL"
+            "population": 3600,
+            "size": null
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "132",
+        "id": 132,
         "name": "Toronto",
         "data": {
-            "population": "2800000",
-            "size": "631"
+            "population": 2800000,
+            "size": 631
         },
-        "country_id": "7"
+        "country_id": 7
     },
     {
-        "id": "133",
+        "id": 133,
         "name": "Ontario",
         "data": {
-            "population": "175000",
-            "size": "130"
+            "population": 175000,
+            "size": 130
         },
-        "country_id": "6"
+        "country_id": 6
     },
     {
-        "id": "134",
+        "id": 134,
         "name": "Windsor",
         "data": {
-            "population": "237000",
-            "size": "57"
+            "population": 237000,
+            "size": 57
         },
-        "country_id": "7"
+        "country_id": 7
     },
     {
-        "id": "135",
+        "id": 135,
         "name": "Halifax",
         "data": {
-            "population": "349000",
-            "size": "238"
+            "population": 349000,
+            "size": 238
         },
-        "country_id": "7"
+        "country_id": 7
     },
     {
-        "id": "136",
+        "id": 136,
         "name": "Vancouver",
         "data": {
-            "population": "662000",
-            "size": "124"
+            "population": 662000,
+            "size": 124
         },
-        "country_id": "7"
+        "country_id": 7
     },
     {
-        "id": "137",
+        "id": 137,
         "name": "Malmo",
         "data": {
-            "population": "362000",
-            "size": "333"
+            "population": 362000,
+            "size": 333
         },
-        "country_id": "9"
+        "country_id": 9
     },
     {
-        "id": "138",
+        "id": 138,
         "name": "Helsinki",
         "data": {
-            "population": "687000",
-            "size": "716"
+            "population": 687000,
+            "size": 716
         },
-        "country_id": "10"
+        "country_id": 10
     },
     {
-        "id": "139",
+        "id": 139,
         "name": "Oslo",
         "data": {
-            "population": "1101000",
-            "size": "480"
+            "population": 1101000,
+            "size": 480
         },
-        "country_id": "11"
+        "country_id": 11
     },
     {
-        "id": "140",
+        "id": 140,
         "name": "Cluj-Napoca",
         "data": {
-            "population": "287000",
-            "size": "180"
+            "population": 287000,
+            "size": 180
         },
-        "country_id": "15"
+        "country_id": 15
     },
     {
-        "id": "143",
+        "id": 143,
         "name": "Ljubljana",
         "data": {
-            "population": "300000",
-            "size": "275"
+            "population": 300000,
+            "size": 275
         },
-        "country_id": "18"
+        "country_id": 18
     },
     {
-        "id": "144",
+        "id": 144,
         "name": "Madrid",
         "data": {
-            "population": "3460000",
-            "size": "604"
+            "population": 3460000,
+            "size": 604
         },
-        "country_id": "21"
+        "country_id": 21
     },
     {
-        "id": "145",
+        "id": 145,
         "name": "Dublin",
         "data": {
-            "population": "1535000",
-            "size": "345"
+            "population": 1535000,
+            "size": 345
         },
-        "country_id": "23"
+        "country_id": 23
     },
     {
-        "id": "146",
+        "id": 146,
         "name": "Luxembourg City",
         "data": {
-            "population": "136000",
-            "size": "52"
+            "population": 136000,
+            "size": 52
         },
-        "country_id": "24"
+        "country_id": 24
     },
     {
-        "id": "147",
+        "id": 147,
         "name": "Andorra la Vella",
         "data": {
-            "population": "22000",
-            "size": "12"
+            "population": 22000,
+            "size": 12
         },
-        "country_id": "27"
+        "country_id": 27
     },
     {
-        "id": "148",
+        "id": 148,
         "name": "Vaduz",
         "data": {
-            "population": "5700",
-            "size": "17"
+            "population": 5700,
+            "size": 17
         },
-        "country_id": "28"
+        "country_id": 28
     },
     {
-        "id": "149",
+        "id": 149,
         "name": "City of San Marino",
         "data": {
-            "population": "4100",
-            "size": "7"
+            "population": 4100,
+            "size": 7
         },
-        "country_id": "29"
+        "country_id": 29
     },
     {
-        "id": "150",
+        "id": 150,
         "name": "Vatican City",
         "data": {
-            "population": "882",
-            "size": "1"
+            "population": 882,
+            "size": 1
         },
-        "country_id": "30"
+        "country_id": 30
     },
     {
-        "id": "151",
+        "id": 151,
         "name": "Reykjavik",
         "data": {
-            "population": "139000",
-            "size": "244"
+            "population": 139000,
+            "size": 244
         },
-        "country_id": "32"
+        "country_id": 32
     },
     {
-        "id": "152",
+        "id": 152,
         "name": "Izmir",
         "data": {
-            "population": "2940000",
-            "size": "919"
+            "population": 2940000,
+            "size": 919
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "153",
+        "id": 153,
         "name": "Busan",
         "data": {
-            "population": "3344000",
-            "size": "770"
+            "population": 3344000,
+            "size": 770
         },
-        "country_id": "35"
+        "country_id": 35
     },
     {
-        "id": "154",
+        "id": 154,
         "name": "Seoul",
         "data": {
-            "population": "9600000",
-            "size": "605"
+            "population": 9600000,
+            "size": 605
         },
-        "country_id": "35"
+        "country_id": 35
     },
     {
-        "id": "155",
+        "id": 155,
         "name": "Pyongyang",
         "data": {
-            "population": "3158000",
-            "size": "829"
+            "population": 3158000,
+            "size": 829
         },
-        "country_id": "36"
+        "country_id": 36
     },
     {
-        "id": "156",
+        "id": 156,
         "name": "Ulaanbaatar",
         "data": {
-            "population": "1673000",
-            "size": "4704"
+            "population": 1673000,
+            "size": 4704
         },
-        "country_id": "37"
+        "country_id": 37
     },
     {
-        "id": "157",
+        "id": 157,
         "name": "Taipei",
         "data": {
-            "population": "2495000",
-            "size": "272"
+            "population": 2495000,
+            "size": 272
         },
-        "country_id": "39"
+        "country_id": 39
     },
     {
-        "id": "158",
+        "id": 158,
         "name": "Tehran",
         "data": {
-            "population": "9039000",
-            "size": "615"
+            "population": 9039000,
+            "size": 615
         },
-        "country_id": "40"
+        "country_id": 40
     },
     {
-        "id": "159",
+        "id": 159,
         "name": "Kabul",
         "data": {
-            "population": "7175000",
-            "size": "383"
+            "population": 7175000,
+            "size": 383
         },
-        "country_id": "41"
+        "country_id": 41
     },
     {
-        "id": "160",
+        "id": 160,
         "name": "Islamabad",
         "data": {
-            "population": "1109000",
-            "size": "220"
+            "population": 1109000,
+            "size": 220
         },
-        "country_id": "42"
+        "country_id": 42
     },
     {
-        "id": "161",
+        "id": 161,
         "name": "New Delhi",
         "data": {
-            "population": "250000",
-            "size": "43"
+            "population": 250000,
+            "size": 43
         },
-        "country_id": "43"
+        "country_id": 43
     },
     {
-        "id": "162",
+        "id": 162,
         "name": "Dhaka",
         "data": {
-            "population": "10279000",
-            "size": "306"
+            "population": 10279000,
+            "size": 306
         },
-        "country_id": "44"
+        "country_id": 44
     },
     {
-        "id": "163",
+        "id": 163,
         "name": "Yangon",
         "data": {
-            "population": "5161000",
-            "size": "599"
+            "population": 5161000,
+            "size": 599
         },
-        "country_id": "45"
+        "country_id": 45
     },
     {
-        "id": "164",
+        "id": 164,
         "name": "Bangkok",
         "data": {
-            "population": "8305000",
-            "size": "1569"
+            "population": 8305000,
+            "size": 1569
         },
-        "country_id": "46"
+        "country_id": 46
     },
     {
-        "id": "165",
+        "id": 165,
         "name": "Ho Chi Minh City",
         "data": {
-            "population": "14003000",
-            "size": "6772"
+            "population": 14003000,
+            "size": 6772
         },
-        "country_id": "47"
+        "country_id": 47
     },
     {
-        "id": "166",
+        "id": 166,
         "name": "Phnom Penh",
         "data": {
-            "population": "2353000",
-            "size": "679"
+            "population": 2353000,
+            "size": 679
         },
-        "country_id": "48"
+        "country_id": 48
     },
     {
-        "id": "167",
+        "id": 167,
         "name": "Vientiane",
         "data": {
-            "population": "841000",
-            "size": "3920"
+            "population": 841000,
+            "size": 3920
         },
-        "country_id": "49"
+        "country_id": 49
     },
     {
-        "id": "168",
+        "id": 168,
         "name": "Kathmandu",
         "data": {
-            "population": "857000",
-            "size": "50"
+            "population": 857000,
+            "size": 50
         },
-        "country_id": "50"
+        "country_id": 50
     },
     {
-        "id": "169",
+        "id": 169,
         "name": "Thimphu",
         "data": {
-            "population": "115000",
-            "size": "26"
+            "population": 115000,
+            "size": 26
         },
-        "country_id": "51"
+        "country_id": 51
     },
     {
-        "id": "170",
+        "id": 170,
         "name": "Lhasa",
         "data": {
-            "population": "465000",
-            "size": "525"
+            "population": 465000,
+            "size": 525
         },
-        "country_id": "52"
+        "country_id": 52
     },
     {
-        "id": "171",
+        "id": 171,
         "name": "Manila",
         "data": {
-            "population": "1847000",
-            "size": "42"
+            "population": 1847000,
+            "size": 42
         },
-        "country_id": "53"
+        "country_id": 53
     },
     {
-        "id": "172",
+        "id": 172,
         "name": "Kuala Lumpur",
         "data": {
-            "population": "2076000",
-            "size": "243"
+            "population": 2076000,
+            "size": 243
         },
-        "country_id": "54"
+        "country_id": 54
     },
     {
-        "id": "173",
+        "id": 173,
         "name": "Singapore",
         "data": {
-            "population": "6040000",
-            "size": "736"
+            "population": 6040000,
+            "size": 736
         },
-        "country_id": "55"
+        "country_id": 55
     },
     {
-        "id": "174",
+        "id": 174,
         "name": "Sydney",
         "data": {
-            "population": "5557000",
-            "size": "12368"
+            "population": 5557000,
+            "size": 12368
         },
-        "country_id": "57"
+        "country_id": 57
     },
     {
-        "id": "175",
+        "id": 175,
         "name": "Wellington",
         "data": {
-            "population": "210000",
-            "size": "290"
+            "population": 210000,
+            "size": 290
         },
-        "country_id": "58"
+        "country_id": 58
     },
     {
-        "id": "176",
+        "id": 176,
         "name": "Cairo",
         "data": {
-            "population": "10100000",
-            "size": "2734"
+            "population": 10100000,
+            "size": 2734
         },
-        "country_id": "59"
+        "country_id": 59
     },
     {
-        "id": "177",
+        "id": 177,
         "name": "Jerusalem",
         "data": {
-            "population": "982000",
-            "size": "125"
+            "population": 982000,
+            "size": 125
         },
-        "country_id": "60"
+        "country_id": 60
     },
     {
-        "id": "178",
+        "id": 178,
         "name": "Addis Ababa",
         "data": {
-            "population": "5957000",
-            "size": "527"
+            "population": 5957000,
+            "size": 527
         },
-        "country_id": "61"
+        "country_id": 61
     },
     {
-        "id": "179",
+        "id": 179,
         "name": "Rio de Janeiro",
         "data": {
-            "population": "6211000",
-            "size": "1221"
+            "population": 6211000,
+            "size": 1221
         },
-        "country_id": "63"
+        "country_id": 63
     },
     {
-        "id": "180",
+        "id": 180,
         "name": "La Plata",
         "data": {
-            "population": "193000",
-            "size": "27"
+            "population": 193000,
+            "size": 27
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "181",
+        "id": 181,
         "name": "Montevideo",
         "data": {
-            "population": "1287000",
-            "size": "201"
+            "population": 1287000,
+            "size": 201
         },
-        "country_id": "65"
+        "country_id": 65
     },
     {
-        "id": "182",
+        "id": 182,
         "name": "Santiago",
         "data": {
-            "population": "6269000",
-            "size": "641"
+            "population": 6269000,
+            "size": 641
         },
-        "country_id": "66"
+        "country_id": 66
     },
     {
-        "id": "183",
+        "id": 183,
         "name": "La Paz",
         "data": {
-            "population": "756000",
-            "size": "472"
+            "population": 756000,
+            "size": 472
         },
-        "country_id": "67"
+        "country_id": 67
     },
     {
-        "id": "184",
+        "id": 184,
         "name": "Lima",
         "data": {
-            "population": "10092000",
-            "size": "2672"
+            "population": 10092000,
+            "size": 2672
         },
-        "country_id": "68"
+        "country_id": 68
     },
     {
-        "id": "185",
+        "id": 185,
         "name": "Quito",
         "data": {
-            "population": "1763000",
-            "size": "198"
+            "population": 1763000,
+            "size": 198
         },
-        "country_id": "69"
+        "country_id": 69
     },
     {
-        "id": "186",
+        "id": 186,
         "name": "Bogota",
         "data": {
-            "population": "8035000",
-            "size": "1587"
+            "population": 8035000,
+            "size": 1587
         },
-        "country_id": "70"
+        "country_id": 70
     },
     {
-        "id": "187",
+        "id": 187,
         "name": "Caracas",
         "data": {
-            "population": "3242000",
-            "size": "433"
+            "population": 3242000,
+            "size": 433
         },
-        "country_id": "71"
+        "country_id": 71
     },
     {
-        "id": "188",
+        "id": 188,
         "name": "Baghdad",
         "data": {
-            "population": "7921000",
-            "size": "673"
+            "population": 7921000,
+            "size": 673
         },
-        "country_id": "72"
+        "country_id": 72
     },
     {
-        "id": "189",
+        "id": 189,
         "name": "Aleppo",
         "data": {
-            "population": "2098000",
-            "size": "190"
+            "population": 2098000,
+            "size": 190
         },
-        "country_id": "73"
+        "country_id": 73
     },
     {
-        "id": "190",
+        "id": 190,
         "name": "Amman",
         "data": {
-            "population": "4061000",
-            "size": "1680"
+            "population": 4061000,
+            "size": 1680
         },
-        "country_id": "74"
+        "country_id": 74
     },
     {
-        "id": "191",
+        "id": 191,
         "name": "Riyadh",
         "data": {
-            "population": "7009000",
-            "size": "1973"
+            "population": 7009000,
+            "size": 1973
         },
-        "country_id": "75"
+        "country_id": 75
     },
     {
-        "id": "192",
+        "id": 192,
         "name": "Muscat",
         "data": {
-            "population": "1720000",
-            "size": "3500"
+            "population": 1720000,
+            "size": 3500
         },
-        "country_id": "76"
+        "country_id": 76
     },
     {
-        "id": "193",
+        "id": 193,
         "name": "Sanaa",
         "data": {
-            "population": "2545000",
-            "size": "126"
+            "population": 2545000,
+            "size": 126
         },
-        "country_id": "77"
+        "country_id": 77
     },
     {
-        "id": "194",
+        "id": 194,
         "name": "Dubai",
         "data": {
-            "population": "3945000",
-            "size": "544"
+            "population": 3945000,
+            "size": 544
         },
-        "country_id": "78"
+        "country_id": 78
     },
     {
-        "id": "195",
+        "id": 195,
         "name": "Kuwait City",
         "data": {
-            "population": "120000",
-            "size": "860"
+            "population": 120000,
+            "size": 860
         },
-        "country_id": "79"
+        "country_id": 79
     },
     {
-        "id": "196",
+        "id": 196,
         "name": "Doha",
         "data": {
-            "population": "1186000",
-            "size": "132"
+            "population": 1186000,
+            "size": 132
         },
-        "country_id": "80"
+        "country_id": 80
     },
     {
-        "id": "197",
+        "id": 197,
         "name": "Beirut",
         "data": {
-            "population": "433000",
-            "size": "19"
+            "population": 433000,
+            "size": 19
         },
-        "country_id": "81"
+        "country_id": 81
     },
     {
-        "id": "198",
+        "id": 198,
         "name": "Marrakesh",
         "data": {
-            "population": "929000",
-            "size": "NULL"
+            "population": 929000,
+            "size": null
         },
-        "country_id": "82"
+        "country_id": 82
     },
     {
-        "id": "199",
+        "id": 199,
         "name": "Oran",
         "data": {
-            "population": "938000",
-            "size": "2121"
+            "population": 938000,
+            "size": 2121
         },
-        "country_id": "83"
+        "country_id": 83
     },
     {
-        "id": "200",
+        "id": 200,
         "name": "Benghazi",
         "data": {
-            "population": "859000",
-            "size": "314"
+            "population": 859000,
+            "size": 314
         },
-        "country_id": "84"
+        "country_id": 84
     },
     {
-        "id": "201",
+        "id": 201,
         "name": "Nairobi",
         "data": {
-            "population": "4397000",
-            "size": "696"
+            "population": 4397000,
+            "size": 696
         },
-        "country_id": "85"
+        "country_id": 85
     },
     {
-        "id": "202",
+        "id": 202,
         "name": "Dodoma",
         "data": {
-            "population": "765000",
-            "size": "2576"
+            "population": 765000,
+            "size": 2576
         },
-        "country_id": "86"
+        "country_id": 86
     },
     {
-        "id": "203",
+        "id": 203,
         "name": "Windhoek",
         "data": {
-            "population": "486000",
-            "size": "5133"
+            "population": 486000,
+            "size": 5133
         },
-        "country_id": "87"
+        "country_id": 87
     },
     {
-        "id": "204",
+        "id": 204,
         "name": "Leopoldville",
         "data": {
-            "population": "16316000",
-            "size": "6000"
+            "population": 16316000,
+            "size": 6000
         },
-        "country_id": "88"
+        "country_id": 88
     },
     {
-        "id": "205",
+        "id": 205,
         "name": "Bangui",
         "data": {
-            "population": "812000",
-            "size": "67"
+            "population": 812000,
+            "size": 67
         },
-        "country_id": "89"
+        "country_id": 89
     },
     {
-        "id": "206",
+        "id": 206,
         "name": "N'Djamena",
         "data": {
-            "population": "807000",
-            "size": "104"
+            "population": 807000,
+            "size": 104
         },
-        "country_id": "90"
+        "country_id": 90
     },
     {
-        "id": "207",
+        "id": 207,
         "name": "Djibouti City",
         "data": {
-            "population": "777000",
-            "size": "200"
+            "population": 777000,
+            "size": 200
         },
-        "country_id": "91"
+        "country_id": 91
     },
     {
-        "id": "208",
+        "id": 208,
         "name": "Mogadishu",
         "data": {
-            "population": "2727000",
-            "size": "560"
+            "population": 2727000,
+            "size": 560
         },
-        "country_id": "92"
+        "country_id": 92
     },
     {
-        "id": "209",
+        "id": 209,
         "name": "Luanda",
         "data": {
-            "population": "2831000",
-            "size": "116"
+            "population": 2831000,
+            "size": 116
         },
-        "country_id": "93"
+        "country_id": 93
     },
     {
-        "id": "210",
+        "id": 210,
         "name": "Maputo",
         "data": {
-            "population": "1088000",
-            "size": "348"
+            "population": 1088000,
+            "size": 348
         },
-        "country_id": "94"
+        "country_id": 94
     },
     {
-        "id": "211",
+        "id": 211,
         "name": "Libreville",
         "data": {
-            "population": "704000",
-            "size": "66"
+            "population": 704000,
+            "size": 66
         },
-        "country_id": "95"
+        "country_id": 95
     },
     {
-        "id": "212",
+        "id": 212,
         "name": "Havana",
         "data": {
-            "population": "2143000",
-            "size": "728"
+            "population": 2143000,
+            "size": 728
         },
-        "country_id": "96"
+        "country_id": 96
     },
     {
-        "id": "213",
+        "id": 213,
         "name": "Port-au-Prince",
         "data": {
-            "population": "1200000",
-            "size": "36"
+            "population": 1200000,
+            "size": 36
         },
-        "country_id": "97"
+        "country_id": 97
     },
     {
-        "id": "214",
+        "id": 214,
         "name": "Santo Domingo",
         "data": {
-            "population": "1029000",
-            "size": "1502"
+            "population": 1029000,
+            "size": 1502
         },
-        "country_id": "98"
+        "country_id": 98
     },
     {
-        "id": "215",
+        "id": 215,
         "name": "Kingston",
         "data": {
-            "population": "662000",
-            "size": "25"
+            "population": 662000,
+            "size": 25
         },
-        "country_id": "99"
+        "country_id": 99
     },
     {
-        "id": "216",
+        "id": 216,
         "name": "Gaborone",
         "data": {
-            "population": "246000",
-            "size": "169"
+            "population": 246000,
+            "size": 169
         },
-        "country_id": "100"
+        "country_id": 100
     },
     {
-        "id": "217",
+        "id": 217,
         "name": "Harare",
         "data": {
-            "population": "1492000",
-            "size": "982"
+            "population": 1492000,
+            "size": 982
         },
-        "country_id": "101"
+        "country_id": 101
     },
     {
-        "id": "218",
+        "id": 218,
         "name": "Tijuana",
         "data": {
-            "population": "1811000",
-            "size": "637"
+            "population": 1811000,
+            "size": 637
         },
-        "country_id": "102"
+        "country_id": 102
     },
     {
-        "id": "219",
+        "id": 219,
         "name": "Brisbane",
         "data": {
-            "population": "2780000",
-            "size": "15826"
+            "population": 2780000,
+            "size": 15826
         },
-        "country_id": "57"
+        "country_id": 57
     },
     {
-        "id": "220",
+        "id": 220,
         "name": "Hamburg",
         "data": {
-            "population": "1850000",
-            "size": "755"
+            "population": 1850000,
+            "size": 755
         },
-        "country_id": "4"
+        "country_id": 4
     },
     {
-        "id": "221",
+        "id": 221,
         "name": "Montreal",
         "data": {
-            "population": "1780000",
-            "size": "431"
+            "population": 1780000,
+            "size": 431
         },
-        "country_id": "7"
+        "country_id": 7
     },
     {
-        "id": "222",
+        "id": 222,
         "name": "Nagoya",
         "data": {
-            "population": "2300000",
-            "size": "326"
+            "population": 2300000,
+            "size": 326
         },
-        "country_id": "34"
+        "country_id": 34
     },
     {
-        "id": "223",
+        "id": 223,
         "name": "Gothenburg",
         "data": {
-            "population": "590000",
-            "size": "448"
+            "population": 590000,
+            "size": 448
         },
-        "country_id": "9"
+        "country_id": 9
     },
     {
-        "id": "224",
-        "name": "Poznań",
+        "id": 224,
+        "name": "Pozna\u0144",
         "data": {
-            "population": "540000",
-            "size": "262"
+            "population": 540000,
+            "size": 262
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "225",
+        "id": 225,
         "name": "Perth",
         "data": {
-            "population": "2100000",
-            "size": "6418"
+            "population": 2100000,
+            "size": 6418
         },
-        "country_id": "57"
+        "country_id": 57
     },
     {
-        "id": "226",
+        "id": 226,
         "name": "Turin",
         "data": {
-            "population": "870000",
-            "size": "130"
+            "population": 870000,
+            "size": 130
         },
-        "country_id": "19"
+        "country_id": 19
     },
     {
-        "id": "227",
+        "id": 227,
         "name": "Munich",
         "data": {
-            "population": "1480000",
-            "size": "311"
+            "population": 1480000,
+            "size": 311
         },
-        "country_id": "4"
+        "country_id": 4
     },
     {
-        "id": "228",
+        "id": 228,
         "name": "Valencia",
         "data": {
-            "population": "800000",
-            "size": "134"
+            "population": 800000,
+            "size": 134
         },
-        "country_id": "21"
+        "country_id": 21
     },
     {
-        "id": "229",
+        "id": 229,
         "name": "Lille",
         "data": {
-            "population": "232000",
-            "size": "35"
+            "population": 232000,
+            "size": 35
         },
-        "country_id": "2"
+        "country_id": 2
     },
     {
-        "id": "230",
+        "id": 230,
         "name": "Stuttgart",
         "data": {
-            "population": "635000",
-            "size": "207"
+            "population": 635000,
+            "size": 207
         },
-        "country_id": "4"
+        "country_id": 4
     },
     {
-        "id": "231",
+        "id": 231,
         "name": "Bristol",
         "data": {
-            "population": "467000",
-            "size": "110"
+            "population": 467000,
+            "size": 110
         },
-        "country_id": "8"
+        "country_id": 8
     },
     {
-        "id": "232",
+        "id": 232,
         "name": "Cork",
         "data": {
-            "population": "222000",
-            "size": "187"
+            "population": 222000,
+            "size": 187
         },
-        "country_id": "23"
+        "country_id": 23
     },
     {
-        "id": "234",
+        "id": 234,
         "name": "Rotterdam",
         "data": {
-            "population": "655000",
-            "size": "325"
+            "population": 655000,
+            "size": 325
         },
-        "country_id": "26"
+        "country_id": 26
     },
     {
-        "id": "235",
-        "name": "Düsseldorf",
+        "id": 235,
+        "name": "D\u00fcsseldorf",
         "data": {
-            "population": "620000",
-            "size": "218"
+            "population": 620000,
+            "size": 218
         },
-        "country_id": "4"
+        "country_id": 4
     },
     {
-        "id": "236",
+        "id": 236,
         "name": "Salzburg",
         "data": {
-            "population": "156000",
-            "size": "65"
+            "population": 156000,
+            "size": 65
         },
-        "country_id": "31"
+        "country_id": 31
     },
     {
-        "id": "239",
+        "id": 239,
         "name": "Basel",
         "data": {
-            "population": "173000",
-            "size": "23"
+            "population": 173000,
+            "size": 23
         },
-        "country_id": "20"
+        "country_id": 20
     },
     {
-        "id": "240",
+        "id": 240,
         "name": "Lausanne",
         "data": {
-            "population": "140000",
-            "size": "41"
+            "population": 140000,
+            "size": 41
         },
-        "country_id": "20"
+        "country_id": 20
     },
     {
-        "id": "241",
+        "id": 241,
         "name": "Toulouse",
         "data": {
-            "population": "498000",
-            "size": "118"
+            "population": 498000,
+            "size": 118
         },
-        "country_id": "2"
+        "country_id": 2
     },
     {
-        "id": "242",
+        "id": 242,
         "name": "Seville",
         "data": {
-            "population": "690000",
-            "size": "140"
+            "population": 690000,
+            "size": 140
         },
-        "country_id": "21"
+        "country_id": 21
     },
     {
-        "id": "243",
+        "id": 243,
         "name": "Bilbao",
         "data": {
-            "population": "345000",
-            "size": "41"
+            "population": 345000,
+            "size": 41
         },
-        "country_id": "21"
+        "country_id": 21
     },
     {
-        "id": "244",
+        "id": 244,
         "name": "Naples",
         "data": {
-            "population": "962000",
-            "size": "119"
+            "population": 962000,
+            "size": 119
         },
-        "country_id": "19"
+        "country_id": 19
     },
     {
-        "id": "245",
+        "id": 245,
         "name": "Florence",
         "data": {
-            "population": "382000",
-            "size": "102"
+            "population": 382000,
+            "size": 102
         },
-        "country_id": "19"
+        "country_id": 19
     },
     {
-        "id": "246",
+        "id": 246,
         "name": "Leipzig",
         "data": {
-            "population": "601000",
-            "size": "297"
+            "population": 601000,
+            "size": 297
         },
-        "country_id": "3"
+        "country_id": 3
     },
     {
-        "id": "247",
+        "id": 247,
         "name": "Dresden",
         "data": {
-            "population": "555000",
-            "size": "328"
+            "population": 555000,
+            "size": 328
         },
-        "country_id": "3"
+        "country_id": 3
     },
     {
-        "id": "249",
+        "id": 249,
         "name": "Nuremberg",
         "data": {
-            "population": "515000",
-            "size": "187"
+            "population": 515000,
+            "size": 187
         },
-        "country_id": "3"
+        "country_id": 3
     },
     {
-        "id": "250",
+        "id": 250,
         "name": "Bremen",
         "data": {
-            "population": "569000",
-            "size": "326"
+            "population": 569000,
+            "size": 326
         },
-        "country_id": "4"
+        "country_id": 4
     },
     {
-        "id": "251",
+        "id": 251,
         "name": "Hannover",
         "data": {
-            "population": "538000",
-            "size": "204"
+            "population": 538000,
+            "size": 204
         },
-        "country_id": "4"
+        "country_id": 4
     },
     {
-        "id": "252",
+        "id": 252,
         "name": "Essen",
         "data": {
-            "population": "583000",
-            "size": "210"
+            "population": 583000,
+            "size": 210
         },
-        "country_id": "4"
+        "country_id": 4
     },
     {
-        "id": "253",
+        "id": 253,
         "name": "Dortmund",
         "data": {
-            "population": "587000",
-            "size": "280"
+            "population": 587000,
+            "size": 280
         },
-        "country_id": "4"
+        "country_id": 4
     },
     {
-        "id": "255",
+        "id": 255,
         "name": "Glasgow",
         "data": {
-            "population": "635000",
-            "size": "175"
+            "population": 635000,
+            "size": 175
         },
-        "country_id": "8"
+        "country_id": 8
     },
     {
-        "id": "256",
+        "id": 256,
         "name": "Liverpool",
         "data": {
-            "population": "498000",
-            "size": "112"
+            "population": 498000,
+            "size": 112
         },
-        "country_id": "8"
+        "country_id": 8
     },
     {
-        "id": "257",
+        "id": 257,
         "name": "Manchester",
         "data": {
-            "population": "553000",
-            "size": "116"
+            "population": 553000,
+            "size": 116
         },
-        "country_id": "8"
+        "country_id": 8
     },
     {
-        "id": "258",
+        "id": 258,
         "name": "Leeds",
         "data": {
-            "population": "789000",
-            "size": "112"
+            "population": 789000,
+            "size": 112
         },
-        "country_id": "8"
+        "country_id": 8
     },
     {
-        "id": "259",
+        "id": 259,
         "name": "Sheffield",
         "data": {
-            "population": "584000",
-            "size": "142"
+            "population": 584000,
+            "size": 142
         },
-        "country_id": "8"
+        "country_id": 8
     },
     {
-        "id": "260",
+        "id": 260,
         "name": "Birmingham",
         "data": {
-            "population": "1140000",
-            "size": "267"
+            "population": 1140000,
+            "size": 267
         },
-        "country_id": "8"
+        "country_id": 8
     },
     {
-        "id": "261",
+        "id": 261,
         "name": "Edmonton",
         "data": {
-            "population": "981000",
-            "size": "684"
+            "population": 981000,
+            "size": 684
         },
-        "country_id": "7"
+        "country_id": 7
     },
     {
-        "id": "262",
+        "id": 262,
         "name": "Calgary",
         "data": {
-            "population": "1239000",
-            "size": "825"
+            "population": 1239000,
+            "size": 825
         },
-        "country_id": "7"
+        "country_id": 7
     },
     {
-        "id": "263",
+        "id": 263,
         "name": "Ottawa",
         "data": {
-            "population": "1010000",
-            "size": "2790"
+            "population": 1010000,
+            "size": 2790
         },
-        "country_id": "7"
+        "country_id": 7
     },
     {
-        "id": "264",
+        "id": 264,
         "name": "Quebec City",
         "data": {
-            "population": "542000",
-            "size": "485"
+            "population": 542000,
+            "size": 485
         },
-        "country_id": "7"
+        "country_id": 7
     },
     {
-        "id": "266",
+        "id": 266,
         "name": "Winnipeg",
         "data": {
-            "population": "749000",
-            "size": "464"
+            "population": 749000,
+            "size": 464
         },
-        "country_id": "7"
+        "country_id": 7
     },
     {
-        "id": "267",
+        "id": 267,
         "name": "Osaka",
         "data": {
-            "population": "2725000",
-            "size": "225"
+            "population": 2725000,
+            "size": 225
         },
-        "country_id": "34"
+        "country_id": 34
     },
     {
-        "id": "268",
+        "id": 268,
         "name": "Kobe",
         "data": {
-            "population": "1528000",
-            "size": "552"
+            "population": 1528000,
+            "size": 552
         },
-        "country_id": "34"
+        "country_id": 34
     },
     {
-        "id": "269",
+        "id": 269,
         "name": "Kyoto",
         "data": {
-            "population": "1465000",
-            "size": "827"
+            "population": 1465000,
+            "size": 827
         },
-        "country_id": "34"
+        "country_id": 34
     },
     {
-        "id": "270",
+        "id": 270,
         "name": "Sapporo",
         "data": {
-            "population": "1972000",
-            "size": "1121"
+            "population": 1972000,
+            "size": 1121
         },
-        "country_id": "34"
+        "country_id": 34
     },
     {
-        "id": "271",
+        "id": 271,
         "name": "Fukuoka",
         "data": {
-            "population": "1610000",
-            "size": "343"
+            "population": 1610000,
+            "size": 343
         },
-        "country_id": "34"
+        "country_id": 34
     },
     {
-        "id": "272",
+        "id": 272,
         "name": "Sendai",
         "data": {
-            "population": "1089000",
-            "size": "786"
+            "population": 1089000,
+            "size": 786
         },
-        "country_id": "34"
+        "country_id": 34
     },
     {
-        "id": "273",
+        "id": 273,
         "name": "Yokohama",
         "data": {
-            "population": "3770000",
-            "size": "437"
+            "population": 3770000,
+            "size": 437
         },
-        "country_id": "34"
+        "country_id": 34
     },
     {
-        "id": "275",
+        "id": 275,
         "name": "Saitama",
         "data": {
-            "population": "1320000",
-            "size": "217"
+            "population": 1320000,
+            "size": 217
         },
-        "country_id": "34"
+        "country_id": 34
     },
     {
-        "id": "276",
+        "id": 276,
         "name": "Kawasaki",
         "data": {
-            "population": "1540000",
-            "size": "143"
+            "population": 1540000,
+            "size": 143
         },
-        "country_id": "34"
+        "country_id": 34
     },
     {
-        "id": "277",
+        "id": 277,
         "name": "Sagamihara",
         "data": {
-            "population": "726000",
-            "size": "328"
+            "population": 726000,
+            "size": 328
         },
-        "country_id": "34"
+        "country_id": 34
     },
     {
-        "id": "278",
+        "id": 278,
         "name": "Okayama",
         "data": {
-            "population": "720000",
-            "size": "789"
+            "population": 720000,
+            "size": 789
         },
-        "country_id": "34"
+        "country_id": 34
     },
     {
-        "id": "279",
+        "id": 279,
         "name": "Niigata",
         "data": {
-            "population": "797000",
-            "size": "726"
+            "population": 797000,
+            "size": 726
         },
-        "country_id": "34"
+        "country_id": 34
     },
     {
-        "id": "280",
+        "id": 280,
         "name": "Hamamatsu",
         "data": {
-            "population": "791000",
-            "size": "1558"
+            "population": 791000,
+            "size": 1558
         },
-        "country_id": "34"
+        "country_id": 34
     },
     {
-        "id": "281",
+        "id": 281,
         "name": "Kumamoto",
         "data": {
-            "population": "738000",
-            "size": "390"
+            "population": 738000,
+            "size": 390
         },
-        "country_id": "34"
+        "country_id": 34
     },
     {
-        "id": "282",
+        "id": 282,
         "name": "Sakai",
         "data": {
-            "population": "829000",
-            "size": "149"
+            "population": 829000,
+            "size": 149
         },
-        "country_id": "34"
+        "country_id": 34
     },
     {
-        "id": "283",
+        "id": 283,
         "name": "Shizuoka",
         "data": {
-            "population": "690000",
-            "size": "1411"
+            "population": 690000,
+            "size": 1411
         },
-        "country_id": "34"
+        "country_id": 34
     },
     {
-        "id": "284",
+        "id": 284,
         "name": "Chiba",
         "data": {
-            "population": "979000",
-            "size": "272"
+            "population": 979000,
+            "size": 272
         },
-        "country_id": "34"
+        "country_id": 34
     },
     {
-        "id": "285",
+        "id": 285,
         "name": "Kitakyushu",
         "data": {
-            "population": "940000",
-            "size": "491"
+            "population": 940000,
+            "size": 491
         },
-        "country_id": "34"
+        "country_id": 34
     },
     {
-        "id": "286",
+        "id": 286,
         "name": "Hiroshima",
         "data": {
-            "population": "1190000",
-            "size": "906"
+            "population": 1190000,
+            "size": 906
         },
-        "country_id": "34"
+        "country_id": 34
     },
     {
-        "id": "287",
+        "id": 287,
         "name": "Adelaide",
         "data": {
-            "population": "1370000",
-            "size": "3258"
+            "population": 1370000,
+            "size": 3258
         },
-        "country_id": "57"
+        "country_id": 57
     },
     {
-        "id": "288",
+        "id": 288,
         "name": "Canberra",
         "data": {
-            "population": "462000",
-            "size": "814"
+            "population": 462000,
+            "size": 814
         },
-        "country_id": "57"
+        "country_id": 57
     },
     {
-        "id": "289",
+        "id": 289,
         "name": "Gold Coast",
         "data": {
-            "population": "700000",
-            "size": "414"
+            "population": 700000,
+            "size": 414
         },
-        "country_id": "57"
+        "country_id": 57
     },
     {
-        "id": "290",
+        "id": 290,
         "name": "Newcastle",
         "data": {
-            "population": "322000",
-            "size": "261"
+            "population": 322000,
+            "size": 261
         },
-        "country_id": "57"
+        "country_id": 57
     },
     {
-        "id": "292",
+        "id": 292,
         "name": "Auckland",
         "data": {
-            "population": "1680000",
-            "size": "1086"
+            "population": 1680000,
+            "size": 1086
         },
-        "country_id": "58"
+        "country_id": 58
     },
     {
-        "id": "293",
+        "id": 293,
         "name": "Christchurch",
         "data": {
-            "population": "389000",
-            "size": "452"
+            "population": 389000,
+            "size": 452
         },
-        "country_id": "58"
+        "country_id": 58
     },
     {
-        "id": "294",
+        "id": 294,
         "name": "Dunedin",
         "data": {
-            "population": "130000",
-            "size": "331"
+            "population": 130000,
+            "size": 331
         },
-        "country_id": "58"
+        "country_id": 58
     },
     {
-        "id": "295",
+        "id": 295,
         "name": "Hobart",
         "data": {
-            "population": "240000",
-            "size": "1695"
+            "population": 240000,
+            "size": 1695
         },
-        "country_id": "57"
+        "country_id": 57
     },
     {
-        "id": "297",
+        "id": 297,
         "name": "Stockholm",
         "data": {
-            "population": "975000",
-            "size": "188"
+            "population": 975000,
+            "size": 188
         },
-        "country_id": "9"
+        "country_id": 9
     },
     {
-        "id": "302",
+        "id": 302,
         "name": "Vilnius",
         "data": {
-            "population": "587000",
-            "size": "401"
+            "population": 587000,
+            "size": 401
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "303",
+        "id": 303,
         "name": "Zagreb",
         "data": {
-            "population": "806000",
-            "size": "641"
+            "population": 806000,
+            "size": 641
         },
-        "country_id": "18"
+        "country_id": 18
     },
     {
-        "id": "304",
+        "id": 304,
         "name": "Belgrade",
         "data": {
-            "population": "1378000",
-            "size": "360"
+            "population": 1378000,
+            "size": 360
         },
-        "country_id": "18"
+        "country_id": 18
     },
     {
-        "id": "305",
+        "id": 305,
         "name": "Sofia",
         "data": {
-            "population": "1277000",
-            "size": "492"
+            "population": 1277000,
+            "size": 492
         },
-        "country_id": "16"
+        "country_id": 16
     },
     {
-        "id": "306",
+        "id": 306,
         "name": "Bucharest",
         "data": {
-            "population": "1836000",
-            "size": "228"
+            "population": 1836000,
+            "size": 228
         },
-        "country_id": "15"
+        "country_id": 15
     },
     {
-        "id": "307",
+        "id": 307,
         "name": "Athens",
         "data": {
-            "population": "3153000",
-            "size": "412"
+            "population": 3153000,
+            "size": 412
         },
-        "country_id": "17"
+        "country_id": 17
     },
     {
-        "id": "309",
+        "id": 309,
         "name": "Prague",
         "data": {
-            "population": "1309000",
-            "size": "496"
+            "population": 1309000,
+            "size": 496
         },
-        "country_id": "13"
+        "country_id": 13
     },
     {
-        "id": "310",
+        "id": 310,
         "name": "Bratislava",
         "data": {
-            "population": "437000",
-            "size": "368"
+            "population": 437000,
+            "size": 368
         },
-        "country_id": "13"
+        "country_id": 13
     },
     {
-        "id": "313",
+        "id": 313,
         "name": "Zurich",
         "data": {
-            "population": "434000",
-            "size": "91"
+            "population": 434000,
+            "size": 91
         },
-        "country_id": "20"
+        "country_id": 20
     },
     {
-        "id": "314",
+        "id": 314,
         "name": "Geneva",
         "data": {
-            "population": "203000",
-            "size": "16"
+            "population": 203000,
+            "size": 16
         },
-        "country_id": "20"
+        "country_id": 20
     },
     {
-        "id": "316",
+        "id": 316,
         "name": "Brussels",
         "data": {
-            "population": "1850000",
-            "size": "161"
+            "population": 1850000,
+            "size": 161
         },
-        "country_id": "25"
+        "country_id": 25
     },
     {
-        "id": "317",
+        "id": 317,
         "name": "Antwerp",
         "data": {
-            "population": "529000",
-            "size": "205"
+            "population": 529000,
+            "size": 205
         },
-        "country_id": "25"
+        "country_id": 25
     },
     {
-        "id": "318",
+        "id": 318,
         "name": "Almaty",
         "data": {
-            "population": "1916822",
-            "size": "682"
+            "population": 1916822,
+            "size": 682
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "319",
+        "id": 319,
         "name": "Yerevan",
         "data": {
-            "population": "1093485",
-            "size": "223"
+            "population": 1093485,
+            "size": 223
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "320",
+        "id": 320,
         "name": "Tashkent",
         "data": {
-            "population": "2424100",
-            "size": "334"
+            "population": 2424100,
+            "size": 334
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "321",
+        "id": 321,
         "name": "Bishkek",
         "data": {
-            "population": "1074075",
-            "size": "169"
+            "population": 1074075,
+            "size": 169
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "322",
+        "id": 322,
         "name": "Dushanbe",
         "data": {
-            "population": "863400",
-            "size": "124"
+            "population": 863400,
+            "size": 124
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "323",
+        "id": 323,
         "name": "Ashgabat",
         "data": {
-            "population": "1031992",
-            "size": "440"
+            "population": 1031992,
+            "size": 440
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "324",
+        "id": 324,
         "name": "Tbilisi",
         "data": {
-            "population": "1108717",
-            "size": "504"
+            "population": 1108717,
+            "size": 504
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "325",
+        "id": 325,
         "name": "Odessa",
         "data": {
-            "population": "1015826",
-            "size": "236"
+            "population": 1015826,
+            "size": 236
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "326",
+        "id": 326,
         "name": "Dnipro",
         "data": {
-            "population": "966400",
-            "size": "409"
+            "population": 966400,
+            "size": 409
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "327",
+        "id": 327,
         "name": "Zaporizhzhia",
         "data": {
-            "population": "722713",
-            "size": "334"
+            "population": 722713,
+            "size": 334
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "328",
+        "id": 328,
         "name": "Chisinau",
         "data": {
-            "population": "532513",
-            "size": "120"
+            "population": 532513,
+            "size": 120
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "329",
+        "id": 329,
         "name": "Grozny",
         "data": {
-            "population": "324602",
-            "size": "324"
+            "population": 324602,
+            "size": 324
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "330",
+        "id": 330,
         "name": "Volgodonsk",
         "data": {
-            "population": "171471",
-            "size": "182"
+            "population": 171471,
+            "size": 182
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "331",
+        "id": 331,
         "name": "Novocherkassk",
         "data": {
-            "population": "168746",
-            "size": "171"
+            "population": 168746,
+            "size": 171
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "332",
+        "id": 332,
         "name": "Taganrog",
         "data": {
-            "population": "248657",
-            "size": "80"
+            "population": 248657,
+            "size": 80
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "333",
+        "id": 333,
         "name": "Shakhty",
         "data": {
-            "population": "226452",
-            "size": "158"
+            "population": 226452,
+            "size": 158
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "334",
+        "id": 334,
         "name": "Batumi",
         "data": {
-            "population": "169095",
-            "size": "64"
+            "population": 169095,
+            "size": 64
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "335",
+        "id": 335,
         "name": "Kutaisi",
         "data": {
-            "population": "135214",
-            "size": "67"
+            "population": 135214,
+            "size": 67
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "336",
+        "id": 336,
         "name": "Rustavi",
         "data": {
-            "population": "126335",
-            "size": "60"
+            "population": 126335,
+            "size": 60
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "337",
+        "id": 337,
         "name": "Ganja",
         "data": {
-            "population": "332600",
-            "size": "110"
+            "population": 332600,
+            "size": 110
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "338",
+        "id": 338,
         "name": "Sumgait",
         "data": {
-            "population": "341200",
-            "size": "83"
+            "population": 341200,
+            "size": 83
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "339",
+        "id": 339,
         "name": "Gyumri",
         "data": {
-            "population": "114485",
-            "size": "54"
+            "population": 114485,
+            "size": 54
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "340",
+        "id": 340,
         "name": "Vanadzor",
         "data": {
-            "population": "79300",
-            "size": "25"
+            "population": 79300,
+            "size": 25
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "341",
+        "id": 341,
         "name": "Aktau",
         "data": {
-            "population": "183900",
-            "size": "77"
+            "population": 183900,
+            "size": 77
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "342",
+        "id": 342,
         "name": "Atyrau",
         "data": {
-            "population": "355883",
-            "size": "138"
+            "population": 355883,
+            "size": 138
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "343",
+        "id": 343,
         "name": "Aktobe",
         "data": {
-            "population": "497381",
-            "size": "297"
+            "population": 497381,
+            "size": 297
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "344",
+        "id": 344,
         "name": "Karaganda",
         "data": {
-            "population": "497777",
-            "size": "550"
+            "population": 497777,
+            "size": 550
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "345",
+        "id": 345,
         "name": "Shymkent",
         "data": {
-            "population": "1111151",
-            "size": "347"
+            "population": 1111151,
+            "size": 347
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "346",
+        "id": 346,
         "name": "Pavlodar",
         "data": {
-            "population": "331710",
-            "size": "400"
+            "population": 331710,
+            "size": 400
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "347",
+        "id": 347,
         "name": "Semey",
         "data": {
-            "population": "316151",
-            "size": "210"
+            "population": 316151,
+            "size": 210
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "348",
+        "id": 348,
         "name": "Taraz",
         "data": {
-            "population": "358153",
-            "size": "187"
+            "population": 358153,
+            "size": 187
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "349",
+        "id": 349,
         "name": "Oskemen",
         "data": {
-            "population": "303720",
-            "size": "540"
+            "population": 303720,
+            "size": 540
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "350",
+        "id": 350,
         "name": "Kostanay",
         "data": {
-            "population": "214947",
-            "size": "240"
+            "population": 214947,
+            "size": 240
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "351",
+        "id": 351,
         "name": "Petropavl",
         "data": {
-            "population": "201446",
-            "size": "224"
+            "population": 201446,
+            "size": 224
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "352",
+        "id": 352,
         "name": "Oral",
         "data": {
-            "population": "271900",
-            "size": "195"
+            "population": 271900,
+            "size": 195
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "353",
+        "id": 353,
         "name": "Kyzylorda",
         "data": {
-            "population": "242462",
-            "size": "240"
+            "population": 242462,
+            "size": 240
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "354",
+        "id": 354,
         "name": "Namangan",
         "data": {
-            "population": "626120",
-            "size": "145"
+            "population": 626120,
+            "size": 145
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "355",
+        "id": 355,
         "name": "Samarkand",
         "data": {
-            "population": "546300",
-            "size": "120"
+            "population": 546300,
+            "size": 120
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "356",
+        "id": 356,
         "name": "Andijan",
         "data": {
-            "population": "416300",
-            "size": "74"
+            "population": 416300,
+            "size": 74
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "357",
+        "id": 357,
         "name": "Bukhara",
         "data": {
-            "population": "280187",
-            "size": "60"
+            "population": 280187,
+            "size": 60
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "358",
+        "id": 358,
         "name": "Nukus",
         "data": {
-            "population": "312100",
-            "size": "222"
+            "population": 312100,
+            "size": 222
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "359",
+        "id": 359,
         "name": "Fergana",
         "data": {
-            "population": "264900",
-            "size": "95"
+            "population": 264900,
+            "size": 95
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "360",
+        "id": 360,
         "name": "Karshi",
         "data": {
-            "population": "271700",
-            "size": "80"
+            "population": 271700,
+            "size": 80
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "361",
+        "id": 361,
         "name": "Kokand",
         "data": {
-            "population": "233500",
-            "size": "40"
+            "population": 233500,
+            "size": 40
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "362",
+        "id": 362,
         "name": "Margilan",
         "data": {
-            "population": "215400",
-            "size": "50"
+            "population": 215400,
+            "size": 50
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "363",
+        "id": 363,
         "name": "Osh",
         "data": {
-            "population": "322164",
-            "size": "182"
+            "population": 322164,
+            "size": 182
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "364",
+        "id": 364,
         "name": "Jalal-Abad",
         "data": {
-            "population": "109200",
-            "size": "88"
+            "population": 109200,
+            "size": 88
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "365",
+        "id": 365,
         "name": "Karakol",
         "data": {
-            "population": "75400",
-            "size": "44"
+            "population": 75400,
+            "size": 44
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "366",
+        "id": 366,
         "name": "Tokmok",
         "data": {
-            "population": "71200",
-            "size": "41"
+            "population": 71200,
+            "size": 41
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "367",
+        "id": 367,
         "name": "Khujand",
         "data": {
-            "population": "181600",
-            "size": "40"
+            "population": 181600,
+            "size": 40
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "368",
+        "id": 368,
         "name": "Kulob",
         "data": {
-            "population": "102800",
-            "size": "25"
+            "population": 102800,
+            "size": 25
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "369",
+        "id": 369,
         "name": "Qurghonteppa",
         "data": {
-            "population": "101600",
-            "size": "29"
+            "population": 101600,
+            "size": 29
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "370",
+        "id": 370,
         "name": "Mary",
         "data": {
-            "population": "126141",
-            "size": "60"
+            "population": 126141,
+            "size": 60
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "371",
+        "id": 371,
         "name": "Turkmenabat",
         "data": {
-            "population": "254900",
-            "size": "120"
+            "population": 254900,
+            "size": 120
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "372",
+        "id": 372,
         "name": "Dashoguz",
         "data": {
-            "population": "275400",
-            "size": "108"
+            "population": 275400,
+            "size": 108
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "373",
+        "id": 373,
         "name": "Turkmenbashi",
         "data": {
-            "population": "68292",
-            "size": "32"
+            "population": 68292,
+            "size": 32
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "374",
+        "id": 374,
         "name": "Balkanabat",
         "data": {
-            "population": "108700",
-            "size": "60"
+            "population": 108700,
+            "size": 60
         },
-        "country_id": "5"
+        "country_id": 5
     },
     {
-        "id": "375",
+        "id": 375,
         "name": "Antalya",
         "data": {
-            "population": "1203994",
-            "size": "1417"
+            "population": 1203994,
+            "size": 1417
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "376",
+        "id": 376,
         "name": "Adana",
         "data": {
-            "population": "1768860",
-            "size": "1945"
+            "population": 1768860,
+            "size": 1945
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "377",
+        "id": 377,
         "name": "Bursa",
         "data": {
-            "population": "1944762",
-            "size": "1036"
+            "population": 1944762,
+            "size": 1036
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "378",
+        "id": 378,
         "name": "Konya",
         "data": {
-            "population": "1250000",
-            "size": "6946"
+            "population": 1250000,
+            "size": 6946
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "379",
+        "id": 379,
         "name": "Mersin",
         "data": {
-            "population": "1773852",
-            "size": "1772"
+            "population": 1773852,
+            "size": 1772
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "380",
+        "id": 380,
         "name": "Kayseri",
         "data": {
-            "population": "1389680",
-            "size": "2137"
+            "population": 1389680,
+            "size": 2137
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "381",
+        "id": 381,
         "name": "Eskisehir",
         "data": {
-            "population": "871187",
-            "size": "2678"
+            "population": 871187,
+            "size": 2678
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "382",
+        "id": 382,
         "name": "Samsun",
         "data": {
-            "population": "1335716",
-            "size": "1055"
+            "population": 1335716,
+            "size": 1055
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "383",
+        "id": 383,
         "name": "Denizli",
         "data": {
-            "population": "1005687",
-            "size": "798"
+            "population": 1005687,
+            "size": 798
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "384",
+        "id": 384,
         "name": "Trabzon",
         "data": {
-            "population": "779379",
-            "size": "188"
+            "population": 779379,
+            "size": 188
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "385",
+        "id": 385,
         "name": "Erzurum",
         "data": {
-            "population": "762321",
-            "size": "1900"
+            "population": 762321,
+            "size": 1900
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "386",
+        "id": 386,
         "name": "Gaziantep",
         "data": {
-            "population": "1974244",
-            "size": "6819"
+            "population": 1974244,
+            "size": 6819
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "387",
+        "id": 387,
         "name": "Diyarbakir",
         "data": {
-            "population": "1654196",
-            "size": "1529"
+            "population": 1654196,
+            "size": 1529
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "388",
+        "id": 388,
         "name": "Manisa",
         "data": {
-            "population": "1429643",
-            "size": "1232"
+            "population": 1429643,
+            "size": 1232
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "389",
+        "id": 389,
         "name": "Sivas",
         "data": {
-            "population": "621224",
-            "size": "2768"
+            "population": 621224,
+            "size": 2768
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "390",
+        "id": 390,
         "name": "Aydin",
         "data": {
-            "population": "1097746",
-            "size": "1582"
+            "population": 1097746,
+            "size": 1582
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "391",
+        "id": 391,
         "name": "Erzincan",
         "data": {
-            "population": "226032",
-            "size": "1489"
+            "population": 226032,
+            "size": 1489
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "392",
+        "id": 392,
         "name": "Tokat",
         "data": {
-            "population": "602662",
-            "size": "999"
+            "population": 602662,
+            "size": 999
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "393",
+        "id": 393,
         "name": "Usak",
         "data": {
-            "population": "358736",
-            "size": "529"
+            "population": 358736,
+            "size": 529
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "394",
+        "id": 394,
         "name": "Afyonkarahisar",
         "data": {
-            "population": "714523",
-            "size": "1025"
+            "population": 714523,
+            "size": 1025
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "395",
+        "id": 395,
         "name": "Elazig",
         "data": {
-            "population": "595638",
-            "size": "917"
+            "population": 595638,
+            "size": 917
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "396",
+        "id": 396,
         "name": "Malatya",
         "data": {
-            "population": "781305",
-            "size": "1241"
+            "population": 781305,
+            "size": 1241
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "397",
+        "id": 397,
         "name": "Kahramanmaras",
         "data": {
-            "population": "1127623",
-            "size": "1453"
+            "population": 1127623,
+            "size": 1453
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "398",
+        "id": 398,
         "name": "Adapazari",
         "data": {
-            "population": "1029650",
-            "size": "1582"
+            "population": 1029650,
+            "size": 1582
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "399",
+        "id": 399,
         "name": "Isparta",
         "data": {
-            "population": "448298",
-            "size": "825"
+            "population": 448298,
+            "size": 825
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "400",
+        "id": 400,
         "name": "Balikesir",
         "data": {
-            "population": "1196176",
-            "size": "1454"
+            "population": 1196176,
+            "size": 1454
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "401",
+        "id": 401,
         "name": "Edirne",
         "data": {
-            "population": "401701",
-            "size": "844"
+            "population": 401701,
+            "size": 844
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "402",
+        "id": 402,
         "name": "Hatay",
         "data": {
-            "population": "1609856",
-            "size": "1302"
+            "population": 1609856,
+            "size": 1302
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "403",
+        "id": 403,
         "name": "Kirikkale",
         "data": {
-            "population": "277984",
-            "size": "469"
+            "population": 277984,
+            "size": 469
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "404",
+        "id": 404,
         "name": "Zonguldak",
         "data": {
-            "population": "595907",
-            "size": "259"
+            "population": 595907,
+            "size": 259
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "405",
+        "id": 405,
         "name": "Adiyaman",
         "data": {
-            "population": "624513",
-            "size": "1679"
+            "population": 624513,
+            "size": 1679
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "406",
+        "id": 406,
         "name": "Ordu",
         "data": {
-            "population": "750588",
-            "size": "303"
+            "population": 750588,
+            "size": 303
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "407",
+        "id": 407,
         "name": "Mugla",
         "data": {
-            "population": "967487",
-            "size": "1327"
+            "population": 967487,
+            "size": 1327
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "408",
+        "id": 408,
         "name": "Mardin",
         "data": {
-            "population": "829195",
-            "size": "969"
+            "population": 829195,
+            "size": 969
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "409",
+        "id": 409,
         "name": "Tekirdag",
         "data": {
-            "population": "1029927",
-            "size": "621"
+            "population": 1029927,
+            "size": 621
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "410",
+        "id": 410,
         "name": "Kutahya",
         "data": {
-            "population": "573642",
-            "size": "1693"
+            "population": 573642,
+            "size": 1693
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "411",
+        "id": 411,
         "name": "Canakkale",
         "data": {
-            "population": "540662",
-            "size": "933"
+            "population": 540662,
+            "size": 933
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "412",
+        "id": 412,
         "name": "Yalova",
         "data": {
-            "population": "262234",
-            "size": "166"
+            "population": 262234,
+            "size": 166
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "413",
+        "id": 413,
         "name": "Rize",
         "data": {
-            "population": "331048",
-            "size": "361"
+            "population": 331048,
+            "size": 361
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "414",
+        "id": 414,
         "name": "Giresun",
         "data": {
-            "population": "444467",
-            "size": "283"
+            "population": 444467,
+            "size": 283
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "415",
+        "id": 415,
         "name": "Agri",
         "data": {
-            "population": "539657",
-            "size": "1123"
+            "population": 539657,
+            "size": 1123
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "416",
+        "id": 416,
         "name": "Amasya",
         "data": {
-            "population": "326351",
-            "size": "570"
+            "population": 326351,
+            "size": 570
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "417",
+        "id": 417,
         "name": "Bitlis",
         "data": {
-            "population": "341225",
-            "size": "697"
+            "population": 341225,
+            "size": 697
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "418",
+        "id": 418,
         "name": "Bolu",
         "data": {
-            "population": "311810",
-            "size": "743"
+            "population": 311810,
+            "size": 743
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "419",
+        "id": 419,
         "name": "Burdur",
         "data": {
-            "population": "267092",
-            "size": "714"
+            "population": 267092,
+            "size": 714
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "420",
+        "id": 420,
         "name": "Cankiri",
         "data": {
-            "population": "183880",
-            "size": "749"
+            "population": 183880,
+            "size": 749
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "421",
+        "id": 421,
         "name": "Corum",
         "data": {
-            "population": "527863",
-            "size": "1278"
+            "population": 527863,
+            "size": 1278
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "422",
+        "id": 422,
         "name": "Duzce",
         "data": {
-            "population": "387844",
-            "size": "259"
+            "population": 387844,
+            "size": 259
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "423",
+        "id": 423,
         "name": "Hakkari",
         "data": {
-            "population": "286470",
-            "size": "706"
+            "population": 286470,
+            "size": 706
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "424",
+        "id": 424,
         "name": "Karaman",
         "data": {
-            "population": "251913",
-            "size": "885"
+            "population": 251913,
+            "size": 885
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "425",
+        "id": 425,
         "name": "Kars",
         "data": {
-            "population": "289786",
-            "size": "1804"
+            "population": 289786,
+            "size": 1804
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "426",
+        "id": 426,
         "name": "Kastamonu",
         "data": {
-            "population": "376945",
-            "size": "1380"
+            "population": 376945,
+            "size": 1380
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "427",
+        "id": 427,
         "name": "Kirklareli",
         "data": {
-            "population": "361836",
-            "size": "655"
+            "population": 361836,
+            "size": 655
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "428",
+        "id": 428,
         "name": "Kirsehir",
         "data": {
-            "population": "229975",
-            "size": "679"
+            "population": 229975,
+            "size": 679
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "429",
+        "id": 429,
         "name": "Mus",
         "data": {
-            "population": "406501",
-            "size": "819"
+            "population": 406501,
+            "size": 819
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "430",
+        "id": 430,
         "name": "Nevsehir",
         "data": {
-            "population": "298339",
-            "size": "538"
+            "population": 298339,
+            "size": 538
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "431",
+        "id": 431,
         "name": "Nigde",
         "data": {
-            "population": "351468",
-            "size": "742"
+            "population": 351468,
+            "size": 742
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "432",
+        "id": 432,
         "name": "Sinop",
         "data": {
-            "population": "219733",
-            "size": "580"
+            "population": 219733,
+            "size": 580
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "433",
+        "id": 433,
         "name": "Sirnak",
         "data": {
-            "population": "524190",
-            "size": "729"
+            "population": 524190,
+            "size": 729
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "434",
+        "id": 434,
         "name": "Tunceli",
         "data": {
-            "population": "82193",
-            "size": "749"
+            "population": 82193,
+            "size": 749
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "435",
+        "id": 435,
         "name": "Yozgat",
         "data": {
-            "population": "419440",
-            "size": "1412"
+            "population": 419440,
+            "size": 1412
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "436",
+        "id": 436,
         "name": "Aksaray",
         "data": {
-            "population": "412172",
-            "size": "791"
+            "population": 412172,
+            "size": 791
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "437",
+        "id": 437,
         "name": "Bayburt",
         "data": {
-            "population": "90154",
-            "size": "370"
+            "population": 90154,
+            "size": 370
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "438",
+        "id": 438,
         "name": "Karabuk",
         "data": {
-            "population": "248014",
-            "size": "425"
+            "population": 248014,
+            "size": 425
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "439",
+        "id": 439,
         "name": "Kilis",
         "data": {
-            "population": "142541",
-            "size": "142"
+            "population": 142541,
+            "size": 142
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "440",
+        "id": 440,
         "name": "Osmaniye",
         "data": {
-            "population": "534415",
-            "size": "319"
+            "population": 534415,
+            "size": 319
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "441",
+        "id": 441,
         "name": "Ardahan",
         "data": {
-            "population": "97096",
-            "size": "496"
+            "population": 97096,
+            "size": 496
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "442",
+        "id": 442,
         "name": "Artvin",
         "data": {
-            "population": "168370",
-            "size": "753"
+            "population": 168370,
+            "size": 753
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "443",
+        "id": 443,
         "name": "Bartin",
         "data": {
-            "population": "198999",
-            "size": "230"
+            "population": 198999,
+            "size": 230
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "444",
+        "id": 444,
         "name": "Batman",
         "data": {
-            "population": "608659",
-            "size": "472"
+            "population": 608659,
+            "size": 472
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "445",
+        "id": 445,
         "name": "Bilecik",
         "data": {
-            "population": "218297",
-            "size": "425"
+            "population": 218297,
+            "size": 425
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "446",
+        "id": 446,
         "name": "Bingol",
         "data": {
-            "population": "281205",
-            "size": "825"
+            "population": 281205,
+            "size": 825
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "447",
+        "id": 447,
         "name": "Gumushane",
         "data": {
-            "population": "172034",
-            "size": "657"
+            "population": 172034,
+            "size": 657
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "448",
+        "id": 448,
         "name": "Igdir",
         "data": {
-            "population": "197456",
-            "size": "358"
+            "population": 197456,
+            "size": 358
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "449",
+        "id": 449,
         "name": "Siirt",
         "data": {
-            "population": "331670",
-            "size": "523"
+            "population": 331670,
+            "size": 523
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "450",
+        "id": 450,
         "name": "Van",
         "data": {
-            "population": "1123784",
-            "size": "2289"
+            "population": 1123784,
+            "size": 2289
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "451",
+        "id": 451,
         "name": "Kocaeli",
         "data": {
-            "population": "1906391",
-            "size": "345"
+            "population": 1906391,
+            "size": 345
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "452",
+        "id": 452,
         "name": "Sanliurfa",
         "data": {
-            "population": "2035809",
-            "size": "1936"
+            "population": 2035809,
+            "size": 1936
         },
-        "country_id": "33"
+        "country_id": 33
     },
     {
-        "id": "453",
+        "id": 453,
         "name": "Ushuaia",
         "data": {
-            "population": "74548",
-            "size": "23"
+            "population": 74548,
+            "size": 23
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "454",
+        "id": 454,
         "name": "Mendoza",
         "data": {
-            "population": "115041",
-            "size": "57"
+            "population": 115041,
+            "size": 57
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "455",
+        "id": 455,
         "name": "Cordoba",
         "data": {
-            "population": "1391000",
-            "size": "576"
+            "population": 1391000,
+            "size": 576
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "456",
+        "id": 456,
         "name": "Rosario",
         "data": {
-            "population": "1193605",
-            "size": "178"
+            "population": 1193605,
+            "size": 178
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "457",
+        "id": 457,
         "name": "Tucuman",
         "data": {
-            "population": "828000",
-            "size": "90"
+            "population": 828000,
+            "size": 90
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "458",
+        "id": 458,
         "name": "Salta",
         "data": {
-            "population": "535303",
-            "size": "60"
+            "population": 535303,
+            "size": 60
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "459",
+        "id": 459,
         "name": "Mar del Plata",
         "data": {
-            "population": "614350",
-            "size": "79"
+            "population": 614350,
+            "size": 79
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "460",
+        "id": 460,
         "name": "Santa Fe",
         "data": {
-            "population": "391231",
-            "size": "268"
+            "population": 391231,
+            "size": 268
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "461",
+        "id": 461,
         "name": "Resistencia",
         "data": {
-            "population": "290723",
-            "size": "562"
+            "population": 290723,
+            "size": 562
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "462",
+        "id": 462,
         "name": "Neuquen",
         "data": {
-            "population": "231780",
-            "size": "63"
+            "population": 231780,
+            "size": 63
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "463",
+        "id": 463,
         "name": "Formosa",
         "data": {
-            "population": "222226",
-            "size": "73"
+            "population": 222226,
+            "size": 73
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "464",
+        "id": 464,
         "name": "San Salvador de Jujuy",
         "data": {
-            "population": "298000",
-            "size": "19"
+            "population": 298000,
+            "size": 19
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "465",
+        "id": 465,
         "name": "Parana",
         "data": {
-            "population": "247863",
-            "size": "137"
+            "population": 247863,
+            "size": 137
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "466",
+        "id": 466,
         "name": "Posadas",
         "data": {
-            "population": "275028",
-            "size": "324"
+            "population": 275028,
+            "size": 324
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "467",
+        "id": 467,
         "name": "San Juan",
         "data": {
-            "population": "471389",
-            "size": "30"
+            "population": 471389,
+            "size": 30
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "468",
+        "id": 468,
         "name": "Corrientes",
         "data": {
-            "population": "346334",
-            "size": "500"
+            "population": 346334,
+            "size": 500
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "469",
+        "id": 469,
         "name": "Bahia Blanca",
         "data": {
-            "population": "301572",
-            "size": "2300"
+            "population": 301572,
+            "size": 2300
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "470",
+        "id": 470,
         "name": "Catamarca",
         "data": {
-            "population": "210000",
-            "size": "684"
+            "population": 210000,
+            "size": 684
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "471",
+        "id": 471,
         "name": "La Rioja",
         "data": {
-            "population": "180995",
-            "size": "13"
+            "population": 180995,
+            "size": 13
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "472",
+        "id": 472,
         "name": "Comodoro Rivadavia",
         "data": {
-            "population": "175196",
-            "size": "548"
+            "population": 175196,
+            "size": 548
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "473",
+        "id": 473,
         "name": "San Luis",
         "data": {
-            "population": "169947",
-            "size": "7.5"
+            "population": 169947,
+            "size": null
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "474",
+        "id": 474,
         "name": "Rio Cuarto",
         "data": {
-            "population": "158298",
-            "size": "64"
+            "population": 158298,
+            "size": 64
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "475",
+        "id": 475,
         "name": "Tandil",
         "data": {
-            "population": "123871",
-            "size": "50"
+            "population": 123871,
+            "size": 50
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "476",
+        "id": 476,
         "name": "San Rafael",
         "data": {
-            "population": "118009",
-            "size": "58"
+            "population": 118009,
+            "size": 58
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "477",
+        "id": 477,
         "name": "San Nicolas de los Arroyos",
         "data": {
-            "population": "145857",
-            "size": "33"
+            "population": 145857,
+            "size": 33
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "478",
+        "id": 478,
         "name": "Junin",
         "data": {
-            "population": "87509",
-            "size": "28"
+            "population": 87509,
+            "size": 28
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "479",
+        "id": 479,
         "name": "Trelew",
         "data": {
-            "population": "97915",
-            "size": "249"
+            "population": 97915,
+            "size": 249
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "480",
+        "id": 480,
         "name": "Pergamino",
         "data": {
-            "population": "91399",
-            "size": "33"
+            "population": 91399,
+            "size": 33
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "481",
+        "id": 481,
         "name": "Olavarria",
         "data": {
-            "population": "111708",
-            "size": "52"
+            "population": 111708,
+            "size": 52
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "482",
+        "id": 482,
         "name": "Rafaela",
         "data": {
-            "population": "92945",
-            "size": "156"
+            "population": 92945,
+            "size": 156
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "483",
+        "id": 483,
         "name": "Campana",
         "data": {
-            "population": "94461",
-            "size": "955"
+            "population": 94461,
+            "size": 955
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "484",
+        "id": 484,
         "name": "Zarate",
         "data": {
-            "population": "98522",
-            "size": "1202"
+            "population": 98522,
+            "size": 1202
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "485",
+        "id": 485,
         "name": "Gualeguaychu",
         "data": {
-            "population": "83116",
-            "size": "20"
+            "population": 83116,
+            "size": 20
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "486",
+        "id": 486,
         "name": "Concordia",
         "data": {
-            "population": "149450",
-            "size": "30"
+            "population": 149450,
+            "size": 30
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "487",
+        "id": 487,
         "name": "Venado Tuerto",
         "data": {
-            "population": "76432",
-            "size": "53"
+            "population": 76432,
+            "size": 53
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "488",
+        "id": 488,
         "name": "Reconquista",
         "data": {
-            "population": "73293",
-            "size": "517"
+            "population": 73293,
+            "size": 517
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "489",
+        "id": 489,
         "name": "Rio Gallegos",
         "data": {
-            "population": "95796",
-            "size": "8000"
+            "population": 95796,
+            "size": 8000
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "490",
+        "id": 490,
         "name": "Esquel",
         "data": {
-            "population": "32758",
-            "size": "30"
+            "population": 32758,
+            "size": 30
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "491",
+        "id": 491,
         "name": "Viedma",
         "data": {
-            "population": "52789",
-            "size": "1250"
+            "population": 52789,
+            "size": 1250
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "492",
+        "id": 492,
         "name": "Rawson",
         "data": {
-            "population": "31787",
-            "size": "300"
+            "population": 31787,
+            "size": 300
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "493",
+        "id": 493,
         "name": "Puerto Madryn",
         "data": {
-            "population": "81995",
-            "size": "330"
+            "population": 81995,
+            "size": 330
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "494",
+        "id": 494,
         "name": "Caleta Olivia",
         "data": {
-            "population": "70304",
-            "size": "51"
+            "population": 70304,
+            "size": 51
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "495",
+        "id": 495,
         "name": "Cipolletti",
         "data": {
-            "population": "77713",
-            "size": "60"
+            "population": 77713,
+            "size": 60
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "496",
+        "id": 496,
         "name": "General Roca",
         "data": {
-            "population": "81534",
-            "size": "11367"
+            "population": 81534,
+            "size": 11367
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "497",
+        "id": 497,
         "name": "San Carlos de Bariloche",
         "data": {
-            "population": "112887",
-            "size": "220"
+            "population": 112887,
+            "size": 220
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "498",
+        "id": 498,
         "name": "Tartagal",
         "data": {
-            "population": "60585",
-            "size": "2401"
+            "population": 60585,
+            "size": 2401
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "499",
+        "id": 499,
         "name": "Goya",
         "data": {
-            "population": "77349",
-            "size": "4678"
+            "population": 77349,
+            "size": 4678
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "500",
+        "id": 500,
         "name": "Punta Alta",
         "data": {
-            "population": "57296",
-            "size": "14"
+            "population": 57296,
+            "size": 14
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "501",
+        "id": 501,
         "name": "Tafi Viejo",
         "data": {
-            "population": "48459",
-            "size": "156"
+            "population": 48459,
+            "size": 156
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "502",
+        "id": 502,
         "name": "Villa Maria",
         "data": {
-            "population": "79351",
-            "size": "30"
+            "population": 79351,
+            "size": 30
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "503",
+        "id": 503,
         "name": "Concepcion del Uruguay",
         "data": {
-            "population": "73729",
-            "size": "20"
+            "population": 73729,
+            "size": 20
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "504",
+        "id": 504,
         "name": "Presidencia Roque Saenz Pena",
         "data": {
-            "population": "96944",
-            "size": "35"
+            "population": 96944,
+            "size": 35
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "505",
-        "name": "Oberá",
+        "id": 505,
+        "name": "Ober\u00e1",
         "data": {
-            "population": "55493",
-            "size": "82"
+            "population": 55493,
+            "size": 82
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "506",
+        "id": 506,
         "name": "Eldorado",
         "data": {
-            "population": "47556",
-            "size": "1960"
+            "population": 47556,
+            "size": 1960
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "507",
+        "id": 507,
         "name": "San Pedro",
         "data": {
-            "population": "45012",
-            "size": "39"
+            "population": 45012,
+            "size": 39
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "508",
+        "id": 508,
         "name": "Chivilcoy",
         "data": {
-            "population": "58152",
-            "size": "2057"
+            "population": 58152,
+            "size": 2057
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "509",
+        "id": 509,
         "name": "Mercedes",
         "data": {
-            "population": "56759",
-            "size": "1050"
+            "population": 56759,
+            "size": 1050
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "510",
+        "id": 510,
         "name": "Trenque Lauquen",
         "data": {
-            "population": "33442",
-            "size": "5509"
+            "population": 33442,
+            "size": 5509
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "511",
+        "id": 511,
         "name": "Azul",
         "data": {
-            "population": "53054",
-            "size": "6615"
+            "population": 53054,
+            "size": 6615
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "512",
+        "id": 512,
         "name": "Tres Arroyos",
         "data": {
-            "population": "45986",
-            "size": "5861"
+            "population": 45986,
+            "size": 5861
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "513",
+        "id": 513,
         "name": "Necochea",
         "data": {
-            "population": "84784",
-            "size": "4455"
+            "population": 84784,
+            "size": 4455
         },
-        "country_id": "64"
+        "country_id": 64
     },
     {
-        "id": "514",
+        "id": 514,
         "name": "Punta Arenas",
         "data": {
-            "population": "127454",
-            "size": "17846"
+            "population": 127454,
+            "size": 17846
         },
-        "country_id": "66"
+        "country_id": 66
     },
     {
-        "id": "515",
+        "id": 515,
         "name": "Valdivia",
         "data": {
-            "population": "154445",
-            "size": "1016"
+            "population": 154445,
+            "size": 1016
         },
-        "country_id": "66"
+        "country_id": 66
     },
     {
-        "id": "516",
+        "id": 516,
         "name": "Osorno",
         "data": {
-            "population": "161460",
-            "size": "951"
+            "population": 161460,
+            "size": 951
         },
-        "country_id": "66"
+        "country_id": 66
     },
     {
-        "id": "517",
+        "id": 517,
         "name": "Puerto Montt",
         "data": {
-            "population": "245902",
-            "size": "1673"
+            "population": 245902,
+            "size": 1673
         },
-        "country_id": "66"
+        "country_id": 66
     },
     {
-        "id": "518",
-        "name": "Wąbrzeźno",
+        "id": 518,
+        "name": "W\u0105brze\u017ano",
         "data": {
-            "population": "13877",
-            "size": "9"
+            "population": 13877,
+            "size": 9
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "519",
+        "id": 519,
         "name": "Brodnica",
         "data": {
-            "population": "28536",
-            "size": "23"
+            "population": 28536,
+            "size": 23
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "520",
+        "id": 520,
         "name": "Ciechocinek",
         "data": {
-            "population": "10000",
-            "size": "15"
+            "population": 10000,
+            "size": 15
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "521",
-        "name": "Włocławek",
+        "id": 521,
+        "name": "W\u0142oc\u0142awek",
         "data": {
-            "population": "100000",
-            "size": "85"
+            "population": 100000,
+            "size": 85
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "522",
+        "id": 522,
         "name": "Pruszcz",
         "data": {
-            "population": "2700",
-            "size": "7"
+            "population": 2700,
+            "size": 7
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "523",
-        "name": "Pruszcz Gdański",
+        "id": 523,
+        "name": "Pruszcz Gda\u0144ski",
         "data": {
-            "population": "32000",
-            "size": "17"
+            "population": 32000,
+            "size": 17
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "524",
+        "id": 524,
         "name": "Osiek",
         "data": {
-            "population": "1000",
-            "size": "NULL"
+            "population": 1000,
+            "size": null
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "525",
+        "id": 525,
         "name": "Lisewo",
         "data": {
-            "population": "1799",
-            "size": "NULL"
+            "population": 1799,
+            "size": null
         },
-        "country_id": "1"
+        "country_id": 1
     },
     {
-        "id": "526",
+        "id": 526,
         "name": "Kornatowo",
         "data": {
-            "population": "400",
-            "size": "NULL"
+            "population": 400,
+            "size": null
         },
-        "country_id": "1"
+        "country_id": 1
     }
 ]
