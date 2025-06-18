@@ -1116,6 +1116,852 @@
         "country_id": "5"
     },
     {
+        "id": "125",
+        "name": "Mała Nieszawka",
+        "data": {
+            "population": "2200",
+            "size": "NULL"
+        },
+        "country_id": "1"
+    },
+    {
+        "id": "126",
+        "name": "Książki",
+        "data": {
+            "population": "2000",
+            "size": "NULL"
+        },
+        "country_id": "1"
+    },
+    {
+        "id": "127",
+        "name": "Kuczwały",
+        "data": {
+            "population": "470",
+            "size": "NULL"
+        },
+        "country_id": "1"
+    },
+    {
+        "id": "128",
+        "name": "Chełmża",
+        "data": {
+            "population": "14000",
+            "size": "NULL"
+        },
+        "country_id": "1"
+    },
+    {
+        "id": "129",
+        "name": "Grębocin",
+        "data": {
+            "population": "3000",
+            "size": "NULL"
+        },
+        "country_id": "1"
+    },
+    {
+        "id": "130",
+        "name": "Lubicz Dolny",
+        "data": {
+            "population": "3200",
+            "size": "NULL"
+        },
+        "country_id": "1"
+    },
+    {
+        "id": "131",
+        "name": "Lubicz Górny",
+        "data": {
+            "population": "3600",
+            "size": "NULL"
+        },
+        "country_id": "1"
+    },
+    {
+        "id": "132",
+        "name": "Toronto",
+        "data": {
+            "population": "2800000",
+            "size": "631"
+        },
+        "country_id": "7"
+    },
+    {
+        "id": "133",
+        "name": "Ontario",
+        "data": {
+            "population": "175000",
+            "size": "130"
+        },
+        "country_id": "6"
+    },
+    {
+        "id": "134",
+        "name": "Windsor",
+        "data": {
+            "population": "237000",
+            "size": "57"
+        },
+        "country_id": "7"
+    },
+    {
+        "id": "135",
+        "name": "Halifax",
+        "data": {
+            "population": "349000",
+            "size": "238"
+        },
+        "country_id": "7"
+    },
+    {
+        "id": "136",
+        "name": "Vancouver",
+        "data": {
+            "population": "662000",
+            "size": "124"
+        },
+        "country_id": "7"
+    },
+    {
+        "id": "137",
+        "name": "Malmo",
+        "data": {
+            "population": "362000",
+            "size": "333"
+        },
+        "country_id": "9"
+    },
+    {
+        "id": "138",
+        "name": "Helsinki",
+        "data": {
+            "population": "687000",
+            "size": "716"
+        },
+        "country_id": "10"
+    },
+    {
+        "id": "139",
+        "name": "Oslo",
+        "data": {
+            "population": "1101000",
+            "size": "480"
+        },
+        "country_id": "11"
+    },
+    {
+        "id": "140",
+        "name": "Cluj-Napoca",
+        "data": {
+            "population": "287000",
+            "size": "180"
+        },
+        "country_id": "15"
+    },
+    {
+        "id": "141",
+        "name": "Sofia",
+        "data": {
+            "population": "1292000",
+            "size": "500"
+        },
+        "country_id": "16"
+    },
+    {
+        "id": "142",
+        "name": "Athens",
+        "data": {
+            "population": "643000",
+            "size": "412"
+        },
+        "country_id": "17"
+    },
+    {
+        "id": "143",
+        "name": "Ljubljana",
+        "data": {
+            "population": "300000",
+            "size": "275"
+        },
+        "country_id": "18"
+    },
+    {
+        "id": "144",
+        "name": "Madrid",
+        "data": {
+            "population": "3460000",
+            "size": "604"
+        },
+        "country_id": "21"
+    },
+    {
+        "id": "145",
+        "name": "Dublin",
+        "data": {
+            "population": "1535000",
+            "size": "345"
+        },
+        "country_id": "23"
+    },
+    {
+        "id": "146",
+        "name": "Luxembourg City",
+        "data": {
+            "population": "136000",
+            "size": "52"
+        },
+        "country_id": "24"
+    },
+    {
+        "id": "147",
+        "name": "Andorra la Vella",
+        "data": {
+            "population": "22000",
+            "size": "12"
+        },
+        "country_id": "27"
+    },
+    {
+        "id": "148",
+        "name": "Vaduz",
+        "data": {
+            "population": "5700",
+            "size": "17"
+        },
+        "country_id": "28"
+    },
+    {
+        "id": "149",
+        "name": "City of San Marino",
+        "data": {
+            "population": "4100",
+            "size": "7"
+        },
+        "country_id": "29"
+    },
+    {
+        "id": "150",
+        "name": "Vatican City",
+        "data": {
+            "population": "882",
+            "size": "1"
+        },
+        "country_id": "30"
+    },
+    {
+        "id": "151",
+        "name": "Reykjavik",
+        "data": {
+            "population": "139000",
+            "size": "244"
+        },
+        "country_id": "32"
+    },
+    {
+        "id": "152",
+        "name": "Izmir",
+        "data": {
+            "population": "2940000",
+            "size": "919"
+        },
+        "country_id": "33"
+    },
+    {
+        "id": "153",
+        "name": "Busan",
+        "data": {
+            "population": "3344000",
+            "size": "770"
+        },
+        "country_id": "35"
+    },
+    {
+        "id": "154",
+        "name": "Seoul",
+        "data": {
+            "population": "9600000",
+            "size": "605"
+        },
+        "country_id": "35"
+    },
+    {
+        "id": "155",
+        "name": "Pyongyang",
+        "data": {
+            "population": "3158000",
+            "size": "829"
+        },
+        "country_id": "36"
+    },
+    {
+        "id": "156",
+        "name": "Ulaanbaatar",
+        "data": {
+            "population": "1673000",
+            "size": "4704"
+        },
+        "country_id": "37"
+    },
+    {
+        "id": "157",
+        "name": "Taipei",
+        "data": {
+            "population": "2495000",
+            "size": "272"
+        },
+        "country_id": "39"
+    },
+    {
+        "id": "158",
+        "name": "Tehran",
+        "data": {
+            "population": "9039000",
+            "size": "615"
+        },
+        "country_id": "40"
+    },
+    {
+        "id": "159",
+        "name": "Kabul",
+        "data": {
+            "population": "7175000",
+            "size": "383"
+        },
+        "country_id": "41"
+    },
+    {
+        "id": "160",
+        "name": "Islamabad",
+        "data": {
+            "population": "1109000",
+            "size": "220"
+        },
+        "country_id": "42"
+    },
+    {
+        "id": "161",
+        "name": "New Delhi",
+        "data": {
+            "population": "250000",
+            "size": "43"
+        },
+        "country_id": "43"
+    },
+    {
+        "id": "162",
+        "name": "",
+        "data": {
+            "population": "10279000",
+            "size": "306"
+        },
+        "country_id": "44"
+    },
+    {
+        "id": "163",
+        "name": "Yangon",
+        "data": {
+            "population": "5161000",
+            "size": "599"
+        },
+        "country_id": "45"
+    },
+    {
+        "id": "164",
+        "name": "Bangkok",
+        "data": {
+            "population": "8305000",
+            "size": "1569"
+        },
+        "country_id": "46"
+    },
+    {
+        "id": "165",
+        "name": "Ho Chi Minh City",
+        "data": {
+            "population": "14003000",
+            "size": "6772"
+        },
+        "country_id": "47"
+    },
+    {
+        "id": "166",
+        "name": "Phnom Penh",
+        "data": {
+            "population": "2353000",
+            "size": "679"
+        },
+        "country_id": "48"
+    },
+    {
+        "id": "167",
+        "name": "Vientiane",
+        "data": {
+            "population": "841000",
+            "size": "3920"
+        },
+        "country_id": "49"
+    },
+    {
+        "id": "168",
+        "name": "Kathmandu",
+        "data": {
+            "population": "857000",
+            "size": "50"
+        },
+        "country_id": "50"
+    },
+    {
+        "id": "169",
+        "name": "Thimphu",
+        "data": {
+            "population": "115000",
+            "size": "26"
+        },
+        "country_id": "51"
+    },
+    {
+        "id": "170",
+        "name": "Lhasa",
+        "data": {
+            "population": "465000",
+            "size": "525"
+        },
+        "country_id": "52"
+    },
+    {
+        "id": "171",
+        "name": "Manila",
+        "data": {
+            "population": "1847000",
+            "size": "42"
+        },
+        "country_id": "53"
+    },
+    {
+        "id": "172",
+        "name": "Kuala Lumpur",
+        "data": {
+            "population": "2076000",
+            "size": "243"
+        },
+        "country_id": "54"
+    },
+    {
+        "id": "173",
+        "name": "Singapore",
+        "data": {
+            "population": "6040000",
+            "size": "736"
+        },
+        "country_id": "55"
+    },
+    {
+        "id": "174",
+        "name": "Sydney",
+        "data": {
+            "population": "5557000",
+            "size": "12368"
+        },
+        "country_id": "57"
+    },
+    {
+        "id": "175",
+        "name": "Wellington",
+        "data": {
+            "population": "210000",
+            "size": "290"
+        },
+        "country_id": "58"
+    },
+    {
+        "id": "176",
+        "name": "Cairo",
+        "data": {
+            "population": "10100000",
+            "size": "2734"
+        },
+        "country_id": "59"
+    },
+    {
+        "id": "177",
+        "name": "Jerusalem",
+        "data": {
+            "population": "982000",
+            "size": "125"
+        },
+        "country_id": "60"
+    },
+    {
+        "id": "178",
+        "name": "Addis Ababa",
+        "data": {
+            "population": "5957000",
+            "size": "527"
+        },
+        "country_id": "61"
+    },
+    {
+        "id": "179",
+        "name": "Rio de Janeiro",
+        "data": {
+            "population": "6211000",
+            "size": "1221"
+        },
+        "country_id": "63"
+    },
+    {
+        "id": "180",
+        "name": "La Plata",
+        "data": {
+            "population": "193000",
+            "size": "27"
+        },
+        "country_id": "64"
+    },
+    {
+        "id": "181",
+        "name": "Montevideo",
+        "data": {
+            "population": "1287000",
+            "size": "201"
+        },
+        "country_id": "65"
+    },
+    {
+        "id": "182",
+        "name": "Santiago",
+        "data": {
+            "population": "6269000",
+            "size": "641"
+        },
+        "country_id": "66"
+    },
+    {
+        "id": "183",
+        "name": "La Paz",
+        "data": {
+            "population": "756000",
+            "size": "472"
+        },
+        "country_id": "67"
+    },
+    {
+        "id": "184",
+        "name": "Lima",
+        "data": {
+            "population": "10092000",
+            "size": "2672"
+        },
+        "country_id": "68"
+    },
+    {
+        "id": "185",
+        "name": "Quito",
+        "data": {
+            "population": "1763000",
+            "size": "198"
+        },
+        "country_id": "69"
+    },
+    {
+        "id": "186",
+        "name": "Bogota",
+        "data": {
+            "population": "8035000",
+            "size": "1587"
+        },
+        "country_id": "70"
+    },
+    {
+        "id": "187",
+        "name": "Caracas",
+        "data": {
+            "population": "3242000",
+            "size": "433"
+        },
+        "country_id": "71"
+    },
+    {
+        "id": "188",
+        "name": "Baghdad",
+        "data": {
+            "population": "7921000",
+            "size": "673"
+        },
+        "country_id": "72"
+    },
+    {
+        "id": "189",
+        "name": "Aleppo",
+        "data": {
+            "population": "2098000",
+            "size": "190"
+        },
+        "country_id": "73"
+    },
+    {
+        "id": "190",
+        "name": "Amman",
+        "data": {
+            "population": "4061000",
+            "size": "1680"
+        },
+        "country_id": "74"
+    },
+    {
+        "id": "191",
+        "name": "Riyadh",
+        "data": {
+            "population": "7009000",
+            "size": "1973"
+        },
+        "country_id": "75"
+    },
+    {
+        "id": "192",
+        "name": "Muscat",
+        "data": {
+            "population": "1720000",
+            "size": "3500"
+        },
+        "country_id": "76"
+    },
+    {
+        "id": "193",
+        "name": "Sanaa",
+        "data": {
+            "population": "2545000",
+            "size": "126"
+        },
+        "country_id": "77"
+    },
+    {
+        "id": "194",
+        "name": "Dubai",
+        "data": {
+            "population": "3945000",
+            "size": "544"
+        },
+        "country_id": "78"
+    },
+    {
+        "id": "195",
+        "name": "Kuwait City",
+        "data": {
+            "population": "120000",
+            "size": "860"
+        },
+        "country_id": "79"
+    },
+    {
+        "id": "196",
+        "name": "Doha",
+        "data": {
+            "population": "1186000",
+            "size": "132"
+        },
+        "country_id": "80"
+    },
+    {
+        "id": "197",
+        "name": "Beirut",
+        "data": {
+            "population": "433000",
+            "size": "19"
+        },
+        "country_id": "81"
+    },
+    {
+        "id": "198",
+        "name": "Marrakesh",
+        "data": {
+            "population": "929000",
+            "size": "NULL"
+        },
+        "country_id": "82"
+    },
+    {
+        "id": "199",
+        "name": "Oran",
+        "data": {
+            "population": "938000",
+            "size": "2121"
+        },
+        "country_id": "83"
+    },
+    {
+        "id": "200",
+        "name": "Benghazi",
+        "data": {
+            "population": "859000",
+            "size": "314"
+        },
+        "country_id": "84"
+    },
+    {
+        "id": "201",
+        "name": "Nairobi",
+        "data": {
+            "population": "4397000",
+            "size": "696"
+        },
+        "country_id": "85"
+    },
+    {
+        "id": "202",
+        "name": "Dodoma",
+        "data": {
+            "population": "765000",
+            "size": "2576"
+        },
+        "country_id": "86"
+    },
+    {
+        "id": "203",
+        "name": "Windhoek",
+        "data": {
+            "population": "486000",
+            "size": "5133"
+        },
+        "country_id": "87"
+    },
+    {
+        "id": "204",
+        "name": "Leopoldville",
+        "data": {
+            "population": "16316000",
+            "size": "6000"
+        },
+        "country_id": "88"
+    },
+    {
+        "id": "205",
+        "name": "Bangui",
+        "data": {
+            "population": "812000",
+            "size": "67"
+        },
+        "country_id": "89"
+    },
+    {
+        "id": "206",
+        "name": "N'Djamena",
+        "data": {
+            "population": "807000",
+            "size": "104"
+        },
+        "country_id": "90"
+    },
+    {
+        "id": "207",
+        "name": "Djibouti City",
+        "data": {
+            "population": "777000",
+            "size": "200"
+        },
+        "country_id": "91"
+    },
+    {
+        "id": "208",
+        "name": "Mogadishu",
+        "data": {
+            "population": "2727000",
+            "size": "560"
+        },
+        "country_id": "92"
+    },
+    {
+        "id": "209",
+        "name": "Luanda",
+        "data": {
+            "population": "2831000",
+            "size": "116"
+        },
+        "country_id": "93"
+    },
+    {
+        "id": "210",
+        "name": "Maputo",
+        "data": {
+            "population": "1088000",
+            "size": "348"
+        },
+        "country_id": "94"
+    },
+    {
+        "id": "211",
+        "name": "Libreville",
+        "data": {
+            "population": "704000",
+            "size": "66"
+        },
+        "country_id": "95"
+    },
+    {
+        "id": "212",
+        "name": "Havana",
+        "data": {
+            "population": "2143000",
+            "size": "728"
+        },
+        "country_id": "96"
+    },
+    {
+        "id": "213",
+        "name": "Port-au-Prince",
+        "data": {
+            "population": "1200000",
+            "size": "36"
+        },
+        "country_id": "97"
+    },
+    {
+        "id": "214",
+        "name": "Santo Domingo",
+        "data": {
+            "population": "1029000",
+            "size": "1502"
+        },
+        "country_id": "98"
+    },
+    {
+        "id": "215",
+        "name": "Kingston",
+        "data": {
+            "population": "662000",
+            "size": "25"
+        },
+        "country_id": "99"
+    },
+    {
+        "id": "216",
+        "name": "Gaborone",
+        "data": {
+            "population": "246000",
+            "size": "169"
+        },
+        "country_id": "100"
+    },
+    {
+        "id": "217",
+        "name": "Harare",
+        "data": {
+            "population": "1492000",
+            "size": "982"
+        },
+        "country_id": "101"
+    },
+    {
+        "id": "218",
+        "name": "Tijuana",
+        "data": {
+            "population": "1811000",
+            "size": "637"
+        },
+        "country_id": "102"
+    },
+    {
         "id": "",
         "name": "",
         "data": {

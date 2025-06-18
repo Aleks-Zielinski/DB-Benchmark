@@ -1,5 +1,0 @@
-https://learnmongodbthehardway.com/schema/schemabasics/
-https://cswr.github.io/JsonSchema/spec/arrays/
-https://www.mongodb.com/docs/manual/reference/operator/query/jsonSchema/#mongodb-query-op.-jsonSchema
-https://www.mongodb.com/docs/manual/core/schema-validation/specify-json-schema/
-https://www.w3schools.com/mongodb/mongodb_mongosh_insert.php

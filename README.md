@@ -11,6 +11,7 @@ May/June 2025.
 - [sql_nosql folder](./sql_nosql) contains queries that were used for the tests.
 - [latex folder](./latex) contains a .tex file and compiled pdf file from it.
 - [db_schema folder](./db_schema) contains a logical model of our database.
+- [tutorial folder](./tutorial) contains an installation process of PostgreSQL and MongoDB.
 
 # Our project (in Polish)
 1. Zaprojektować schemat dokumentów JSON dla wybranego tematu. Należy mieć min 2 typy dokumentów na osobę w projekcie. Minimum jeden typ musi mieć dokumenty zagnieżdżone

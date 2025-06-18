@@ -489,7 +489,7 @@
         "id": "55",
         "name": "Singapore",
         "data": {
-            "population": "6000000",
+            "population": "6040000",
             "size": "736"
         },
         "continent_id": "2"
@@ -775,7 +775,7 @@
     },
     {
         "id": "87",
-        "name": "",
+        "name": "Namibia",
         "data": {
             "population": "3000000",
             "size": "826000"
