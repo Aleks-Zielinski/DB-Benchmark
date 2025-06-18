@@ -5,7 +5,7 @@
 \usepackage{graphicx}
 \usepackage{subcaption}
 \usepackage[a4paper, total={6in, 9in}]{geometry}
-\graphicspath{{../tutorial/}{../db_schema}}
+\graphicspath{{../tutorial/}{../db_schema}{../json}}
 
 \title{\textbf{Benchmark baz danych}}
 \author{Aleks Zieliński, Filip Kalinowski}
@@ -65,9 +65,20 @@
 			\includegraphics[width=\textwidth]{db-bench.png}
 			\caption{Schemat logiczny zrobiony w serwisie dbdiagram.io}
 		\end{figure}
+	\subsection{Przykładowe dane z plików JSON}
+		\begin{figure}[h]
+			\includegraphics[width=\textwidth]{JSON_examples_1.png}
+			\caption{Pliki JSON od lewej: Cities, Continents, Countries, Discoveries}
+		\end{figure}
+
+\newpage
+		\begin{figure}[h]
+			\includegraphics[width=\textwidth]{JSON_examples_2.png}
+			\caption{Pliki JSON od lewej: Field\_of\_sciences, Scientists}
+		\end{figure}
 \section{Instalacja baz danych}
 	\subsection{PostgreSQL}
-		\begin{figure}[h]
+		\begin{figure}[!h]
 			\includegraphics[width=\textwidth]{1_instalacja_postgresa.png}
 			\caption{Instalacja za pomocą apt}
 		\end{figure}
@@ -106,13 +117,13 @@
 	\subsection{Zapytania}
 		\begin{enumerate}
 			\item Wybierz państwo które ma najwięcej odkryć z fizyki oraz nazwa państwa kończy się na "a"
-			\item Znajdź najstarsze i najmłodsze odkrycie z ZSRR z chemii
-			\item Znajdź miasto które nie ma żadnych odkryć w biologii po 1960 roku
+			\item Znajdź najstarsze i najmłodsze odkrycie z USA z fizyki
+			\item Znajdź państwa które mają odkrycia z biologii po 1960 roku
 			\item Znajdź średnią liczbę wszystkich odkryć na rok w każdym państwie w europie
-			\item wypisz dziedzine w której każde państwo z azji dokonało najwięcej odkryć
+			\item Wypisz dziedzine w której każde państwo z europy dokonało najwięcej odkryć
 			\item Wypisz średnią liczbę odkryć na naukowca z każdego kontynetu
 			\item Znajdź państwo z największą średnią liczbą odkryć na osobę
-			\item Znajdź miasto z którego pochodzący naukowcy dokonali najwięcej odkryć z fizyki
+			\item Znajdź miasto z którego pochodzi najwięcej fizyków
 		\end{enumerate}
 	\subsection{Zapytania w PostgreSQL}
 		mnkln
