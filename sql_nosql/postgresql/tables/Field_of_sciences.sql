@@ -1,9 +1,9 @@
-CREATE TABLE "Field_of_sciences" (
+CREATE TABLE Field_of_sciences (
   "id" bigint,
   "name" text
 );
 
-INSERT INTO "Field_of_sciences" ("id","name")
+INSERT INTO Field_of_sciences ("id","name")
 VALUES
 (1,'Physics'),
 (2,'Biology'),

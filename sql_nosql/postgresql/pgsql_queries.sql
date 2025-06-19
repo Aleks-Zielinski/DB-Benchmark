@@ -8,7 +8,7 @@ alter table "Continents" rename to continents;
 alter table "Countries" rename to countries;
 
 --1
-explain analyze select * from scientists
+select * from scientists
 inner join discovered_by on scientists.id = discovered_by.scientist_id
 inner join discoveries on discovered_by.discovery_id = discoveries.id
 inner join field_of_sciences on discoveries.field_of_science_id = field_of_sciences.id
@@ -59,8 +59,8 @@ where lower(countries.name) = 'united states of america'
     where lower(countries.name) = 'united states of america'
       and lower(field_of_sciences.name) = 'biology'
   );
---3
 
+--3
 select * from scientists
 inner join discovered_by on scientists.id = discovered_by.scientist_id
 inner join discoveries on discovered_by.discovery_id = discoveries.id

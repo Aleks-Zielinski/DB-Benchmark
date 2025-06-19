@@ -1,4 +1,4 @@
-CREATE TABLE "Countries" (
+CREATE TABLE Countries (
   "id" bigint,
   "name" text,
   "data.population" bigint,
@@ -6,7 +6,7 @@ CREATE TABLE "Countries" (
   "continent_id" bigint
 );
 
-INSERT INTO "Countries" ("id","name","data.population","data.size","continent_id")
+INSERT INTO Countries ("id","name","data.population","data.size","continent_id")
 VALUES
 (1,'Poland',38000000,313000,1),
 (2,'France',67000000,644000,1),

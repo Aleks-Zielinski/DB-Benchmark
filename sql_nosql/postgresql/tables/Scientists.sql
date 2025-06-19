@@ -1,4 +1,4 @@
-CREATE TABLE "Scientists" (
+CREATE TABLE Scientists (
   "id" bigint,
   "full_name.name" text,
   "full_name.surname" text,
@@ -7,7 +7,7 @@ CREATE TABLE "Scientists" (
   "place_of_birth_id" bigint
 );
 
-INSERT INTO "Scientists" ("id","full_name.name","full_name.surname","dates.birthdate","dates.deathdate","place_of_birth_id")
+INSERT INTO Scientists ("id","full_name.name","full_name.surname","dates.birthdate","dates.deathdate","place_of_birth_id")
 VALUES
 (1,'Albert','Einstein','1879-03-14','1955-04-18',1),
 (2,'Alexander','Fleming','1881-08-06','1955-03-11',2),

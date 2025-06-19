@@ -7,7 +7,7 @@
 \usepackage{subcaption}
 \usepackage[a4paper, total={6in, 9in}]{geometry}
 
-\graphicspath{{../tutorial/}{../db_schema/}{../json/}{../sql_nosql/mongodb/screenshots/}}
+\graphicspath{{../tutorial/}{../db_schema/}{../sql_nosql/mongodb/screenshots/}{../sql_nosql/postgresql/screenshots/}}
 
 \title{\textbf{Benchmark baz danych}}
 \author{Aleks Zieliński, Filip Kalinowski}
@@ -79,6 +79,13 @@
 			\includegraphics[width=\textwidth]{JSON_examples_2.png}
 			\caption{Pliki JSON od lewej: Field\_of\_sciences, Scientists}
 		\end{figure}
+	\subsection{Baza danych i dane w PostgreSQL}
+		\begin{figure}[!ht]
+			\includegraphics[width=\textwidth]{sqlki.png}
+			\caption{Wszystkie JSONy po konwersji na sql}
+		\end{figure}
+
+\newpage
 \section{Instalacja baz danych}
 	\subsection{PostgreSQL}
 		\begin{figure}[!ht]
@@ -95,44 +102,60 @@
 			\includegraphics[width=\textwidth]{3_instalacja_pgadmin_wiem_co_robie.png}
 			\caption{Instalacja pgadmina z serwera ftp PostgreSQL}
 		\end{figure}
-
-\newpage
 	\subsection{MongoDB}
 		\begin{figure}[!ht]
 			\includegraphics[width=\textwidth]{4_importowanie_klucza_gpg.png}
 			\caption{Importowanie kluczy gpg do MongoDB}
 		\end{figure}
+
+\newpage
 		\begin{figure}[!ht]
 			\includegraphics[width=\textwidth]{5_tworzenie_pliku_z_listami_source_do_repo.png}
 			\caption{Stworzenie pliku z listą źródeł do pobierania repo/package}
 		\end{figure}
-
-\newpage
 		\begin{figure}[!ht]
 			\includegraphics[width=\textwidth]{6_instalacja_mongodb.png}
 			\caption{Instalacja MongoDB}
 		\end{figure}
+
+\newpage
 		\begin{figure}[!ht]
 			\includegraphics[width=\textwidth]{7_zmiana_ustawien_dotyczacych_plikow.png}
 			\caption{Zwiększenie limitu otwartych plików z 1024 do 64000}
 		\end{figure}
-
-\newpage
 		\begin{figure}[!ht]
 			\includegraphics[width=\textwidth]{8_uruchomienie_sprawdzenie_i_aktywacja_autouruchamiania_mongodb.png}
 			\caption{Uruchomienie MongoDB, sprawdzenie statusu i włączenie autouruchamiania}
 		\end{figure}
-\section{Lista zapytań po polsku}
-	\begin{enumerate}
-		\item  Wybierz państwo którego nazwa kończy się na "a" i ma najwięcej odkryć z fizyki
-		\item Znajdź najstarsze i najmłodsze odkrycie z USA z biologii
-		\item Znajdź państwa które mają odkrycia z biologii po 1960 roku
-		\item Znajdź średnią liczbę wszystkich odkryć na państwo w każdym kontynencie
-		\item  Wypisz dziedzine w której każde państwo z europy dokonało najwięcej odkryć
-		\item  Wypisz średnią liczbę odkryć na naukowca z każdego kontynetu
-		\item  Znajdź państwo z największą średnią liczbą odkryć na kilometr kwadratowy
-		\item Znajdź miasto z którego pochodzi najwięcej fizyków
-	\end{enumerate}
+
+\newpage
+\section{Listy zapytań}
+	\subsection{Oryginalne pomysły zapytań}
+		\begin{enumerate}
+			\item Wybierz naukowców którzy pochodzą z azji i odkryli więcej niż 5 rzeczy z biologii lub chemii
+			\item Wybierz państwo które ma najwięcej odkryć z fizyki oraz nazwa państwa kończy się na "a"
+			\item Zlicz ile odkryć z matematyki ma każdy kontynent
+			\item Znajdź naukowców którzy nie żyją i mają wiecej odkryć niż 3 z wszystkiego oprócz fizyki, dodatkowo wypisz liczbę ich odkryć poza fizyką
+			\item Znajdź miasto których naukowcy mają najwięcej odkryć w chemii
+			\item Znajdź najstarsze i najmłodsze odkrycie z ZSRR z chemii
+			\item Znajdź miasto które nie ma żadnych odkryć w biologii po 1960 roku
+			\item Znajdź średnią liczbę wszystkich odkryć na rok w każdym państwie w europie
+			\item Wypisz dziedzine w której każde państwo z azji dokonało najwięcej odkryć
+			\item Wypisz średnią liczbę odkryć na naukowca z każdego kontynetu
+			\item Znajdź państwo z największą średnią liczbą odkryć na osobę
+			\item Znajdź miasto z którego pochodzący naukowcy dokonali najwięcej odkryć z fizyki
+		\end{enumerate}
+	\subsection{Finalne zapytania}
+		\begin{enumerate}
+			\item  Wybierz państwo którego nazwa kończy się na "a" i ma najwięcej odkryć z fizyki
+			\item Znajdź najstarsze i najmłodsze odkrycie z USA z biologii
+			\item Znajdź państwa które mają odkrycia z biologii po 1960 roku
+			\item Znajdź średnią liczbę wszystkich odkryć na państwo w każdym kontynencie
+			\item  Wypisz dziedzine w której każde państwo z europy dokonało najwięcej odkryć
+			\item  Wypisz średnią liczbę odkryć na naukowca z każdego kontynetu
+			\item  Znajdź państwo z największą średnią liczbą odkryć na kilometr kwadratowy
+			\item Znajdź miasto z którego pochodzi najwięcej fizyków
+		\end{enumerate}
 
 \newpage
 \section{Zapytania w MongoDB}
@@ -166,14 +189,14 @@
 				\includegraphics[width=200px]{m4_1.png}
 			\end{center}
 		\end{figure}
-
+		
 \newpage
 		\begin{figure}[!ht]
 			\begin{center}
 				\includegraphics[width=350px]{m4_2.png}
 			\end{center}
 		\end{figure}
-
+	
 \newpage
 	\subsection{Zapytanie 5}
 		\begin{figure}[!ht]
@@ -181,14 +204,13 @@
 				\includegraphics[width=250px]{m5_1.png}
 			\end{center}
 		\end{figure}
-
+		
 \newpage
 		\begin{figure}[!ht]
 			\begin{center}
 				\includegraphics[width=250px]{m5_2.png}
 			\end{center}
 		\end{figure}
-
 
 \newpage
 	\subsection{Zapytanie 6}
@@ -197,8 +219,8 @@
 				\includegraphics[width=250px]{m6.png}
 			\end{center}
 		\end{figure}
-
-\newpage
+	
+\newpage	
 	\subsection{Zapytanie 7}
 		\begin{figure}[!ht]
 			\begin{center}
@@ -216,9 +238,61 @@
 
 \newpage
 \section{Zapytania w PostgreSQL}
-	mnkln
-\section{Zapytania w PostgreSQL w JSONB}
-	faafefe
+	\subsection{Zapytanie 1}
+		\begin{figure}[!ht]
+			\begin{center}
+				\includegraphics[width=\textwidth]{s1.png}
+			\end{center}
+		\end{figure}
+	\subsection{Zapytanie 2}
+		\begin{figure}[!ht]
+			\begin{center}
+				\includegraphics[width=300px]{s2.png}
+			\end{center}
+		\end{figure}
+
+\newpage
+	\subsection{Zapytanie 3}
+		\begin{figure}[!ht]
+			\begin{center}
+				\includegraphics[width=\textwidth]{s3.png}
+			\end{center}
+		\end{figure}
+	\subsection{Zapytanie 4}
+		\begin{figure}[!ht]
+			\begin{center}
+				\includegraphics[width=400px]{s4.png}
+			\end{center}
+		\end{figure}
+
+\newpage
+	\subsection{Zapytanie 5}
+		\begin{figure}[!ht]
+			\begin{center}
+				\includegraphics[width=350px]{s5.png}
+			\end{center}
+		\end{figure}
+	\subsection{Zapytanie 6}
+		\begin{figure}[!ht]
+			\begin{center}
+				\includegraphics[width=350px]{s6.png}
+			\end{center}
+		\end{figure}
+
+\newpage
+	\subsection{Zapytanie 7}
+		\begin{figure}[!ht]
+			\begin{center}
+				\includegraphics[width=350px]{s7.png}
+			\end{center}
+		\end{figure}
+	\subsection{Zapytanie 8}
+		\begin{figure}[!ht]
+			\begin{center}
+				\includegraphics[width=350px]{s8.png}
+			\end{center}
+		\end{figure}
+
 
 \newpage
 \section{Porównanie czasowe zapytań}
@@ -227,23 +301,23 @@
 	\begin{center}
 		\begin{tabular}{ccccc}
 			\toprule
-			Zapytanie & MongoDB & PostreSQL-JSONB & PostrgreSQL &  \\
+			Zapytanie & MongoDB & PostrgreSQL & PostreSQL-JSONB &  \\
 			\midrule
-			1         & 22ms    &                 &             &  \\
+			1         & 22ms    & 57ms        & n/a             &  \\
 			\midrule
-			2         & 4ms     &                 &             &  \\
+			2         & 4ms     & 59ms        & n/a             &  \\
 			\midrule
-			3		  & 1ms     &                 &             &  \\
+			3		  & 1ms     & 57ms        & n/a             &  \\
 			\midrule
-			4		  & 41ms    &                 &             &  \\
+			4		  & 41ms    & 67ms        & n/a             &  \\
 			\midrule
-			5		  & 49ms    &                 &             &  \\
+			5		  & 49ms    & 80ms        & n/a             &  \\
 			\midrule
-			6		  & 54ms    &                 &             &  \\
+			6		  & 54ms    & 80ms        & n/a             &  \\
 			\midrule
-			7		  & 70ms    &                 &             &  \\
+			7		  & 70ms    & 79ms        & n/a             &  \\
 			\midrule
-			8		  & 42ms    &                 &             &  \\
+			8		  & 42ms    & 67ms        & n/a             &  \\
 			\bottomrule
 		\end{tabular}
 	\end{center}
@@ -253,8 +327,11 @@
 		\item Brak udokumentowania procesu instalacji MongoDB Compass - zapomnieliśmy
 		\item Brak udokumentowania procesu importowania do MongoDB - jedno kliknięcie w MongoDB Compass
 		\item Brak udokumentowania procesu importowania do PostgreSQL JSONB - proszę zrozumieć, Filip po tym będzie miał traumę
+		\item Brak zrobienia testów z poleceń PostreSQL JSONB - brak czasu i trauma Filipa po importowaniu (udało się zimporotwać ale trauma wygrała i nie udało się zrobić poleceń)
 		\item Brak udokumentowania procesu importowania do PostgreSQL - proste wklejenie sql z pliku do pgAdmin
-		\item Słabe/Bezsensowne zapytania czy JSONy - nie dostaliśmy akcepta na czas :c
+		\item Słabe/Bezsensowne zapytania - nie dostaliśmy akcepta na czas :c
+		\item Wiemy, że zrobiliśmy kiepskie JSONy w sensie do MongoDB ale chcieliśmy móc je prosto przekonwertować do PostgreSQL i nie mieliśmy nigdy doświedczenie w projektowaniu ich jako bazy danych
+		\item Wszystkie JSONy pisaliśmy sami, zawierają odkrycia z 20 wieku, miasta i państwa posiadają najnowsze dane na temat populacji i wielkości, co do ich lokacji to korzystaliśmy z mapy z okresu zimnej wojny
 		\item Cały projekt z plikami - https://github.com/Aleks-Zielinski/DB-Benchmark
 	\end{itemize}
 

@@ -1,10 +1,10 @@
-CREATE TABLE "Continents" (
+CREATE TABLE Continents (
   "id" bigint,
   "name" text,
   "size" bigint
 );
 
-INSERT INTO "Continents" ("id","name","size")
+INSERT INTO Continents ("id","name","size")
 VALUES
 (1,'Europe',10000000),
 (2,'Asia',44000000),

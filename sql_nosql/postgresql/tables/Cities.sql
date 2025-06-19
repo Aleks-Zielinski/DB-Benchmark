@@ -1,4 +1,4 @@
-CREATE TABLE "Cities" (
+CREATE TABLE Cities (
   "id" bigint,
   "name" text,
   "data.population" bigint NULL,
@@ -6,7 +6,7 @@ CREATE TABLE "Cities" (
   "country_id" bigint
 );
 
-INSERT INTO "Cities" ("id","name","data.population","data.size","country_id")
+INSERT INTO Cities ("id","name","data.population","data.size","country_id")
 VALUES
 (1,'Ulm',129000,118,4),
 (2,'Lochfield',34700,14,8),
