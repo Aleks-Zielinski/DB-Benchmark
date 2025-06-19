@@ -26,28 +26,29 @@
 \begin{document}
 \maketitle
 
+\newpage
 \begingroup
 \tableofcontents
 \endgroup
 
 \newpage
 \section{Informacje wstępne}
-	\subsection{Załozenia projektu}
-		\begin{itemize}
+	\subsection{Założenia projektu}
+		\begin{enumerate}
 			\item Zaprojektować schemat dokumentów JSON dla wybranego tematu. Należy mieć min 2 typy dokumentów na osobę w projekcie. Minimum jeden typ musi mieć dokumenty zagnieżdżone
 			\item  Opracowany model, wraz z propozycją najważniejszych/najbardziej rozbudowanych poleceń należy zatwierdzić u wykładowcy (ew. poprawić wg. sugestii)
 			\item Dla każdego typu dokumentu wygenerować min 100 sensownych instancji. Jeden z typów powinien mieć minimum 500 instancji. Dane można generować automatami typu generatedata.com bądź napisać 4 skrypt w pythonie (dodatkowe punkty).
 			\item  Tak przygotowane dokumenty należy zaimportować do:
-			\begin{enumerate}
+			\begin{itemize}
 				\item Wybranej bazy NoSQL
 				\item PostgreSQLa do kolumn typu JSONB
 				\item PostgreSQLa przy jednoczesnej konwersji JSON na tabele
-			\end{enumerate}
+			\end{itemize}
 			\item Wszystkie 3 procesy importowania należy udokumentować screenshotami i zapisanymi wykorzystanymi poleceniami
 			\item  Należy utworzyć min 4 zapytania na osobę realizujące najważniejsze problemy wyszukiwania w tworzonej bazie. 
 			\item Każde z zapytań musi mieć 3 wersje dla 3 sytuacji z pkt 4. 
 			\item Należy przeprowadzić eksperyment pomiaru czasu wykonania tych zapytań. Aby eksperyment był rzetelnie przeprowadzony, zarówno baza NoSQLowa, jak i PostgreSQL muszą operować w podobnych warunkach: albo obie bazy są postawione w osobnych dockerach, albo zainstalowane w tym samym OS, ale uruchamiane jedna na raz (proces instalacji musi być udokumentowany). Wyniki czasowe należy przedstawić w tabelce
-		\end{itemize}
+		\end{enumerate}
 	\subsection{Użyte technologie i sprzęt}
 		\begin{itemize}
 			\item PostgreSQL - wersja 16.9
@@ -121,7 +122,7 @@
 			\includegraphics[width=\textwidth]{8_uruchomienie_sprawdzenie_i_aktywacja_autouruchamiania_mongodb.png}
 			\caption{Uruchomienie MongoDB, sprawdzenie statusu i włączenie autouruchamiania}
 		\end{figure}
-\section{Zapytania}
+\section{Lista zapytań po polsku}
 	\begin{enumerate}
 		\item  Wybierz państwo którego nazwa kończy się na "a" i ma najwięcej odkryć z fizyki
 		\item Znajdź najstarsze i najmłodsze odkrycie z USA z biologii
@@ -218,6 +219,8 @@
 	mnkln
 \section{Zapytania w PostgreSQL w JSONB}
 	faafefe
+
+\newpage
 \section{Porównanie czasowe zapytań}
 	Po wykonaniu każdego zapytania odpowiednio, otrzymaliśmy następujące wyniki:
 	\begin{table}[!ht]
@@ -245,5 +248,14 @@
 		\end{tabular}
 	\end{center}
 	\end{table}
+\section{Uwagi końcowe}
+	\begin{itemize}
+		\item Brak udokumentowania procesu instalacji MongoDB Compass - zapomnieliśmy
+		\item Brak udokumentowania procesu importowania do MongoDB - jedno kliknięcie w MongoDB Compass
+		\item Brak udokumentowania procesu importowania do PostgreSQL JSONB - proszę zrozumieć, Filip po tym będzie miał traumę
+		\item Brak udokumentowania procesu importowania do PostgreSQL - proste wklejenie sql z pliku do pgAdmin
+		\item Słabe/Bezsensowne zapytania czy JSONy - nie dostaliśmy akcepta na czas :c
+		\item Cały projekt z plikami - https://github.com/Aleks-Zielinski/DB-Benchmark
+	\end{itemize}
 
 \end{document}

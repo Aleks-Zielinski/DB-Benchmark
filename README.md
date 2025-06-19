@@ -5,7 +5,7 @@ Nicolaus Copernicus University in Toruń,
 Aleks Zieliński & Filip Kalinowski.
 May/June 2025.
 
-# Respository
+# Repository
 - [json folder](./json) containt json files on which the tests were done (json files are in English).
 - [csv folder](./csv) contains data form the benchmark tests.
 - [sql_nosql folder](./sql_nosql) contains queries that were used for the tests.
