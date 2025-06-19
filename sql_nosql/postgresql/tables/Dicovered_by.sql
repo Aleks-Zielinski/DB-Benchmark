@@ -1,9 +1,9 @@
-CREATE TABLE "Discoveries" (
+CREATE TABLE discovered_by (
   "discovery_id" bigint,
   "scientist_id" bigint
 );
 -- Klucz głowny, para (discovery_id, scientist_id), nigdy nie będzie dwóch takich samych
-INSERT INTO "Discoveries" ("discovery_id","scientist_id")
+INSERT INTO discovered_by ("discovery_id","scientist_id")
 VALUES
 (1,1),
 (2,2),

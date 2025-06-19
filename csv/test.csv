@@ -1,9 +1,9 @@
 query, postgre, postgresJSONB, mongo, notes
-1, NULL, NULL, 22, nienawizde tego
-2, NULL, NULL, 4, to samo co wyzej
-3, NULL, NULL, 1, to samo co wyzej
-4, NULL, NULL, 41, to samo co wyzej
-5, NULL, NULL, 49, to samo co wyzej
-6, NULL, NULL, 54, to samo co wyzej
-7, NULL, NULL, 70, to samo co wyzej
-8, NULL, NULL, 42, to samo co wyzej
+1, 57, NULL, 22, nienawizde tego
+2, 59, NULL, 4, to samo co wyzej
+3, 57, NULL, 1, to samo co wyzej
+4, 67, NULL, 41, to samo co wyzej
+5, 80, NULL, 49, to samo co wyzej
+6, 80, NULL, 54, to samo co wyzej
+7, 79, NULL, 70, to samo co wyzej
+8, 67, NULL, 42, to samo co wyzej

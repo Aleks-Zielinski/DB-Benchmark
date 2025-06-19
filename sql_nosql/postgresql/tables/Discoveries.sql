@@ -1,4 +1,4 @@
-CREATE TABLE "Discoveries" (
+CREATE TABLE discoveries (
   "id" bigint,
   "name" text,
   "year_of_discovery" bigint,
@@ -6,7 +6,7 @@ CREATE TABLE "Discoveries" (
   "discovered_by_ids" json
 );
 
-INSERT INTO "Discoveries" ("id","name","year_of_discovery","field_of_science_id","discovered_by_ids")
+INSERT INTO discoveries ("id","name","year_of_discovery","field_of_science_id","discovered_by_ids")
 VALUES
 (1,'Special Relativity',1905,1,'[1]'),
 (2,'Penicilin',1928,6,'[2]'),
